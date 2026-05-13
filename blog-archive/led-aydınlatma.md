@@ -3134,6 +3134,6 @@ Daha fazla teknik detay için kapsamlı LED Aydınlatma Nedir? rehberimize göz 
     
 
 ---
-**Asıl Kaynak (Canonical):** [Led Aydınlatma](https://ledlamba.com/led-aydinlatma/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/led-aydinlatma/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

@@ -264,6 +264,6 @@ Diğer Aydınlatma Rehberleri
     
 
 ---
-**Asıl Kaynak (Canonical):** [Dekoratif Aydınlatmalar 2026](https://ledlamba.com/dekoratif-aydinlatma/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/dekoratif-aydinlatma/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

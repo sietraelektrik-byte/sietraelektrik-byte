@@ -208,6 +208,6 @@ Kaliteli gövde ve soğutma yapısına sahip ürünler kullanılmalı
     
 
 ---
-**Asıl Kaynak (Canonical):** [LED Projektör Arızaları ve Çözümleri](https://ledlamba.com/led-projektor-arizalari-ve-cozumleri/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/led-projektor-arizalari-ve-cozumleri/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

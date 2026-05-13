@@ -243,6 +243,6 @@ Mutfak, konutun &#8220;mağazası&#8221; gibidir. Tezgah üstü için yüksek CR
     
 
 ---
-**Asıl Kaynak (Canonical):** [Tekirdağ Mağaza ve Konut LED Aydınlatma Ürünleri Kullanım Farkları Rehberi 2026](https://ledlamba.com/tekirdag-magaza-ve-konut-led-aydinlatma-urunleri-kullanim-farklari-rehberi-2026/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/tekirdag-magaza-ve-konut-led-aydinlatma-urunleri-kullanim-farklari-rehberi-2026/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

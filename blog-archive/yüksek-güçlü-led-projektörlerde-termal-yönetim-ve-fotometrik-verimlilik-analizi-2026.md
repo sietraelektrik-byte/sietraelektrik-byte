@@ -132,6 +132,6 @@ Endüstriyel Projektörlerde Sürücü Verimliliği ve Akıllı Kontrol
     
 
 ---
-**Asıl Kaynak (Canonical):** [Yüksek Güçlü LED Projektörlerde Termal Yönetim ve Fotometrik Verimlilik Analizi 2026](https://ledlamba.com/led-projektor-verimlilik-analizi/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/led-projektor-verimlilik-analizi/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

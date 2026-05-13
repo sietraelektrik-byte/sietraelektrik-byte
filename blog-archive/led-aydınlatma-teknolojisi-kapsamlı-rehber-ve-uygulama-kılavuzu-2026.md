@@ -417,6 +417,6 @@ led teknolojileri genel kapsamlı rehber 2026
     
 
 ---
-**Asıl Kaynak (Canonical):** [LED Aydınlatma Teknolojisi: Kapsamlı Rehber ve Uygulama Kılavuzu 2026](https://ledlamba.com/led-aydinlatma-teknolojisi-kapsamli-rehber-ve-uygulama-kilavuzu-2026/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/led-aydinlatma-teknolojisi-kapsamli-rehber-ve-uygulama-kilavuzu-2026/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

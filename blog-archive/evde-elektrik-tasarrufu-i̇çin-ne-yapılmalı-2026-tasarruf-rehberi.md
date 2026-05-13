@@ -290,6 +290,6 @@ Led ampül rehberi
     
 
 ---
-**Asıl Kaynak (Canonical):** [Evde Elektrik Tasarrufu İçin Ne Yapılmalı? 2026 Tasarruf Rehberi](https://ledlamba.com/evde-elektrik-tasarrufu-icin-ne-yapilmali-2026-tasarruf-rehberi/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/evde-elektrik-tasarrufu-icin-ne-yapilmali-2026-tasarruf-rehberi/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

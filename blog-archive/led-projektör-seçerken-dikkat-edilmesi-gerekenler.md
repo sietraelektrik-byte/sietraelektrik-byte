@@ -274,6 +274,6 @@ Bu nedenle LED projektör seçimi, kısa vadeli değil uzun vadeli düşünülme
     
 
 ---
-**Asıl Kaynak (Canonical):** [LED Projektör Seçerken Dikkat Edilmesi Gerekenler](https://ledlamba.com/led-projektor-secerken-dikkat-edilmesi-gerekenler/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/led-projektor-secerken-dikkat-edilmesi-gerekenler/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

@@ -103,6 +103,6 @@ Bir sonraki adım: Hub sayfandaki “Watt mı lumen mi?” satırını bu yazıy
     
 
 ---
-**Asıl Kaynak (Canonical):** [Watt mı Lumen mi? Doğru Aydınlatma Nasıl Ölçülür? (Lux Hesaplarıyla Net Rehber)](https://ledlamba.com/watt-mi-lumen-mi-dogru-aydinlatma-nasil-olculur-lux-hesaplariyla-net-rehber/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/watt-mi-lumen-mi-dogru-aydinlatma-nasil-olculur-lux-hesaplariyla-net-rehber/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

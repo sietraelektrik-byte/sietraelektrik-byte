@@ -248,6 +248,6 @@ Elektrik Tasarrufu ile İlgili Diğer Rehber Yazılarımız
     
 
 ---
-**Asıl Kaynak (Canonical):** [Elektrik Tasarrufu Gerçekten İşe Yarar mı?](https://ledlamba.com/elektrik-tasarrufu-gercekten-ise-yarar-mi/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/elektrik-tasarrufu-gercekten-ise-yarar-mi/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

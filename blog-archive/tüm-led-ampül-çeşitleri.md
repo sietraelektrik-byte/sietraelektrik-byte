@@ -484,6 +484,6 @@ Tüm LED ampül çeşitleri, doğru seçildiğinde ortamın ışığını optimu
     
 
 ---
-**Asıl Kaynak (Canonical):** [Tüm LED Ampül Çeşitleri](https://ledlamba.com/tum-led-ampul-cesitleri/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/tum-led-ampul-cesitleri/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

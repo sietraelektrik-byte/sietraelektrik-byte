@@ -1838,6 +1838,6 @@ Tekirdağ ve çevresinde (Çorlu, Çerkezköy, Kapaklı gibi) konut ve küçük 
     
 
 ---
-**Asıl Kaynak (Canonical):** [Elektrik Faturası Nasıl Düşürülür?](https://ledlamba.com/elektrik-faturasi-nasil-dusurulur/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/elektrik-faturasi-nasil-dusurulur/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

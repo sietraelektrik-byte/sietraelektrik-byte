@@ -266,6 +266,6 @@ Elektrik faturasını düşürmek sadece bir başlangıç; bu bir bilinç ve ya�
     
 
 ---
-**Asıl Kaynak (Canonical):** [Elektrik faturası neden bu kadar yüksek geliyor?](https://ledlamba.com/elektrik-faturasi-neden-bu-kadar-yuksek-geliyor/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/elektrik-faturasi-neden-bu-kadar-yuksek-geliyor/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

@@ -176,6 +176,6 @@
     
 
 ---
-**Asıl Kaynak (Canonical):** [Прифатливи LED и соларни осветлувачки тела во Турција](https://ledlamba.com/%d0%bf%d1%80%d0%b8%d1%84%d0%b0%d1%82%d0%bb%d0%b8%d0%b2%d0%b8-led-%d0%b8-%d1%81%d0%be%d0%bb%d0%b0%d1%80%d0%bd%d0%b8-%d0%be%d1%81%d0%b2%d0%b5%d1%82%d0%bb%d1%83%d0%b2%d0%b0%d1%87%d0%ba%d0%b8-%d1%82%d0%b5/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/%d0%bf%d1%80%d0%b8%d1%84%d0%b0%d1%82%d0%bb%d0%b8%d0%b2%d0%b8-led-%d0%b8-%d1%81%d0%be%d0%bb%d0%b0%d1%80%d0%bd%d0%b8-%d0%be%d1%81%d0%b2%d0%b5%d1%82%d0%bb%d1%83%d0%b2%d0%b0%d1%87%d0%ba%d0%b8-%d1%82%d0%b5/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

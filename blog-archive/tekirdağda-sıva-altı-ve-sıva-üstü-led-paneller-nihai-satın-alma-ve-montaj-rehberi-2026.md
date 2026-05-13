@@ -397,6 +397,6 @@ LED panel seçiminde montaj tipi, kullanım alanı ve gerekli aydınlatma seviye
     
 
 ---
-**Asıl Kaynak (Canonical):** [Tekirdağ’da Sıva Altı ve Sıva Üstü LED Paneller: Nihai Satın Alma ve Montaj Rehberi 2026](https://ledlamba.com/tekirdagda-siva-alti-ve-siva-ustu-led-paneller-nihai-satin-alma-ve-montaj-rehberi-2026/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/tekirdagda-siva-alti-ve-siva-ustu-led-paneller-nihai-satin-alma-ve-montaj-rehberi-2026/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

@@ -311,6 +311,6 @@ Tekirdağ genelinde konut, ofis ve mağaza aydınlatma uygulamalarında edindiğ
     
 
 ---
-**Asıl Kaynak (Canonical):** [Tekirdağ’da En Uygun Fiyatlı Panel LED Nereden Alınır? Uzman Tavsiyeleri](https://ledlamba.com/tekirdag-uygun-fiyatli-panel-led-nereden-alinir/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/tekirdag-uygun-fiyatli-panel-led-nereden-alinir/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

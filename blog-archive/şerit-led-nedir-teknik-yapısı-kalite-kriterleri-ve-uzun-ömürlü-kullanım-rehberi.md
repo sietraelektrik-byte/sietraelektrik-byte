@@ -267,6 +267,6 @@ Mimarlar, elektrik uygulamacıları, proje firmaları ve profesyonel aydınlatma
     
 
 ---
-**Asıl Kaynak (Canonical):** [Şerit LED Nedir? Teknik Yapısı, Kalite Kriterleri ve Uzun Ömürlü Kullanım Rehberi](https://ledlamba.com/serit-led-teknik-rehberi/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/serit-led-teknik-rehberi/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

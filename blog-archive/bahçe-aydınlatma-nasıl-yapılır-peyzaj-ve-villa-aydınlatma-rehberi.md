@@ -807,6 +807,6 @@ LED aydınlatma blogu sayfasını ziyaret edebilirsiniz.
     
 
 ---
-**Asıl Kaynak (Canonical):** [Bahçe Aydınlatma Nasıl Yapılır? Peyzaj ve Villa Aydınlatma Rehberi](https://ledlamba.com/bahce-aydinlatma-nasil-yapilir/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/bahce-aydinlatma-nasil-yapilir/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

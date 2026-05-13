@@ -595,6 +595,6 @@ Eğer farklı alanlar için “kaç watt kaç metrekare aydınlatır” sorusunu
     
 
 ---
-**Asıl Kaynak (Canonical):** [LED Projektör Nedir? Kaç Watt Kaç Metrekare Aydınlatır?](https://ledlamba.com/led-projektor-kac-watt-kac-metrekare-aydinlatir/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/led-projektor-kac-watt-kac-metrekare-aydinlatir/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

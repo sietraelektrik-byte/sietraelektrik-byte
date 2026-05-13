@@ -53,6 +53,6 @@ Mağaza aydınlatması, bir satış alanının ürünleri doğru şekilde sergil
     
 
 ---
-**Asıl Kaynak (Canonical):** [Mağaza Aydınlatma Nedir?](https://ledlamba.com/magaza-aydinlatma-nedir/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/magaza-aydinlatma-nedir/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

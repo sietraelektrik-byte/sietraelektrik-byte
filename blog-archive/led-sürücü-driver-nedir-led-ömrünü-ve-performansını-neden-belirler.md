@@ -167,6 +167,6 @@ LED sürücü (driver), LED aydınlatmanın performansını ve ömrünü belirle
     
 
 ---
-**Asıl Kaynak (Canonical):** [LED Sürücü (Driver) Nedir? LED Ömrünü ve Performansını Neden Belirler?](https://ledlamba.com/led-surucu-driver-nedir-led-omrunu-ve-performansini-neden-belirler/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/led-surucu-driver-nedir-led-omrunu-ve-performansini-neden-belirler/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

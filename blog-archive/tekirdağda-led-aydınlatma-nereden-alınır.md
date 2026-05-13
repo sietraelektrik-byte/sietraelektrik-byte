@@ -177,6 +177,6 @@ Doğru aydınlatma, sadece ışık değil; konfor, verimlilik ve tasarruftur.
     
 
 ---
-**Asıl Kaynak (Canonical):** [Tekirdağ’da LED aydınlatma nereden alınır ?](https://ledlamba.com/led-aydinlatma-tekirdagda-nereden-alinir/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/led-aydinlatma-tekirdagda-nereden-alinir/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

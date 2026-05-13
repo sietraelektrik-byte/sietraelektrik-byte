@@ -439,6 +439,6 @@
     
 
 ---
-**Asıl Kaynak (Canonical):** [Tekirdağ’da Şerit LED mi Neon LED mi? Teknik İnceleme Rehberi (2026)](https://ledlamba.com/tekirdagda-serit-led-mi-neon-led-mi-teknik-inceleme-rehberi-2026/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/tekirdagda-serit-led-mi-neon-led-mi-teknik-inceleme-rehberi-2026/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

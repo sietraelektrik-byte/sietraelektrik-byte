@@ -217,6 +217,6 @@
     
 
 ---
-**Asıl Kaynak (Canonical):** [أنظمة إضاءة LED وإنارة شمسية بأسعار مناسبة من تركيا | Sietra Elektrik](https://ledlamba.com/led-lighting-turkey-syria/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/led-lighting-turkey-syria/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

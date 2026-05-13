@@ -160,6 +160,6 @@ Profesyonel uygulamalarda Philips ve Osram öne çıkar.
     
 
 ---
-**Asıl Kaynak (Canonical):** [LED Ray Spot Aydınlatma Nedir? Nerelerde Kullanılır?](https://ledlamba.com/led-ray-spot-aydinlatma/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/led-ray-spot-aydinlatma/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

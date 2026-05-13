@@ -97,6 +97,6 @@
     
 
 ---
-**Asıl Kaynak (Canonical):** [Доступні LED та сонячні освітлювальні системи з Туреччини](https://ledlamba.com/ukraine-led-lighting-systems/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/ukraine-led-lighting-systems/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

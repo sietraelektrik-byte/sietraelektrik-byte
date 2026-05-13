@@ -730,6 +730,6 @@ Tekirdağ’da LED projektör ve aydınlatma ürünlerini, Sietra Elektrik gibi 
     
 
 ---
-**Asıl Kaynak (Canonical):** [Tekirdağ Led Projektör Aydınlatma](https://ledlamba.com/tekirdag-led-projektor-aydinlatma-rehberi/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/tekirdag-led-projektor-aydinlatma-rehberi/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

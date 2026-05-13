@@ -172,6 +172,6 @@
     
 
 ---
-**Asıl Kaynak (Canonical):** [Ndriçues LED dhe solar me çmime të përballueshme në Turqi](https://ledlamba.com/otomatik-taslakndricues-led-dhe-solar-me-cmime-te-perballueshme-ne-turqi/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/otomatik-taslakndricues-led-dhe-solar-me-cmime-te-perballueshme-ne-turqi/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

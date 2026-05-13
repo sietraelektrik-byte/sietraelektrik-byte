@@ -115,6 +115,6 @@ Benzer arızalar aynı ortamda tekrar ediyorsa, ürünün yanı sıra montaj ko�
     
 
 ---
-**Asıl Kaynak (Canonical):** [LED Panel Neden Çabuk Bozulur? (Gerçek Sebepler ve Kalıcı Çözümler)](https://ledlamba.com/led-panel-neden-cabuk-bozulur-gercek-sebepler-ve-kalici-cozumler/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/led-panel-neden-cabuk-bozulur-gercek-sebepler-ve-kalici-cozumler/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

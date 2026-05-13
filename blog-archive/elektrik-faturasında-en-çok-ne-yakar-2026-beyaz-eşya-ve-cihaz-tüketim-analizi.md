@@ -231,6 +231,6 @@ Elektrik Faturası ve Tasarruf Konusunda İlgili Diğer Rehber Yazılarımız
     
 
 ---
-**Asıl Kaynak (Canonical):** [Elektrik Faturasında En Çok Ne Yakar? 2026 Beyaz Eşya ve Cihaz Tüketim Analizi](https://ledlamba.com/elektrik-faturasinda-en-cok-ne-yakar/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/elektrik-faturasinda-en-cok-ne-yakar/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

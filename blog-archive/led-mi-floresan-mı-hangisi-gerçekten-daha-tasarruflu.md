@@ -258,6 +258,6 @@ Diğer Rehber Yazılarımızı da Okuyabilirsiniz
     
 
 ---
-**Asıl Kaynak (Canonical):** [LED mi Floresan mı? Hangisi Gerçekten Daha Tasarruflu?](https://ledlamba.com/led-mi-floresan-mi-hangisi-gercekten-daha-tasarruflu/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/led-mi-floresan-mi-hangisi-gercekten-daha-tasarruflu/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

@@ -266,6 +266,6 @@ Bu bilgiler ışığında doğru kararı verir, hem enerji tasarrufu sağlar hem
     
 
 ---
-**Asıl Kaynak (Canonical):** [Led Ampül Tekirdağ](https://ledlamba.com/led-ampul-tekirdag/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/led-ampul-tekirdag/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

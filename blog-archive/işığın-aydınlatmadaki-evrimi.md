@@ -2072,6 +2072,6 @@ Teknik Not ve Yerel Uygulama Rehberi: Aydınlatma teknolojilerinin bu tarihsel g
     
 
 ---
-**Asıl Kaynak (Canonical):** [Işığın Aydınlatmadaki Evrimi](https://ledlamba.com/isigin-aydinlatmadaki-evrimi/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/isigin-aydinlatmadaki-evrimi/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

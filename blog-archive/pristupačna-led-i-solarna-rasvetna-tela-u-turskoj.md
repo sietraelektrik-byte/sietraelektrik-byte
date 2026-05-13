@@ -181,6 +181,6 @@
     
 
 ---
-**Asıl Kaynak (Canonical):** [Pristupačna LED i solarna rasvetna tela u Turskoj](https://ledlamba.com/pristupacna-led-i-solarna-rasvetna-tela-u-turskoj/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/pristupacna-led-i-solarna-rasvetna-tela-u-turskoj/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

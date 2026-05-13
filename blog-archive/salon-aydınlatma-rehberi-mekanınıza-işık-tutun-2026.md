@@ -578,6 +578,6 @@ Bahçe aydınlatma nasıl yapılır?
     
 
 ---
-**Asıl Kaynak (Canonical):** [Salon Aydınlatma Rehberi Mekanınıza Işık Tutun 2026](https://ledlamba.com/salon-aydinlatma/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/salon-aydinlatma/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

@@ -599,6 +599,6 @@ Diğer Aydınlatma Rehberleri
     
 
 ---
-**Asıl Kaynak (Canonical):** [Mutfak Aydınlatma Rehberi 2026](https://ledlamba.com/mutfak-aydinlatma/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/mutfak-aydinlatma/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

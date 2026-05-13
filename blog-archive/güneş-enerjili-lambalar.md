@@ -263,6 +263,6 @@ Tekirdağ için LED aydınlatma ürünleri, kullanım yerleri ve seçim rehberi 
     
 
 ---
-**Asıl Kaynak (Canonical):** [Güneş Enerjili Lambalar](https://ledlamba.com/gunes-enerjili-lambalar/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/gunes-enerjili-lambalar/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

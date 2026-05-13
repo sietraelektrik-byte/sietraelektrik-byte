@@ -226,6 +226,6 @@ LED armatürlerde ısı yönetimi; ışık kalitesi, sistem ömrü ve toplam mal
     
 
 ---
-**Asıl Kaynak (Canonical):** [LED Armatürlerde Isı Yönetimi: Ömrü Belirleyen Kritik Faktör](https://ledlamba.com/led-armaturlerde-isi-yonetimi-omru-belirleyen-kritik-faktor/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/led-armaturlerde-isi-yonetimi-omru-belirleyen-kritik-faktor/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

@@ -363,6 +363,6 @@ Tam ekran / Responsive / Dark Theme / 24 SSS + FAQ schema
     
 
 ---
-**Asıl Kaynak (Canonical):** [Tekirdağ Led Aydınlatma](https://ledlamba.com/tekirdag-led-aydinlatmalar/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/tekirdag-led-aydinlatmalar/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

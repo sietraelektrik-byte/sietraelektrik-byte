@@ -205,6 +205,6 @@ LED Projektör Modelleri ve Fiyatları için tıklayın.
     
 
 ---
-**Asıl Kaynak (Canonical):** [Metal Halide → LED Dönüşüm Maliyeti](https://ledlamba.com/metal-halide-led-donusum-maliyeti/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/metal-halide-led-donusum-maliyeti/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

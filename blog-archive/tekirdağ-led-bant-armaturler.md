@@ -442,6 +442,6 @@ Evet. LED bant armatürlerde en yaygın uzunluklar 60 cm ve 120 cm’dir. Bunun 
     
 
 ---
-**Asıl Kaynak (Canonical):** [Tekirdağ Led Bant Armaturler](https://ledlamba.com/tekirdag-led-bant-armaturler/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/tekirdag-led-bant-armaturler/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

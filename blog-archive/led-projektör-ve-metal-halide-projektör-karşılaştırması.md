@@ -282,6 +282,6 @@ Alanınıza uygun LED projektör seçimi ve montajı için bizimle iletişime ge
     
 
 ---
-**Asıl Kaynak (Canonical):** [LED Projektör ve Metal Halide Projektör Karşılaştırması](https://ledlamba.com/led-projektor-ve-metal-halide-projektor-karsilastirmasi/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/led-projektor-ve-metal-halide-projektor-karsilastirmasi/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

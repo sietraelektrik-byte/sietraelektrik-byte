@@ -99,6 +99,6 @@ Güvenli ve tasarruflu bir yaşam için ledlamba.com her zaman yanınızda! 
     
 
 ---
-**Asıl Kaynak (Canonical):** [Evlerde ve Apartmanlarda Oluşabilecek Elektrik Arızaları ve Güvenli Giderilmesi Rehberi (2026 Güncel)](https://ledlamba.com/evlerde-ve-apartmanlarda-olusabilecek-elektrik-arizalari-ve-guvenli-giderilmesi-rehberi/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/evlerde-ve-apartmanlarda-olusabilecek-elektrik-arizalari-ve-guvenli-giderilmesi-rehberi/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

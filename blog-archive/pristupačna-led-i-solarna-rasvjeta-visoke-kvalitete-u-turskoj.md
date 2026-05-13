@@ -145,6 +145,6 @@
     
 
 ---
-**Asıl Kaynak (Canonical):** [Pristupačna LED i solarna rasvjeta visoke kvalitete u Turskoj](https://ledlamba.com/pristupacna-led-i-solarna-rasvjeta-visoke-kvalitete-u-turskoj/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/pristupacna-led-i-solarna-rasvjeta-visoke-kvalitete-u-turskoj/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

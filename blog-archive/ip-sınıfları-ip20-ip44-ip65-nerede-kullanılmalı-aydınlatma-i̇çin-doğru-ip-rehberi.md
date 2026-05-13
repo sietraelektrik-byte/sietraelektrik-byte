@@ -116,6 +116,6 @@ IP sınıfı, aydınlatma ürünlerinin güvenli ve uzun ömürlü çalışması
     
 
 ---
-**Asıl Kaynak (Canonical):** [IP Sınıfları (IP20 / IP44 / IP65) Nerede Kullanılmalı? Aydınlatma İçin Doğru IP Rehberi](https://ledlamba.com/ip-siniflari-ip20-ip44-ip65-nerede-kullanilmali-aydinlatma-icin-dogru-ip-rehberi/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/ip-siniflari-ip20-ip44-ip65-nerede-kullanilmali-aydinlatma-icin-dogru-ip-rehberi/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

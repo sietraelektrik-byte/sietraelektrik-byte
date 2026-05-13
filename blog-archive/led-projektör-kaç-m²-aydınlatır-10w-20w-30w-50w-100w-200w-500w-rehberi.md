@@ -788,6 +788,6 @@ Diğer Aydınlatma Rehberleri
     
 
 ---
-**Asıl Kaynak (Canonical):** [LED Projektör Kaç m² Aydınlatır? 10W, 20W, 30W, 50W, 100W, 200W, 500W Rehberi](https://ledlamba.com/led-projektor-kac-m%c2%b2-aydinlatir/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/led-projektor-kac-m%c2%b2-aydinlatir/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

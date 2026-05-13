@@ -325,6 +325,6 @@ Bu rehber sayesinde LED ampül seçiminde bilinçli kararlar verebilir, aydınla
     
 
 ---
-**Asıl Kaynak (Canonical):** [📍Tekirdağ Led Ampül Bu rehber Tekirdağ, Süleymanpaşa, Çorlu, Çerkezköy ve çevresinde LED ampül aydınlatma çözümleri arayan kullanıcılar için hazırlanmıştır.](https://ledlamba.com/tekirdag-led-ampuller/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/tekirdag-led-ampuller/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

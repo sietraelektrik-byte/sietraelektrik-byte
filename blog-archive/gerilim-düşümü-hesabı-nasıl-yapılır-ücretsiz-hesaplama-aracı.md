@@ -530,6 +530,6 @@ Diğer Aydınlatma Rehberleri
     
 
 ---
-**Asıl Kaynak (Canonical):** [Gerilim Düşümü Hesabı Nasıl Yapılır? Ücretsiz Hesaplama Aracı](https://ledlamba.com/gerilim-dusumu-hesabi-nasil-yapilir-ucretsiz-hesaplama-araci/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/gerilim-dusumu-hesabi-nasil-yapilir-ucretsiz-hesaplama-araci/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

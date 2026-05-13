@@ -689,6 +689,6 @@ Bahçe aydınlatma nasıl yapılır?
     
 
 ---
-**Asıl Kaynak (Canonical):** [Gizli Aydınlatma Sistemleri Rehberi 2026](https://ledlamba.com/gizli-aydinlatma/)
+**Asıl Kaynak (Canonical):** https://ledlamba.com/gizli-aydinlatma/
 
 *Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
