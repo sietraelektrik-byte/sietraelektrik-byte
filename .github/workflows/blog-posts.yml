@@ -1,3 +1,30 @@
+name: Sietra Uydu Blog & Arşivleyici
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README and Archive Posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Archive blog posts as files
+        run: |
           python - <<EOF
           import feedparser
           import os
@@ -7,7 +34,7 @@
           os.makedirs("blog-archive", exist_ok=True)
 
           for entry in feed.entries:
-              # Canonical URL'yi tertemiz alalım
+              # Canonical URL'yi tertemiz alalım ve boşlukları silelim
               canonical_url = entry.link.strip()
               
               # Dosya adı oluşturma (SEO uyumlu)
@@ -19,14 +46,22 @@
                   f.write(f"# {entry.title}\n\n")
                   f.write(f"**Yayın Tarihi:** {entry.published}\n\n")
                   
-                  # WordPress tam metni çekme
+                  # WordPress tam metni (content) çekme
                   content = entry.content[0].value if 'content' in entry else entry.summary
                   clean_content = re.sub('<[^<]+?>', '', content)
                   
                   f.write(f"{clean_content}\n\n")
                   f.write(f"---\n")
                   
-                  # Dev.to hatasını önlemek için çıplak URL formatı
+                  # Dev.to hatasını önlemek için net Canonical URL formatı
                   f.write(f"**Asıl Kaynak (Canonical):** {canonical_url}\n\n")
                   f.write(f"*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*\n")
           EOF
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "Sietra-Bot"
+          git config --global user.email "sietraelektrik@gmail.com"
+          git add .
+          git commit -m "Blog arşivi tam metin ve temiz linkler ile güncellendi" || exit 0
+          git push
