@@ -1,30 +1,3 @@
-name: Sietra Uydu Blog & Arşivleyici
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  update-readme-with-blog:
-    name: Update README and Archive Posts
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
-
-      - name: Install dependencies
-        run: pip install feedparser
-
-      - name: Archive blog posts as files
-        run: |
           python - <<EOF
           import feedparser
           import os
@@ -34,7 +7,10 @@ jobs:
           os.makedirs("blog-archive", exist_ok=True)
 
           for entry in feed.entries:
-              # Dosya adı için başlığı temizle
+              # Canonical URL'yi tertemiz alalım
+              canonical_url = entry.link.strip()
+              
+              # Dosya adı oluşturma (SEO uyumlu)
               clean_title = re.sub(r'[^\w\s-]', '', entry.title).strip().lower()
               clean_title = re.sub(r'[-\s]+', '-', clean_title)
               file_path = os.path.join("blog-archive", f"{clean_title}.md")
@@ -43,22 +19,14 @@ jobs:
                   f.write(f"# {entry.title}\n\n")
                   f.write(f"**Yayın Tarihi:** {entry.published}\n\n")
                   
-                  # İçerik varsa (WordPress tam metin) al, yoksa özeti al
+                  # WordPress tam metni çekme
                   content = entry.content[0].value if 'content' in entry else entry.summary
-                  clean_content = re.sub('<[^<]+?>', '', content) # HTML temizliği
+                  clean_content = re.sub('<[^<]+?>', '', content)
                   
                   f.write(f"{clean_content}\n\n")
                   f.write(f"---\n")
                   
-                  # CANONICAL LINK (Asıl Kaynak) EKLEME:
-                  f.write(f"**Asıl Kaynak (Canonical):** [{entry.title}]({entry.link})\n\n")
+                  # Dev.to hatasını önlemek için çıplak URL formatı
+                  f.write(f"**Asıl Kaynak (Canonical):** {canonical_url}\n\n")
                   f.write(f"*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*\n")
           EOF
-
-      - name: Commit and Push changes
-        run: |
-          git config --global user.name "Sietra-Bot"
-          git config --global user.email "sietraelektrik@gmail.com"
-          git add .
-          git commit -m "Blog arşivi tam metin ve canonical linkler ile güncellendi" || exit 0
-          git push
