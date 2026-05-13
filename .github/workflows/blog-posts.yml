@@ -29,33 +29,43 @@ jobs:
           import feedparser
           import os
           import re
+          import urllib.parse
 
           feed = feedparser.parse("https://ledlamba.com/feed/")
           os.makedirs("blog-archive", exist_ok=True)
 
+          # Daha sağlam bir RSS yapısı kuruyoruz
+          rss_content = '<?xml version="1.0" encoding="UTF-8" ?>\n<rss version="2.0">\n<channel>\n'
+          rss_content += '<title>Sietra Elektrik Blog</title>\n<link>https://ledlamba.com</link>\n<description>LED Aydınlatma ve Enerji Çözümleri</description>\n'
+
           for entry in feed.entries:
-              # Canonical URL'yi tertemiz alalım ve boşlukları silelim
-              canonical_url = entry.link.strip()
+              # URL'yi hem temizliyoruz hem de güvenli hale getiriyoruz (URL Encode)
+              raw_url = entry.link.strip().replace(" ", "")
+              parts = list(urllib.parse.urlparse(raw_url))
+              parts[2] = urllib.parse.quote(parts[2]) # Sadece yol (path) kısmını encode et
+              clean_url = urllib.parse.urlunparse(parts)
               
-              # Dosya adı oluşturma (SEO uyumlu)
+              # Dosya adı (Markdown arşivi için)
               clean_title = re.sub(r'[^\w\s-]', '', entry.title).strip().lower()
               clean_title = re.sub(r'[-\s]+', '-', clean_title)
               file_path = os.path.join("blog-archive", f"{clean_title}.md")
 
               with open(file_path, "w", encoding="utf-8") as f:
                   f.write(f"# {entry.title}\n\n")
-                  f.write(f"**Yayın Tarihi:** {entry.published}\n\n")
-                  
-                  # WordPress tam metni (content) çekme
                   content = entry.content[0].value if 'content' in entry else entry.summary
-                  clean_content = re.sub('<[^<]+?>', '', content)
-                  
-                  f.write(f"{clean_content}\n\n")
-                  f.write(f"---\n")
-                  
-                  # Dev.to hatasını önlemek için net Canonical URL formatı
-                  f.write(f"**Asıl Kaynak (Canonical):** {canonical_url}\n\n")
-                  f.write(f"*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*\n")
+                  clean_text = re.sub('<[^<]+?>', '', content)
+                  f.write(f"{clean_text}\n\n---\n")
+                  f.write(f"**Asıl Kaynak:** {clean_url}\n")
+
+              # RSS için item ekleme (Dev.to buraya bakıyor)
+              rss_content += f'<item>\n<title><![CDATA[{entry.title}]]></title>\n<link>{clean_url}</link>\n'
+              rss_content += f'<guid>{clean_url}</guid>\n'
+              rss_content += f'<description><![CDATA[{clean_text[:300]}...]]></description>\n</item>\n'
+
+          rss_content += '</channel>\n</rss>'
+          
+          with open("feed.xml", "w", encoding="utf-8") as f:
+              f.write(rss_content)
           EOF
 
       - name: Commit and Push changes
@@ -63,5 +73,5 @@ jobs:
           git config --global user.name "Sietra-Bot"
           git config --global user.email "sietraelektrik@gmail.com"
           git add .
-          git commit -m "Blog arşivi tam metin ve temiz linkler ile güncellendi" || exit 0
+          git commit -m "Fix: Dev.to canonical URL validation" || exit 0
           git push
