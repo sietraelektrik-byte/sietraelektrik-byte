@@ -34,32 +34,32 @@ jobs:
           feed = feedparser.parse("https://ledlamba.com/feed/")
           os.makedirs("blog-archive", exist_ok=True)
 
-          # Daha sağlam bir RSS yapısı kuruyoruz
+          # Dev.to için standartlara uygun RSS yapısı
           rss_content = '<?xml version="1.0" encoding="UTF-8" ?>\n<rss version="2.0">\n<channel>\n'
           rss_content += '<title>Sietra Elektrik Blog</title>\n<link>https://ledlamba.com</link>\n<description>LED Aydınlatma ve Enerji Çözümleri</description>\n'
 
           for entry in feed.entries:
-              # URL'yi hem temizliyoruz hem de güvenli hale getiriyoruz (URL Encode)
-              raw_url = entry.link.strip().replace(" ", "")
-              parts = list(urllib.parse.urlparse(raw_url))
-              parts[2] = urllib.parse.quote(parts[2]) # Sadece yol (path) kısmını encode et
-              clean_url = urllib.parse.urlunparse(parts)
+              # Linki temizle ve sadece ana URL'yi al
+              clean_url = entry.link.strip().split('?')[0]
               
-              # Dosya adı (Markdown arşivi için)
+              # Dosya adı oluşturma (SEO uyumlu)
               clean_title = re.sub(r'[^\w\s-]', '', entry.title).strip().lower()
               clean_title = re.sub(r'[-\s]+', '-', clean_title)
               file_path = os.path.join("blog-archive", f"{clean_title}.md")
 
+              # İÇERİK: Front Matter (çizgili kısım) TAMAMEN kaldırıldı. 
+              # Dev.to bu bilgileri RSS'ten aldığı için Markdown içinde tekrar görünce hata veriyor.
               with open(file_path, "w", encoding="utf-8") as f:
                   f.write(f"# {entry.title}\n\n")
                   content = entry.content[0].value if 'content' in entry else entry.summary
                   clean_text = re.sub('<[^<]+?>', '', content)
                   f.write(f"{clean_text}\n\n---\n")
                   f.write(f"**Asıl Kaynak:** {clean_url}\n")
+                  f.write(f"\n*Bu içerik [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından otomatik arşivlenmiştir.*")
 
-              # RSS için item ekleme (Dev.to buraya bakıyor)
+              # RSS item ekleme
               rss_content += f'<item>\n<title><![CDATA[{entry.title}]]></title>\n<link>{clean_url}</link>\n'
-              rss_content += f'<guid>{clean_url}</guid>\n'
+              rss_content += f'<guid isPermaLink="true">{clean_url}</guid>\n'
               rss_content += f'<description><![CDATA[{clean_text[:300]}...]]></description>\n</item>\n'
 
           rss_content += '</channel>\n</rss>'
@@ -73,5 +73,5 @@ jobs:
           git config --global user.name "Sietra-Bot"
           git config --global user.email "sietraelektrik@gmail.com"
           git add .
-          git commit -m "Fix: Dev.to canonical URL validation" || exit 0
+          git commit -m "Fix: Removed Front Matter and cleaned RSS for Dev.to validation" || exit 0
           git push
