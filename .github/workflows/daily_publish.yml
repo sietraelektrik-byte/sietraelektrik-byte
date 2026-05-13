@@ -2,9 +2,8 @@ name: Daily Technical Post Publisher
 
 on:
   schedule:
-    # Her gün Türkiye saatiyle sabah 09:00'da çalışır (UTC 06:00)
     - cron: '0 6 * * *' 
-  workflow_dispatch: # Manuel tetikleme butonu
+  workflow_dispatch: 
 
 jobs:
   publish:
@@ -15,17 +14,20 @@ jobs:
       
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
+        uses: actions/checkout@v4  # Versiyon güncellendi (Node.js 24 uyumlu)
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Versiyon güncellendi
         with:
-          python-version: '3.9'
+          python-version: '3.10'
 
       - name: Install Dependencies
         run: pip install requests
+
+      - name: Prepare Folders
+        run: |
+          mkdir -p published_posts
+          mkdir -p blog-archive
 
       - name: Run Sietra Publisher Script
         run: python scripts/publisher.py
@@ -34,7 +36,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
-          # feed.xml dosyasını da takibe ekliyoruz
-          git add published_posts/ blog-archive/ feed.xml
-          git commit -m "Automated: Posts moved and RSS feed updated" || echo "No changes to commit"
+          git add .
+          git commit -m "Automated: Sietra blog update and feed.xml generation" || echo "No changes to commit"
           git push
