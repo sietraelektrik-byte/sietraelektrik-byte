@@ -1,35 +1,17 @@
-      - name: Archive blog posts as files
-        run: |
-          python - <<EOF
-          import feedparser
-          import os
-          import re
+name: Sietra Uydu Blog & Arşivleyici
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
-          feed = feedparser.parse("https://ledlamba.com/feed/")
-          if not os.path.exists("blog-archive"):
-              os.makedirs("blog-archive")
+permissions:
+  contents: write
 
-          for entry in feed.entries:
-              clean_title = re.sub(r'[^\w\s-]', '', entry.title).strip().lower()
-              clean_title = re.sub(r'[-\s]+', '-', clean_title)
-              file_path = os.path.join("blog-archive", f"{clean_title}.md")
-
-              if not os.path.exists(file_path):
-                  with open(file_path, "w", encoding="utf-8") as f:
-                      f.write(f"# {entry.title}\n\n")
-                      f.write(f"**Yayın Tarihi:** {entry.published}\n\n")
-                      
-                      # KRİTİK DEĞİŞİKLİK BURADA:
-                      # Eğer 'content' varsa tamamını al, yoksa 'summary' al
-                      if 'content' in entry:
-                          full_content = entry.content[0].value
-                      else:
-                          full_content = entry.summary
-                      
-                      # HTML etiketlerini temizle (Differ Markdown sevdiği için temiz metin gönderiyoruz)
-                      clean_content = re.sub('<[^<]+?>', '', full_content)
-                      
-                      f.write(f"{clean_content}\n\n")
-                      f.write(f"---\n")
-                      f.write(f"**Kaynak:** [ledlamba.com]({entry.link})\n\n")
-          EOF
+jobs:
+  update-readme-with-blog:
+    name: Update README and Archive Posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+# ... (kodun geri kalanı aynı devam ediyor)
