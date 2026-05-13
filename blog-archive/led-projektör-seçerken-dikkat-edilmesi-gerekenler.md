@@ -1,7 +1,5 @@
 # LED Projektör Seçerken Dikkat Edilmesi Gerekenler
 
-**Yayın Tarihi:** Wed, 14 Jan 2026 17:02:52 +0000
-
 LED Projektör Seçerken Dikkat Edilmesi Gerekenler
 
 
@@ -274,6 +272,4 @@ Bu nedenle LED projektör seçimi, kısa vadeli değil uzun vadeli düşünülme
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/led-projektor-secerken-dikkat-edilmesi-gerekenler/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/led-projektor-secerken-dikkat-edilmesi-gerekenler/

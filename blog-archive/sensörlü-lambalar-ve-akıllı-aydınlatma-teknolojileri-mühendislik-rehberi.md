@@ -1,7 +1,5 @@
 # Sensörlü Lambalar ve Akıllı Aydınlatma Teknolojileri Mühendislik Rehberi
 
-**Yayın Tarihi:** Wed, 04 Feb 2026 19:05:29 +0000
-
 Sensörlü lambalar ve akıllı aydınlatma sistemlerinin mühendislik uygulaması
 
 
@@ -247,6 +245,4 @@ Sensörlü lambalar ve akıllı aydınlatma sistemlerinin mühendislik uygulamas
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/sensorlu-lambalar-ve-akilli-aydinlatma-teknolojileri-muhendislik-rehberi/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/sensorlu-lambalar-ve-akilli-aydinlatma-teknolojileri-muhendislik-rehberi/

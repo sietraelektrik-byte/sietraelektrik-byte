@@ -1,7 +1,5 @@
 # İç Mekan Aydınlatmasında Görsel Konfor ve Optik Verimlilik: LED Panel Teknolojileri 2026
 
-**Yayın Tarihi:** Sat, 02 May 2026 14:13:01 +0000
-
 Modern mimaride aydınlatma, sadece karanlığı gidermek değil, mekanın biyolojik ve görsel verimliliğini artırmak için tasarlanır. Bu makalede, ofislerden konutlara kadar geniş bir kullanım alanı olan LED panellerin teknik parametrelerini ve seçim kriterlerini bilimsel bir perspektifle inceliyoruz.
 
 
@@ -98,6 +96,4 @@ Geleceğin ofis tasarımlarında statik aydınlatma yerini dinamik çözümlere 
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/led-panel-aydinlatma-rehberi/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/led-panel-aydinlatma-rehberi/

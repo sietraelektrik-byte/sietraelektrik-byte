@@ -1,7 +1,5 @@
 # Gizli Aydınlatma Sistemleri Rehberi 2026
 
-**Yayın Tarihi:** Sat, 14 Mar 2026 20:32:41 +0000
-
 Gizli Aydınlatma Sistemleri &#8211; Şerit LED ile Alçıpan Tavan Çözümleri
     
     
@@ -689,6 +687,4 @@ Bahçe aydınlatma nasıl yapılır?
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/gizli-aydinlatma/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/gizli-aydinlatma/

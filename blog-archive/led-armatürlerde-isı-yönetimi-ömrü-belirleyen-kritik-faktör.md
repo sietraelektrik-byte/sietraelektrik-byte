@@ -1,7 +1,5 @@
 # LED Armatürlerde Isı Yönetimi: Ömrü Belirleyen Kritik Faktör
 
-**Yayın Tarihi:** Mon, 26 Jan 2026 09:49:26 +0000
-
 
 
 Kısa Özet: LED aydınlatmada erken arızaların en büyük nedenlerinden biri ısıdır. LED çipler ve özellikle sürücü (driver) yüksek sıcaklıkta daha hızlı yaşlanır. Doğru ısı yönetimi; ışık kalitesini korur, titreşimi azaltır ve sistem ömrünü ciddi şekilde uzatır. Bu rehberde LED armatürlerde ısı yönetiminin neden kritik olduğunu ve sahada yapılan hataları net şekilde bulacaksınız.
@@ -226,6 +224,4 @@ LED armatürlerde ısı yönetimi; ışık kalitesi, sistem ömrü ve toplam mal
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/led-armaturlerde-isi-yonetimi-omru-belirleyen-kritik-faktor/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/led-armaturlerde-isi-yonetimi-omru-belirleyen-kritik-faktor/

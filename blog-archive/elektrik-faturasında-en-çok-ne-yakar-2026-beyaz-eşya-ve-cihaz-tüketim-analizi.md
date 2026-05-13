@@ -1,7 +1,5 @@
 # Elektrik Faturasında En Çok Ne Yakar? 2026 Beyaz Eşya ve Cihaz Tüketim Analizi
 
-**Yayın Tarihi:** Sun, 01 Feb 2026 19:40:17 +0000
-
 Elektrik Faturasında En Çok Ne Yakar
 
 
@@ -231,6 +229,4 @@ Elektrik Faturası ve Tasarruf Konusunda İlgili Diğer Rehber Yazılarımız
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/elektrik-faturasinda-en-cok-ne-yakar/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/elektrik-faturasinda-en-cok-ne-yakar/

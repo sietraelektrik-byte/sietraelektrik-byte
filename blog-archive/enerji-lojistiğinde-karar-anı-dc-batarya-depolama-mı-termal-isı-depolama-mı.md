@@ -1,7 +1,5 @@
 # Enerji Lojistiğinde Karar Anı: DC Batarya Depolama mı, Termal Isı Depolama mı?
 
-**Yayın Tarihi:** Mon, 11 May 2026 12:19:01 +0000
-
 
   
     DC Batarya Depolama mı, Termal Isı Depolama mı?
@@ -105,6 +103,4 @@
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/enerji-lojistiginde-karar-ani-dc-batarya-depolama-mi-termal-isi-depolama-mi/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/enerji-lojistiginde-karar-ani-dc-batarya-depolama-mi-termal-isi-depolama-mi/

@@ -1,7 +1,5 @@
 # Tekirdağ Led Bant Armaturler
 
-**Yayın Tarihi:** Wed, 14 Jan 2026 18:04:32 +0000
-
 
 
 
@@ -442,6 +440,4 @@ Evet. LED bant armatürlerde en yaygın uzunluklar 60 cm ve 120 cm’dir. Bunun 
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/tekirdag-led-bant-armaturler/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/tekirdag-led-bant-armaturler/

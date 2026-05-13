@@ -1,7 +1,5 @@
 # Yüksek Güçlü LED Projektörlerde Termal Yönetim ve Fotometrik Verimlilik Analizi 2026
 
-**Yayın Tarihi:** Sat, 02 May 2026 13:59:50 +0000
-
 Modern dış mekan aydınlatma sistemlerinde LED projektörler, enerji verimliliği açısından devrim yaratmıştır. Ancak, sistemin toplam ömrünü ve lümen kararlılığını belirleyen asıl unsur Watt değeri değil, yarı iletken yüzeyindeki ısının tahliyesi ve optik kontrolüdür.
 
 
@@ -132,6 +130,4 @@ Endüstriyel Projektörlerde Sürücü Verimliliği ve Akıllı Kontrol
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/led-projektor-verimlilik-analizi/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/led-projektor-verimlilik-analizi/

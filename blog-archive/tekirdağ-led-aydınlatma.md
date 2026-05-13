@@ -1,7 +1,5 @@
 # Tekirdağ Led Aydınlatma
 
-**Yayın Tarihi:** Mon, 16 Feb 2026 21:38:08 +0000
-
  Özel HTML bloğuna TEK PARÇA yapıştır.
 Tam ekran / Responsive / Dark Theme / 24 SSS + FAQ schema
 -->
@@ -363,6 +361,4 @@ Tam ekran / Responsive / Dark Theme / 24 SSS + FAQ schema
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/tekirdag-led-aydinlatmalar/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/tekirdag-led-aydinlatmalar/

@@ -1,7 +1,5 @@
 # Mutfak Aydınlatma Rehberi 2026
 
-**Yayın Tarihi:** Sat, 14 Mar 2026 19:18:47 +0000
-
 
 
 
@@ -599,6 +597,4 @@ Diğer Aydınlatma Rehberleri
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/mutfak-aydinlatma/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/mutfak-aydinlatma/

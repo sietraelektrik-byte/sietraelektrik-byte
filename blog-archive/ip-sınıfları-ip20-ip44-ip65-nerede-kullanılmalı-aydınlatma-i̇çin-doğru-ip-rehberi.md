@@ -1,7 +1,5 @@
 # IP Sınıfları (IP20 / IP44 / IP65) Nerede Kullanılmalı? Aydınlatma İçin Doğru IP Rehberi
 
-**Yayın Tarihi:** Mon, 26 Jan 2026 09:36:51 +0000
-
 Kısa Özet: Aydınlatma ürünlerinde IP sınıfı, ürünün toza ve suya karşı dayanım seviyesini ifade eder. Yanlış IP sınıfı seçimi; erken arıza, güvenlik riski ve gereksiz maliyetlere yol açabilir. Bu rehberde IP20, IP44 ve IP65 sınıflarının ne anlama geldiğini ve hangi alanlarda doğru şekilde kullanılması gerektiğini net örneklerle bulacaksınız.
 
 LED teknolojisinin temelini ve aydınlatma sistemlerinin evrimini anlatan kapsamlı rehber için
@@ -116,6 +114,4 @@ IP sınıfı, aydınlatma ürünlerinin güvenli ve uzun ömürlü çalışması
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/ip-siniflari-ip20-ip44-ip65-nerede-kullanilmali-aydinlatma-icin-dogru-ip-rehberi/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/ip-siniflari-ip20-ip44-ip65-nerede-kullanilmali-aydinlatma-icin-dogru-ip-rehberi/

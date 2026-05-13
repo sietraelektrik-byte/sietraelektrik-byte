@@ -1,7 +1,5 @@
 # LED Projektör ve Metal Halide Projektör Karşılaştırması
 
-**Yayın Tarihi:** Wed, 14 Jan 2026 16:56:24 +0000
-
 LED Projektör ve Metal Halide Projektör Karşılaştırması
 
 
@@ -282,6 +280,4 @@ Alanınıza uygun LED projektör seçimi ve montajı için bizimle iletişime ge
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/led-projektor-ve-metal-halide-projektor-karsilastirmasi/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/led-projektor-ve-metal-halide-projektor-karsilastirmasi/

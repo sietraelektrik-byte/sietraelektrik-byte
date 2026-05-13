@@ -1,7 +1,5 @@
 # Metal Halide → LED Dönüşüm Maliyeti
 
-**Yayın Tarihi:** Wed, 14 Jan 2026 17:10:57 +0000
-
 
 
 
@@ -205,6 +203,4 @@ LED Projektör Modelleri ve Fiyatları için tıklayın.
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/metal-halide-led-donusum-maliyeti/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/metal-halide-led-donusum-maliyeti/

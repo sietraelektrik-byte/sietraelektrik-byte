@@ -1,7 +1,5 @@
 # Evde Elektrik Tasarrufu İçin Ne Yapılmalı? 2026 Tasarruf Rehberi
 
-**Yayın Tarihi:** Sun, 01 Feb 2026 19:22:06 +0000
-
 Evde Elektrik Tasarrufu İçin Ne Yapılmalı?
 
 
@@ -290,6 +288,4 @@ Led ampül rehberi
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/evde-elektrik-tasarrufu-icin-ne-yapilmali-2026-tasarruf-rehberi/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/evde-elektrik-tasarrufu-icin-ne-yapilmali-2026-tasarruf-rehberi/

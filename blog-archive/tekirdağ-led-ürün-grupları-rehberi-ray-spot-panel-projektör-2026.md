@@ -1,7 +1,5 @@
 # Tekirdağ LED Ürün Grupları Rehberi (Ray Spot, Panel, Projektör 2026)
 
-**Yayın Tarihi:** Sat, 24 Jan 2026 01:07:55 +0000
-
 Tekirdağ LED Ürün Grupları Rehberi
     
 
@@ -423,6 +421,4 @@ Tekirdağ LED Ürün Grupları Rehberi
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/tekirdag-led-aydinlatma-gruplari/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/tekirdag-led-aydinlatma-gruplari/

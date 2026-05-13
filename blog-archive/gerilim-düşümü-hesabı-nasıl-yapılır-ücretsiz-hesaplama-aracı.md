@@ -1,7 +1,5 @@
 # Gerilim Düşümü Hesabı Nasıl Yapılır? Ücretsiz Hesaplama Aracı
 
-**Yayın Tarihi:** Wed, 11 Feb 2026 09:30:07 +0000
-
 Gerilim Düşümü Hesabı
 
 
@@ -530,6 +528,4 @@ Diğer Aydınlatma Rehberleri
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/gerilim-dusumu-hesabi-nasil-yapilir-ucretsiz-hesaplama-araci/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/gerilim-dusumu-hesabi-nasil-yapilir-ucretsiz-hesaplama-araci/

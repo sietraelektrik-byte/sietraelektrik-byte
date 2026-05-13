@@ -1,7 +1,5 @@
 # Aydınlatma: Tüm Teknik Terimler ve Standartlar Rehberi (2026)
 
-**Yayın Tarihi:** Mon, 09 Feb 2026 23:13:25 +0000
-
 aydınlatma terimleri grafiği 
 
 
@@ -374,6 +372,4 @@ test belgeleri mutlaka talep edilmelidir.
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/aydinlatma-tum-teknik-terimler-ve-standartlar-rehberi-2026/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/aydinlatma-tum-teknik-terimler-ve-standartlar-rehberi-2026/

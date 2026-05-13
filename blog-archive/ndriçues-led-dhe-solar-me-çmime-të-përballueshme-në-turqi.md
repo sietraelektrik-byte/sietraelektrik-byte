@@ -1,7 +1,5 @@
 # Ndriçues LED dhe solar me çmime të përballueshme në Turqi
 
-**Yayın Tarihi:** Thu, 22 Jan 2026 20:25:45 +0000
-
 
 
   
@@ -172,6 +170,4 @@
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/otomatik-taslakndricues-led-dhe-solar-me-cmime-te-perballueshme-ne-turqi/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/otomatik-taslakndricues-led-dhe-solar-me-cmime-te-perballueshme-ne-turqi/

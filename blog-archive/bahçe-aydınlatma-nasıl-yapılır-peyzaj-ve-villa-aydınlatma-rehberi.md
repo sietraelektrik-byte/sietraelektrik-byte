@@ -1,7 +1,5 @@
 # Bahçe Aydınlatma Nasıl Yapılır? Peyzaj ve Villa Aydınlatma Rehberi
 
-**Yayın Tarihi:** Sun, 08 Mar 2026 19:00:18 +0000
-
 
 
 
@@ -807,6 +805,4 @@ LED aydınlatma blogu sayfasını ziyaret edebilirsiniz.
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/bahce-aydinlatma-nasil-yapilir/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/bahce-aydinlatma-nasil-yapilir/

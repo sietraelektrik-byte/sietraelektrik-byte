@@ -1,7 +1,5 @@
 # Aydinlatma Nedir Dogru Aydinlatma Nasil Saglanir
 
-**Yayın Tarihi:** Sat, 03 Jan 2026 17:39:04 +0000
-
 
 
 Aydınlatma Nedir? Doğru Aydınlatma Nasıl Sağlanır?
@@ -134,6 +132,4 @@ Mekânınıza en uygun çözümleri keşfetmek için LED aydınlatma ürünlerim
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/aydinlatma-nedir-dogru-aydinlatma-nasil-saglanir/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/aydinlatma-nedir-dogru-aydinlatma-nasil-saglanir/

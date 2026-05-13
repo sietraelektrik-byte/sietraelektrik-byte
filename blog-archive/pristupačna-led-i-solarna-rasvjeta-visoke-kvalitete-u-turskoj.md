@@ -1,7 +1,5 @@
 # Pristupačna LED i solarna rasvjeta visoke kvalitete u Turskoj
 
-**Yayın Tarihi:** Thu, 22 Jan 2026 20:33:12 +0000
-
 
 
   
@@ -145,6 +143,4 @@
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/pristupacna-led-i-solarna-rasvjeta-visoke-kvalitete-u-turskoj/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/pristupacna-led-i-solarna-rasvjeta-visoke-kvalitete-u-turskoj/

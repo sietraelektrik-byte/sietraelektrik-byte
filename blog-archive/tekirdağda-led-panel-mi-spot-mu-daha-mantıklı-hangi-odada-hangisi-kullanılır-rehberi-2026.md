@@ -1,7 +1,5 @@
 # Tekirdağ’da LED Panel mi Spot mu Daha Mantıklı? Hangi Odada Hangisi Kullanılır? Rehberi 2026
 
-**Yayın Tarihi:** Mon, 09 Feb 2026 22:11:28 +0000
-
 led spot ve led panel çeşitleri 
 
 
@@ -444,6 +442,4 @@ led spot ve led panel çeşitleri
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/tekirdagda-led-panelmi-spotmu-daha-mantikli-hangi-odada-hangisi-kullanilir-rehberi-2026/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/tekirdagda-led-panelmi-spotmu-daha-mantikli-hangi-odada-hangisi-kullanilir-rehberi-2026/

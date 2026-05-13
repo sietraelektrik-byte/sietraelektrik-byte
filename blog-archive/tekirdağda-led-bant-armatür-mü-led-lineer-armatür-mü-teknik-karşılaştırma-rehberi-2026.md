@@ -1,7 +1,5 @@
 # Tekirdağ’da LED Bant Armatür mü LED Lineer Armatür mü? Teknik Karşılaştırma Rehberi (2026)
 
-**Yayın Tarihi:** Mon, 09 Feb 2026 22:45:33 +0000
-
 Tekirdağ market reyon aydınlatması için LED bant armatür modelleri çeşitleri 
 
 
@@ -333,6 +331,4 @@ Tekirdağ market reyon aydınlatması için LED bant armatür modelleri çeşitl
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/tekirdagda-led-bant-armatur-mu-led-lineer-armatur-mu-teknik-karsilastirma-rehberi-2026/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/tekirdagda-led-bant-armatur-mu-led-lineer-armatur-mu-teknik-karsilastirma-rehberi-2026/

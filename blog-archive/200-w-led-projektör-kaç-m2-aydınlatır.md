@@ -1,7 +1,5 @@
 # 200 W LED Projektör Kaç m2 Aydınlatır ?
 
-**Yayın Tarihi:** Fri, 20 Mar 2026 19:17:04 +0000
-
 200 W LED Projektör Kaç m2 Aydınlatır? 2026 Endüstriyel Aydınlatma Rehberi
 
 
@@ -300,6 +298,4 @@ Tüm LED Projektör Kategorisi&nbsp;–&nbsp;Farklı watt değerleri ve kasa tip
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/200-w-led-projektor-kac-m2-aydinlatir/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/200-w-led-projektor-kac-m2-aydinlatir/

@@ -1,7 +1,5 @@
 # Ayda Ne Kadar Elektrik Normaldir? (2026 Mesken Tüketim Standartları)
 
-**Yayın Tarihi:** Sun, 01 Feb 2026 19:44:03 +0000
-
 Ayda Ne Kadar Elektrik Normaldir? 
 
 
@@ -207,6 +205,4 @@ Elektrik Tüketimi ve Tasarruf ile İlgili Diğer Rehber Yazılarımız
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/ayda-ne-kadar-elektrik-normaldir-2026-mesken-tuketim-standartlari/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/ayda-ne-kadar-elektrik-normaldir-2026-mesken-tuketim-standartlari/

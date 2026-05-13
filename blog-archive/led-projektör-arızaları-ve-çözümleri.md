@@ -1,7 +1,5 @@
 # LED Projektör Arızaları ve Çözümleri
 
-**Yayın Tarihi:** Wed, 14 Jan 2026 17:09:59 +0000
-
  LED Projektör Arızaları ve Çözümleri
 
 
@@ -208,6 +206,4 @@ Kaliteli gövde ve soğutma yapısına sahip ürünler kullanılmalı
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/led-projektor-arizalari-ve-cozumleri/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/led-projektor-arizalari-ve-cozumleri/

@@ -1,7 +1,5 @@
 # Mağaza Aydınlatma Nedir?
 
-**Yayın Tarihi:** Sat, 24 Jan 2026 14:33:05 +0000
-
 Mağazalarda Hangi Aydınlatma Ürünleri Kullanılır?
 
 
@@ -53,6 +51,4 @@ Mağaza aydınlatması, bir satış alanının ürünleri doğru şekilde sergil
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/magaza-aydinlatma-nedir/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/magaza-aydinlatma-nedir/

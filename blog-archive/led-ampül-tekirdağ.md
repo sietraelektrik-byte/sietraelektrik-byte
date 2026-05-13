@@ -1,7 +1,5 @@
 # Led Ampül Tekirdağ
 
-**Yayın Tarihi:** Wed, 14 Jan 2026 17:40:49 +0000
-
 
   Bu yazı, Tekirdağ için hazırlanan LED aydınlatma ana rehberinin bir parçasıdır.
   Tekirdağ’daki LED aydınlatma ürünleri ve kullanım rehberi için:
@@ -266,6 +264,4 @@ Bu bilgiler ışığında doğru kararı verir, hem enerji tasarrufu sağlar hem
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/led-ampul-tekirdag/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/led-ampul-tekirdag/

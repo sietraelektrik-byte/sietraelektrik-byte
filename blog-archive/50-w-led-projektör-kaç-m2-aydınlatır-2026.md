@@ -1,7 +1,5 @@
 # 50 W LED Projektör Kaç M2 Aydınlatır (2026)
 
-**Yayın Tarihi:** Fri, 20 Mar 2026 18:07:48 +0000
-
 50 W LED Projektör Kaç M2 Aydınlatır (2026)
 
 
@@ -244,6 +242,4 @@ Tüm LED Projektör Kategorisi – Farklı watt değerleri ve kasa tipleri.
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/50-w-led-projektor-kac-m2-aydinlatir/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/50-w-led-projektor-kac-m2-aydinlatir/

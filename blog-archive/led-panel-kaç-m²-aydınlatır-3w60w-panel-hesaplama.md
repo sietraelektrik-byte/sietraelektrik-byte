@@ -1,7 +1,5 @@
 # LED Panel Kaç m² Aydınlatır? 3W–60W Panel Hesaplama
 
-**Yayın Tarihi:** Fri, 06 Mar 2026 22:03:04 +0000
-
 
 
 
@@ -1356,6 +1354,4 @@ Diğer Aydınlatma Rehberleri
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/led-panel-kac-m%c2%b2-aydinlatir-3w-60w-panel-hesaplama/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/led-panel-kac-m%25c2%25b2-aydinlatir-3w-60w-panel-hesaplama/

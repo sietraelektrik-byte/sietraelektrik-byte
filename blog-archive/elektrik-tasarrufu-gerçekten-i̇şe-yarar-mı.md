@@ -1,7 +1,5 @@
 # Elektrik Tasarrufu Gerçekten İşe Yarar mı?
 
-**Yayın Tarihi:** Sun, 01 Feb 2026 19:47:55 +0000
-
 Elektrik Tasarrufu Önerileri 2026
 
 
@@ -248,6 +246,4 @@ Elektrik Tasarrufu ile İlgili Diğer Rehber Yazılarımız
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/elektrik-tasarrufu-gercekten-ise-yarar-mi/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/elektrik-tasarrufu-gercekten-ise-yarar-mi/

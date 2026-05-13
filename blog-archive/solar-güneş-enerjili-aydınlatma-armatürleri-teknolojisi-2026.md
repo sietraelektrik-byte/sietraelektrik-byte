@@ -1,7 +1,5 @@
 # Solar Güneş Enerjili Aydınlatma Armatürleri Teknolojisi 2026
 
-**Yayın Tarihi:** Sat, 21 Mar 2026 21:24:51 +0000
-
 Solar Güneş Enerjili Aydınlatma
 
 
@@ -891,6 +889,4 @@ Tüm Solar Led Aydınlatma Ürünleri Kategorisi&nbsp;–&nbsp;Farklı watt değ
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/solar-gunes-enerjili-aydinlatma-armaturleri/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/solar-gunes-enerjili-aydinlatma-armaturleri/

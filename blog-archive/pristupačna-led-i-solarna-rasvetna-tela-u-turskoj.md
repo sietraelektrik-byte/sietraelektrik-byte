@@ -1,7 +1,5 @@
 # Pristupačna LED i solarna rasvetna tela u Turskoj
 
-**Yayın Tarihi:** Thu, 22 Jan 2026 20:29:01 +0000
-
 
 
   
@@ -181,6 +179,4 @@
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/pristupacna-led-i-solarna-rasvetna-tela-u-turskoj/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/pristupacna-led-i-solarna-rasvetna-tela-u-turskoj/

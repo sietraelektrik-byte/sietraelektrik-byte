@@ -1,7 +1,5 @@
 # LED Aydınlatma Hesaplama Araçları (Lümen–Watt–Lüks, UGR) | 2026
 
-**Yayın Tarihi:** Wed, 11 Feb 2026 09:20:17 +0000
-
 LED Aydınlatma Hesaplama Araçları 2026
 
 
@@ -338,6 +336,4 @@ LED Aydınlatma Hesaplama Araçları 2026
   
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/led-aydinlatma-hesaplama-araclari-lumen-watt-luks-ugr-2026/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/led-aydinlatma-hesaplama-araclari-lumen-watt-luks-ugr-2026/

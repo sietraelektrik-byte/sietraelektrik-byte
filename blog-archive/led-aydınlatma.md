@@ -1,7 +1,5 @@
 # Led Aydınlatma
 
-**Yayın Tarihi:** Fri, 23 Jan 2026 23:06:47 +0000
-
 LED Aydınlatma Nedir? Avantajları, Kullanım Alanları ve Doğru LED Seçimi Rehberi
 
 
@@ -3134,6 +3132,4 @@ Daha fazla teknik detay için kapsamlı LED Aydınlatma Nedir? rehberimize göz 
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/led-aydinlatma/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/led-aydinlatma/

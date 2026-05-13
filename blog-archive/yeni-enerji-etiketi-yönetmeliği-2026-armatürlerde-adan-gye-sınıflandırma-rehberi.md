@@ -1,7 +1,5 @@
 # Yeni Enerji Etiketi Yönetmeliği (2026): Armatürlerde A’dan G’ye Sınıflandırma Rehberi
 
-**Yayın Tarihi:** Sun, 26 Apr 2026 19:19:45 +0000
-
 Yeni Enerji Etiketi Yönetmeliği (2026): Armatürlerde A&#8217;dan G&#8217;ye Sınıflandırma
     
 
@@ -145,6 +143,4 @@ Yeni Enerji Etiketi Yönetmeliği (2026): Armatürlerde A&#8217;dan G&#8217;ye S
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/yeni-enerji-etiketi-yonetmeligi-2026/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/yeni-enerji-etiketi-yonetmeligi-2026/

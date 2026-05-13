@@ -1,7 +1,5 @@
 # LED Sektöründe “Watt” Skandalı: Etikette 100W Yazıyor, Prizde 30W Çıkıyor!
 
-**Yayın Tarihi:** Tue, 12 May 2026 16:41:50 +0000
-
 SEKTÖREL ANALİZ –Aydınlatma dünyasında yaşanan son Watt Skandalı, tüketici güvenini sarsmaya devam ediyor.
 
 
@@ -62,6 +60,4 @@ SEKTÖREL ANALİZ –Aydınlatma dünyasında yaşanan son Watt Skandalı, tüke
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/led-sektorunde-watt-skandali/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/led-sektorunde-watt-skandali/

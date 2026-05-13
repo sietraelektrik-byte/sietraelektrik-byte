@@ -1,7 +1,5 @@
 # Tekirdağ Led Projektör Aydınlatma
 
-**Yayın Tarihi:** Wed, 14 Jan 2026 17:15:33 +0000
-
 
   Bu yazı, Tekirdağ için hazırlanan LED aydınlatma ana rehberinin bir parçasıdır.
   Tekirdağ’daki LED ürün grupları ve kullanım yerlerini görmek için:
@@ -730,6 +728,4 @@ Tekirdağ’da LED projektör ve aydınlatma ürünlerini, Sietra Elektrik gibi 
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/tekirdag-led-projektor-aydinlatma-rehberi/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/tekirdag-led-projektor-aydinlatma-rehberi/

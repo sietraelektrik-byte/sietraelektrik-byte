@@ -1,7 +1,5 @@
 # Evlerde ve Apartmanlarda Oluşabilecek Elektrik Arızaları ve Güvenli Giderilmesi Rehberi (2026 Güncel)
 
-**Yayın Tarihi:** Sun, 25 Jan 2026 19:16:37 +0000
-
 Elektrik, modern evlerin ve apartmanların kalbidir. Ancak bu hayati sistemde oluşabilecek arızalar hem konforu bozar hem de yangın, çarpılma ve cihaz arızası gibi ciddi riskler yaratır. Bu kapsamlı rehberde, ev ve apartmanlarda en sık karşılaşılan elektrik arızalarını, nedenlerini, belirtilerini, güvenli çözüm yollarını ve önleme yöntemlerini adım adım, profesyonel bir bakış açısıyla anlatacağım.
 Önemli Uyarı: Elektrikle ilgili herhangi bir işlem öncesi güvenlik her zaman birinci önceliktir. Yüksek gerilim içeren arızalarda veya tesisatın genelinde şüpheniz varsa mutlaka lisanslı, sertifikalı bir elektrikçi çağırın. Bu yazı bilgilendirme amaçlıdır ve profesyonel müdahalenin yerini tutmaz.
 1. Ev ve Apartman Elektrik Tesisatının Genel Yapısı ve Yaygın Sorun Kaynakları
@@ -99,6 +97,4 @@ Güvenli ve tasarruflu bir yaşam için ledlamba.com her zaman yanınızda! 
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/evlerde-ve-apartmanlarda-olusabilecek-elektrik-arizalari-ve-guvenli-giderilmesi-rehberi/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/evlerde-ve-apartmanlarda-olusabilecek-elektrik-arizalari-ve-guvenli-giderilmesi-rehberi/

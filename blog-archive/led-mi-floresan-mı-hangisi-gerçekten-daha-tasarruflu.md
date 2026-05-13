@@ -1,7 +1,5 @@
 # LED mi Floresan mı? Hangisi Gerçekten Daha Tasarruflu?
 
-**Yayın Tarihi:** Sun, 01 Feb 2026 19:54:45 +0000
-
 ıp65 su geçirmez led bant armatür
 
 
@@ -258,6 +256,4 @@ Diğer Rehber Yazılarımızı da Okuyabilirsiniz
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/led-mi-floresan-mi-hangisi-gercekten-daha-tasarruflu/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/led-mi-floresan-mi-hangisi-gercekten-daha-tasarruflu/

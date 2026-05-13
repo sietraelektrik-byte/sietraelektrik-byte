@@ -1,7 +1,5 @@
 # Kaç Watt LED Projektör Kaç Metrekare Aydınlatır?
 
-**Yayın Tarihi:** Wed, 14 Jan 2026 16:59:51 +0000
-
 
 
 
@@ -234,6 +232,4 @@ inceleyebilirsiniz.
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/kac-watt-led-projektor-kac-metrekare-aydinlatir/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/kac-watt-led-projektor-kac-metrekare-aydinlatir/

@@ -1,7 +1,5 @@
 # Elektrik Faturası Nasıl Düşürülür?
 
-**Yayın Tarihi:** Sun, 01 Feb 2026 18:33:54 +0000
-
 Elektrik Faturası Nasıl Düşürülür,Nelere Dikkat Etmeliyiz ?
 
 
@@ -1838,6 +1836,4 @@ Tekirdağ ve çevresinde (Çorlu, Çerkezköy, Kapaklı gibi) konut ve küçük 
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/elektrik-faturasi-nasil-dusurulur/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/elektrik-faturasi-nasil-dusurulur/

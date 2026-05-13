@@ -1,7 +1,5 @@
 # Dekoratif Aydınlatmalar 2026
 
-**Yayın Tarihi:** Sat, 14 Mar 2026 22:21:41 +0000
-
 Dekoratif Aydınlatma Trendleri
 
 
@@ -264,6 +262,4 @@ Diğer Aydınlatma Rehberleri
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/dekoratif-aydinlatma/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/dekoratif-aydinlatma/

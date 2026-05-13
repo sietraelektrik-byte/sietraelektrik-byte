@@ -1,7 +1,5 @@
 # Güneş Enerjili Lambalar
 
-**Yayın Tarihi:** Thu, 22 Jan 2026 18:56:44 +0000
-
 
   Bu içerik, Tekirdağ için hazırlanan LED aydınlatma ana rehberinin bir parçasıdır.
   Tekirdağ’da güneş enerjili lambalar ve diğer LED çözümleri görmek için:
@@ -263,6 +261,4 @@ Tekirdağ için LED aydınlatma ürünleri, kullanım yerleri ve seçim rehberi 
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/gunes-enerjili-lambalar/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/gunes-enerjili-lambalar/

@@ -1,7 +1,5 @@
 # Tekirdağ’da Şerit LED mi Neon LED mi? Teknik İnceleme Rehberi (2026)
 
-**Yayın Tarihi:** Mon, 09 Feb 2026 22:22:14 +0000
-
 Şerit LED ve Neon LED (Neon Flex) farkları: çizgi etkisi, IP dayanımı ve montaj kriterleri.
 
 
@@ -439,6 +437,4 @@
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/tekirdagda-serit-led-mi-neon-led-mi-teknik-inceleme-rehberi-2026/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/tekirdagda-serit-led-mi-neon-led-mi-teknik-inceleme-rehberi-2026/

@@ -1,7 +1,5 @@
 # أنظمة إضاءة LED وإنارة شمسية بأسعار مناسبة من تركيا | Sietra Elektrik
 
-**Yayın Tarihi:** Thu, 22 Jan 2026 20:53:12 +0000
-
 أنظمة إضاءة LED وإنارة شمسية بأسعار مناسبة من تركيا
 
 
@@ -217,6 +215,4 @@
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/led-lighting-turkey-syria/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/led-lighting-turkey-syria/

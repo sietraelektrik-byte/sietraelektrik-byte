@@ -1,7 +1,5 @@
 # LED Bant Armatür
 
-**Yayın Tarihi:** Wed, 14 Jan 2026 17:57:11 +0000
-
 LED Bant Armatür Nedir? Nerelerde Kullanılır?
 
 
@@ -330,6 +328,4 @@ LED bant armatürler, sadece LED bantları kullanmaktan çok daha öte bir deney
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/led-bant-armatur/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/led-bant-armatur/

@@ -1,7 +1,5 @@
 # Peyzaj Mimarisinde Aydınlatma Disiplini: Teknik, Ekoloji ve Estetiğin Mühendislik Rehberi 2026
 
-**Yayın Tarihi:** Fri, 08 May 2026 20:41:47 +0000
-
 
 
 
@@ -341,6 +339,4 @@ Peyzaj Mimarisinde Aydınlatma
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/peyzaj-mimarisinde-aydinlatma/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/peyzaj-mimarisinde-aydinlatma/

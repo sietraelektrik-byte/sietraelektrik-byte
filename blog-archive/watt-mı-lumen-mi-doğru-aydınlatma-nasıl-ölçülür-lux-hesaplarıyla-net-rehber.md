@@ -1,7 +1,5 @@
 # Watt mı Lumen mi? Doğru Aydınlatma Nasıl Ölçülür? (Lux Hesaplarıyla Net Rehber)
 
-**Yayın Tarihi:** Mon, 26 Jan 2026 09:19:46 +0000
-
 Kısa Özet: Aydınlatmada doğru ölçüm yalnızca watt değerine bakılarak yapılmaz. Gerçek performans; lumen (ışık miktarı), lux (aydınlatma seviyesi), alan büyüklüğü ve kullanım amacının birlikte değerlendirilmesiyle belirlenir. Bu rehberde watt–lumen farkını, lux hesaplarını ve doğru aydınlatma seçimini net örneklerle bulacaksınız.
 
 Ana kaynak: Aydınlatma teknolojilerinin evrimini ve LED sistemlerinin temelini anlatan kapsamlı rehber için
@@ -103,6 +101,4 @@ Bir sonraki adım: Hub sayfandaki “Watt mı lumen mi?” satırını bu yazıy
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/watt-mi-lumen-mi-dogru-aydinlatma-nasil-olculur-lux-hesaplariyla-net-rehber/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/watt-mi-lumen-mi-dogru-aydinlatma-nasil-olculur-lux-hesaplariyla-net-rehber/

@@ -1,7 +1,5 @@
 # Aydınlatmada Enerji Tasarrufu Sağlayan Ürünler ve Doğru Seçim Rehberi
 
-**Yayın Tarihi:** Sat, 03 Jan 2026 15:52:37 +0000
-
 
 
 
@@ -142,6 +140,4 @@ işletmeler için sürdürülebilirliğin önemli bir parçasıdır.
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/enerji-tasarrufu-saglayan-aydinlatma-urunleri-nelerdir/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/enerji-tasarrufu-saglayan-aydinlatma-urunleri-nelerdir/

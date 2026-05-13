@@ -1,7 +1,5 @@
 # Tekirdağ’da Sıva Altı ve Sıva Üstü LED Paneller: Nihai Satın Alma ve Montaj Rehberi 2026
 
-**Yayın Tarihi:** Thu, 05 Feb 2026 08:52:18 +0000
-
 Alçıpan tavan için sıva altı panel ve beton tavan için sıva üstü panel uygulama örneği.
 
 
@@ -397,6 +395,4 @@ LED panel seçiminde montaj tipi, kullanım alanı ve gerekli aydınlatma seviye
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/tekirdagda-siva-alti-ve-siva-ustu-led-paneller-nihai-satin-alma-ve-montaj-rehberi-2026/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/tekirdagda-siva-alti-ve-siva-ustu-led-paneller-nihai-satin-alma-ve-montaj-rehberi-2026/

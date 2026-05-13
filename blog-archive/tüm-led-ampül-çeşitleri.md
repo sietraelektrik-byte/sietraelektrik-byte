@@ -1,7 +1,5 @@
 # Tüm LED Ampül Çeşitleri
 
-**Yayın Tarihi:** Wed, 14 Jan 2026 17:48:37 +0000
-
 Tüm LED Ampül Çeşitleri ve Özellikleri – Ultimate Rehber
 
 
@@ -484,6 +482,4 @@ Tüm LED ampül çeşitleri, doğru seçildiğinde ortamın ışığını optimu
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/tum-led-ampul-cesitleri/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/tum-led-ampul-cesitleri/

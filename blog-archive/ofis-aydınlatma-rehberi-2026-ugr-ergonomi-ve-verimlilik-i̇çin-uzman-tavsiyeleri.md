@@ -1,7 +1,5 @@
 # Ofis Aydınlatma Rehberi 2026: UGR, Ergonomi ve Verimlilik İçin Uzman Tavsiyeleri
 
-**Yayın Tarihi:** Mon, 30 Mar 2026 16:31:31 +0000
-
 Ofis Aydınlatma Rehberi 2026 | UGR, Ergonomi ve Verimlilik | LED Lamba
     
     
@@ -1122,6 +1120,4 @@ Floresan veya metal halidenden LED'e dönüşümde ROI 1.5-3 yıl arasındadır.
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/ofis-aydinlatma-rehberi-2026/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/ofis-aydinlatma-rehberi-2026/

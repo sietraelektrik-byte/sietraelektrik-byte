@@ -1,7 +1,5 @@
 # Доступні LED та сонячні освітлювальні системи з Туреччини
 
-**Yayın Tarihi:** Thu, 22 Jan 2026 20:45:09 +0000
-
 
 
   
@@ -97,6 +95,4 @@
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/ukraine-led-lighting-systems/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/ukraine-led-lighting-systems/

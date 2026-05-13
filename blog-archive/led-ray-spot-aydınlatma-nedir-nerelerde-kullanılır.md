@@ -1,7 +1,5 @@
 # LED Ray Spot Aydınlatma Nedir? Nerelerde Kullanılır?
 
-**Yayın Tarihi:** Sat, 24 Jan 2026 09:10:13 +0000
-
 
 
   
@@ -160,6 +158,4 @@ Profesyonel uygulamalarda Philips ve Osram öne çıkar.
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/led-ray-spot-aydinlatma/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/led-ray-spot-aydinlatma/

@@ -1,7 +1,5 @@
 # Şerit LED Nedir? Teknik Yapısı, Kalite Kriterleri ve Uzun Ömürlü Kullanım Rehberi
 
-**Yayın Tarihi:** Fri, 23 Jan 2026 14:37:17 +0000
-
 
 
 
@@ -267,6 +265,4 @@ Mimarlar, elektrik uygulamacıları, proje firmaları ve profesyonel aydınlatma
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/serit-led-teknik-rehberi/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/serit-led-teknik-rehberi/

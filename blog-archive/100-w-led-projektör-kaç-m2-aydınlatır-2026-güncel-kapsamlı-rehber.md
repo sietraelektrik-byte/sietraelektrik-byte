@@ -1,7 +1,5 @@
 # 100 w LED Projektör Kaç m2 Aydınlatır 2026 Güncel Kapsamlı Rehber
 
-**Yayın Tarihi:** Fri, 20 Mar 2026 18:34:35 +0000
-
 100 w LED Projektör Aydınlatma Armatürü
 
 
@@ -296,6 +294,4 @@ Tüm LED Projektör Kategorisi&nbsp;–&nbsp;Farklı watt değerleri ve kasa tip
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/100-w-led-projektor-kac-m2-aydinlatir/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/100-w-led-projektor-kac-m2-aydinlatir/

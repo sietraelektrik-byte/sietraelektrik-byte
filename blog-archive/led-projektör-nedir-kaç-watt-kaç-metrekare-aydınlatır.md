@@ -1,7 +1,5 @@
 # LED Projektör Nedir? Kaç Watt Kaç Metrekare Aydınlatır?
 
-**Yayın Tarihi:** Fri, 23 Jan 2026 23:25:27 +0000
-
 LED projektör çözümleri: Ürün modelleri, teknik destek ve proje bazlı çözümler için LED aydınlatma çözümleri sayfamıza göz atabilirsiniz.
 
 
@@ -595,6 +593,4 @@ Eğer farklı alanlar için “kaç watt kaç metrekare aydınlatır” sorusunu
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/led-projektor-kac-watt-kac-metrekare-aydinlatir/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/led-projektor-kac-watt-kac-metrekare-aydinlatir/

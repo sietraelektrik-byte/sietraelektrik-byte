@@ -1,7 +1,5 @@
 # LED Sürücü (Driver) Nedir? LED Ömrünü ve Performansını Neden Belirler?
 
-**Yayın Tarihi:** Mon, 26 Jan 2026 09:45:42 +0000
-
 
 
 Kısa Özet: LED sürücü (driver), şebekeden gelen elektriği LED’in ihtiyacına uygun hale getirerek LED’in stabil, titreşimsiz ve uzun ömürlü çalışmasını sağlayan parçadır. Bir LED armatürde erken arızaların önemli kısmı LED çipinden değil, sürücü kalitesinden ve sürücünün çalıştığı koşullardan kaynaklanır. Bu rehberde driver’ın ne olduğunu, türlerini ve LED ömrünü neden doğrudan etkilediğini sahaya uygun şekilde anlatıyoruz.
@@ -167,6 +165,4 @@ LED sürücü (driver), LED aydınlatmanın performansını ve ömrünü belirle
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/led-surucu-driver-nedir-led-omrunu-ve-performansini-neden-belirler/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/led-surucu-driver-nedir-led-omrunu-ve-performansini-neden-belirler/

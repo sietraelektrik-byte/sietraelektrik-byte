@@ -1,7 +1,5 @@
 # Işığın Aydınlatmadaki Evrimi
 
-**Yayın Tarihi:** Mon, 26 Jan 2026 08:35:58 +0000
-
 
   
 
@@ -2072,6 +2070,4 @@ Teknik Not ve Yerel Uygulama Rehberi: Aydınlatma teknolojilerinin bu tarihsel g
     
 
 ---
-**Asıl Kaynak (Canonical):** https://ledlamba.com/isigin-aydinlatmadaki-evrimi/
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/isigin-aydinlatmadaki-evrimi/
