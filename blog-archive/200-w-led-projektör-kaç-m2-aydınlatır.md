@@ -300,5 +300,6 @@ Tüm LED Projektör Kategorisi&nbsp;–&nbsp;Farklı watt değerleri ve kasa tip
     
 
 ---
-**Kaynak:** [ledlamba.com](https://ledlamba.com/200-w-led-projektor-kac-m2-aydinlatir/)
+**Asıl Kaynak (Canonical):** [200 W LED Projektör Kaç m2 Aydınlatır ?](https://ledlamba.com/200-w-led-projektor-kac-m2-aydinlatir/)
 
+*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

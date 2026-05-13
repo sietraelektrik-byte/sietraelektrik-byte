@@ -98,5 +98,6 @@ Geleceğin ofis tasarımlarında statik aydınlatma yerini dinamik çözümlere 
     
 
 ---
-**Kaynak:** [ledlamba.com](https://ledlamba.com/led-panel-aydinlatma-rehberi/)
+**Asıl Kaynak (Canonical):** [İç Mekan Aydınlatmasında Görsel Konfor ve Optik Verimlilik: LED Panel Teknolojileri 2026](https://ledlamba.com/led-panel-aydinlatma-rehberi/)
 
+*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

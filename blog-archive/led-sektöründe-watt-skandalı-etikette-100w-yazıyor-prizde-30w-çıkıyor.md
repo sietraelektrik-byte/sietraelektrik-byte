@@ -62,5 +62,6 @@ SEKTÖREL ANALİZ –Aydınlatma dünyasında yaşanan son Watt Skandalı, tüke
     
 
 ---
-**Kaynak:** [ledlamba.com](https://ledlamba.com/led-sektorunde-watt-skandali/)
+**Asıl Kaynak (Canonical):** [LED Sektöründe “Watt” Skandalı: Etikette 100W Yazıyor, Prizde 30W Çıkıyor!](https://ledlamba.com/led-sektorunde-watt-skandali/)
 
+*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

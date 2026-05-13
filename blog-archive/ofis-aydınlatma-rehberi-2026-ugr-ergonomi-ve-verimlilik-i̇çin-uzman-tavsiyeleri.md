@@ -1122,5 +1122,6 @@ Floresan veya metal halidenden LED'e dönüşümde ROI 1.5-3 yıl arasındadır.
     
 
 ---
-**Kaynak:** [ledlamba.com](https://ledlamba.com/ofis-aydinlatma-rehberi-2026/)
+**Asıl Kaynak (Canonical):** [Ofis Aydınlatma Rehberi 2026: UGR, Ergonomi ve Verimlilik İçin Uzman Tavsiyeleri](https://ledlamba.com/ofis-aydinlatma-rehberi-2026/)
 
+*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

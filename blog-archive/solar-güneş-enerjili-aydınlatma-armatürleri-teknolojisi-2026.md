@@ -891,5 +891,6 @@ Tüm Solar Led Aydınlatma Ürünleri Kategorisi&nbsp;–&nbsp;Farklı watt değ
     
 
 ---
-**Kaynak:** [ledlamba.com](https://ledlamba.com/solar-gunes-enerjili-aydinlatma-armaturleri/)
+**Asıl Kaynak (Canonical):** [Solar Güneş Enerjili Aydınlatma Armatürleri Teknolojisi 2026](https://ledlamba.com/solar-gunes-enerjili-aydinlatma-armaturleri/)
 
+*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*

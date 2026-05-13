@@ -58,5 +58,6 @@
     
 
 ---
-**Kaynak:** [ledlamba.com](https://ledlamba.com/isik-kirliligi-ve-saglik-uyarisi/)
+**Asıl Kaynak (Canonical):** [GİZLİ PANDEMİ: Evimizdeki Işıklar Bizi Hasta mı Ediyor?](https://ledlamba.com/isik-kirliligi-ve-saglik-uyarisi/)
 
+*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
