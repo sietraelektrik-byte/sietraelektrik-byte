@@ -1,34 +1,3 @@
-name: Sietra Uydu Blog & Arşivleyici
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  update-readme-with-blog:
-    name: Update README and Archive Posts
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Pull in blog posts to README
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://ledlamba.com/feed/"
-          max_post_count: 5
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
-
-      - name: Install dependencies
-        run: pip install feedparser
-
       - name: Archive blog posts as files
         run: |
           python - <<EOF
@@ -49,16 +18,18 @@ jobs:
                   with open(file_path, "w", encoding="utf-8") as f:
                       f.write(f"# {entry.title}\n\n")
                       f.write(f"**Yayın Tarihi:** {entry.published}\n\n")
-                      summary = re.sub('<[^<]+?>', '', entry.summary)[:500]
-                      f.write(f"{summary}...\n\n")
+                      
+                      # KRİTİK DEĞİŞİKLİK BURADA:
+                      # Eğer 'content' varsa tamamını al, yoksa 'summary' al
+                      if 'content' in entry:
+                          full_content = entry.content[0].value
+                      else:
+                          full_content = entry.summary
+                      
+                      # HTML etiketlerini temizle (Differ Markdown sevdiği için temiz metin gönderiyoruz)
+                      clean_content = re.sub('<[^<]+?>', '', full_content)
+                      
+                      f.write(f"{clean_content}\n\n")
                       f.write(f"---\n")
-                      f.write(f"**Makalenin Tamamı:** [ledlamba.com]({entry.link})\n\n")
+                      f.write(f"**Kaynak:** [ledlamba.com]({entry.link})\n\n")
           EOF
-
-      - name: Commit and Push changes
-        run: |
-          git config --global user.name "Sietra-Bot"
-          git config --global user.email "sietraelektrik@gmail.com"
-          git add .
-          git commit -m "Blog arşivi güncellendi" || exit 0
-          git push
