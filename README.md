@@ -30,6 +30,7 @@ Uzmanlık alanlarımdaki yayınlarımı ve profesyonel ağlarımı aşağıdaki 
 - **Web Sitesi:** [ledlamba.com](https://ledlamba.com)
 - **E-posta:** sietraelektrik@gmail.com
 - **Konum:** Tekirdağ, Türkiye
+
 ---
 
 ### ✍️ Son Blog Yazılarım
