@@ -1,42 +1,57 @@
 import os
-import requests
+from datetime import datetime
 
 # Yapılandırma
-POSTS_DIR = "blog-archive" 
+POSTS_DIR = "blog-archive"
 PUBLISHED_DIR = "published_posts"
-API_URL = "https://api.differ.blog/v1/posts" 
-LIMIT = 3 
+FEED_FILE = "feed.xml"
+LIMIT = 3
 
-def extract_keywords(content):
-    tech_keywords = ["LED", "DALI", "D4i", "IoT", "Smart Lighting", "Energy", "Solar", "Tekirdağ", "GÖZYUMMAZ"]
-    found = [word for word in tech_keywords if word.lower() in content.lower()]
-    return found[:5]
+def create_rss_feed(published_files):
+    rss_items = ""
+    for file_name in published_files:
+        title = file_name.replace(".md", "").replace("-", " ").title()
+        link = f"https://github.com/sietraelektrik-byte/tree/main/{PUBLISHED_DIR}/{file_name}"
+        pub_date = datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0300")
+        
+        rss_items += f"""
+        <item>
+            <title>{title}</title>
+            <link>{link}</link>
+            <description>Sietra Elektrik Teknik Makalesi: {title}</description>
+            <pubDate>{pub_date}</pubDate>
+        </item>"""
 
-def publish_posts():
+    rss_content = f"""<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <title>Sietra Elektrik Blog</title>
+    <link>https://ledlamba.com</link>
+    <description>LED Aydınlatma ve Enerji Teknolojileri</description>
+    {rss_items}
+</channel>
+</rss>"""
+
+    with open(FEED_FILE, "w", encoding="utf-8") as f:
+        f.write(rss_content)
+
+def run():
     if not os.path.exists(PUBLISHED_DIR): os.makedirs(PUBLISHED_DIR)
+    
     files = sorted([f for f in os.listdir(POSTS_DIR) if f.endswith('.md')])
     to_publish = files[:LIMIT]
+    
+    if not to_publish:
+        print("Yayınlanacak yeni yazı yok.")
+        return
 
     for file_name in to_publish:
-        file_path = os.path.join(POSTS_DIR, file_name)
-        with open(file_path, "r", encoding="utf-8") as f:
-            content = f.read()
-        
-        keywords = extract_keywords(content)
-        payload = {
-            "title": file_name.replace(".md", "").replace("-", " ").title(),
-            "body": content + f"\n\n---\n*Kaynak: [ledlamba.com](https://ledlamba.com)*",
-            "tags": keywords,
-            "status": "public",
-            "publish_immediately": True
-        }
-        headers = {"Authorization": f"Bearer {os.getenv('PLATFORM_API_KEY')}", "Content-Type": "application/json"}
-        
-        response = requests.post(API_URL, json=payload, headers=headers)
-        if response.status_code in [200, 201]:
-            os.rename(file_path, os.path.join(PUBLISHED_DIR, file_name))
-            print(f"🚀 {file_name} yayınlandı!")
+        os.rename(os.path.join(POSTS_DIR, file_name), os.path.join(PUBLISHED_DIR, file_name))
+    
+    # Tüm yayınlanmış dosyaları RSS'e ekle
+    all_published = [f for f in os.listdir(PUBLISHED_DIR) if f.endswith('.md')]
+    create_rss_feed(all_published)
+    print("🚀 Yazılar taşındı ve feed.xml güncellendi!")
 
 if __name__ == "__main__":
-    publish_posts()
-
+    run()
