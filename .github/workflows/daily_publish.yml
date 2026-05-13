@@ -1,1 +1,44 @@
+name: Daily Technical Post Publisher
+
+on:
+  schedule:
+    # Her gün Türkiye saatiyle sabah 09:00'da çalışır (UTC 06:00)
+    - cron: '0 6 * * *' 
+  workflow_dispatch: # Actions sekmesinde manuel "Çalıştır" butonu ekler
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    
+    # Botun klasörler arası dosya taşıyabilmesi için yazma izni
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Sietra Publisher Script
+        env:
+          # Settings > Secrets kısmına eklediğin API anahtarı
+          PLATFORM_API_KEY: ${{ secrets.PLATFORM_API_KEY }}
+        run: python scripts/publisher.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"
+          git add published_posts/ blog-archive/
+          git commit -m "Automated: 3 posts moved to published folder" || echo "No changes to commit"
+          git push
 
