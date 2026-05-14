@@ -131,3 +131,5 @@ Endüstriyel Projektörlerde Sürücü Verimliliği ve Akıllı Kontrol
 
 ---
 **Asıl Kaynak:** https://ledlamba.com/led-projektor-verimlilik-analizi/
+
+*Bu içerik [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından otomatik arşivlenmiştir.*

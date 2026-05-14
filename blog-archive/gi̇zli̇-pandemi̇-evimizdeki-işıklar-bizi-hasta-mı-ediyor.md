@@ -57,3 +57,5 @@
 
 ---
 **Asıl Kaynak:** https://ledlamba.com/isik-kirliligi-ve-saglik-uyarisi/
+
+*Bu içerik [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından otomatik arşivlenmiştir.*

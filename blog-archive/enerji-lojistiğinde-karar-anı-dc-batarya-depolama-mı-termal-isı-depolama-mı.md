@@ -104,3 +104,5 @@
 
 ---
 **Asıl Kaynak:** https://ledlamba.com/enerji-lojistiginde-karar-ani-dc-batarya-depolama-mi-termal-isi-depolama-mi/
+
+*Bu içerik [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından otomatik arşivlenmiştir.*

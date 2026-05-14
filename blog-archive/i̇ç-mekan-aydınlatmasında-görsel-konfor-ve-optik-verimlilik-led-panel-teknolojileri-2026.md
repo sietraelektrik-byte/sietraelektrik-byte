@@ -97,3 +97,5 @@ Geleceğin ofis tasarımlarında statik aydınlatma yerini dinamik çözümlere 
 
 ---
 **Asıl Kaynak:** https://ledlamba.com/led-panel-aydinlatma-rehberi/
+
+*Bu içerik [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından otomatik arşivlenmiştir.*

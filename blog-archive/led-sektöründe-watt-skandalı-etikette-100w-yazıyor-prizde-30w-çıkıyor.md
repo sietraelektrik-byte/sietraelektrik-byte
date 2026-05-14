@@ -61,3 +61,5 @@ SEKTÖREL ANALİZ –Aydınlatma dünyasında yaşanan son Watt Skandalı, tüke
 
 ---
 **Asıl Kaynak:** https://ledlamba.com/led-sektorunde-watt-skandali/
+
+*Bu içerik [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından otomatik arşivlenmiştir.*
