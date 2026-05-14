@@ -1,7 +1,5 @@
 # Alçıpan LED Spot, Gün Işığı LED Spot ve Tavan LED Spot Rehberi 2026
 
-**Yayın Tarihi:** Mon, 02 Feb 2026 16:58:58 +0000
-
 led spot ve led panel çeşitleri 
 
 
@@ -1243,6 +1241,4 @@ led spot ve led panel çeşitleri
     
 
 ---
-**Asıl Kaynak (Canonical):** [Alçıpan LED Spot, Gün Işığı LED Spot ve Tavan LED Spot Rehberi 2026](https://ledlamba.com/alcipan-led-spot-gun-isigi-led-spot-ve-tavan-led-spot-rehberi/)
-
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+**Asıl Kaynak:** https://ledlamba.com/alcipan-led-spot-gun-isigi-led-spot-ve-tavan-led-spot-rehberi/
