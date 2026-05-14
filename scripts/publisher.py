@@ -6,7 +6,7 @@ import html
 POSTS_DIR = "blog-archive"
 PUBLISHED_DIR = "published_posts"
 FEED_FILE = "feed.xml"
-LIMIT = 3
+LIMIT = 2
 
 def create_rss_feed(published_files):
     rss_items = ""
