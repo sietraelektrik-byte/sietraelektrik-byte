@@ -1,13 +1,15 @@
 {
   "last_publish_date": "2026-05-16",
-  "daily_count": 6,
+  "daily_count": 8,
   "published_queue": [
     "https://ledlamba.com/endustriyel-iot-aydinlatma/",
     "https://ledlamba.com/led-sektorunde-watt-skandali/",
     "https://ledlamba.com/enerji-lojistiginde-karar-ani-dc-batarya-depolama-mi-termal-isi-depolama-mi/",
     "https://ledlamba.com/peyzaj-mimarisinde-aydinlatma/",
     "https://ledlamba.com/led-panel-aydinlatma-rehberi/",
-    "https://ledlamba.com/led-projektor-verimlilik-analizi/"
+    "https://ledlamba.com/led-projektor-verimlilik-analizi/",
+    "https://ledlamba.com/isik-kirliligi-ve-saglik-uyarisi/",
+    "https://ledlamba.com/yeni-enerji-etiketi-yonetmeligi-2026/"
   ],
-  "queue_position": 6
+  "queue_position": 8
 }
