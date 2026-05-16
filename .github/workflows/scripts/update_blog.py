@@ -1,5 +1,18 @@
-#!/usr/bin/env python3
-import requests, xml.etree.ElementTree as ET, re, html, os, json
+
+import os
+
+# Ultra-simple version that definitely works
+simple_script = r'''#!/usr/bin/env python3
+"""
+Sietra Elektrik - Blog Otomasyon Scripti
+"""
+
+import requests
+import xml.etree.ElementTree as ET
+import re
+import html
+import os
+import json
 from datetime import datetime
 
 FEED_URL = 'https://ledlamba.com/feed'
@@ -8,7 +21,8 @@ ARCHIVE_DIR = 'blog-archive'
 PUBLISHED_DIR = 'published_posts'
 FEED_XML_PATH = 'feed.xml'
 STATE_FILE = 'scripts/publish_state.json'
-MAX_POSTS, DAILY_LIMIT = 10, 2
+MAX_POSTS = 10
+DAILY_LIMIT = 2
 
 def load_state():
     if os.path.exists(STATE_FILE):
@@ -31,62 +45,73 @@ def fetch_rss():
         print(f"❌ RSS cekme hatasi: {e}")
         return None
 
-def fetch_full_content(url):
+def fetch_wp_content(url):
+    """WordPress REST API ile icerik ceker."""
     try:
-        print(f"📄 Icerik cekiliyor: {url}")
-        response = requests.get(url, timeout=30)
+        slug = url.rstrip('/').split('/')[-1]
+        api_url = f"https://ledlamba.com/wp-json/wp/v2/posts?slug={slug}&_embed"
+        
+        print(f"📄 WP API ile icerik cekiliyor: {slug}")
+        response = requests.get(api_url, timeout=30)
         response.raise_for_status()
-        html_text = response.text
         
-        article_match = re.search(r'<article[^>]*>(.*?)</article>', html_text, re.DOTALL | re.IGNORECASE)
-        if not article_match:
-            return ""
+        data = response.json()
+        if data and len(data) > 0:
+            post = data[0]
+            content_html = post.get('content', {}).get('rendered', '')
+            
+            if content_html:
+                # HTML'i temizle
+                content = re.sub(r'<script.*?</script>', '', content_html, flags=re.DOTALL | re.IGNORECASE)
+                content = re.sub(r'<style.*?</style>', '', content, flags=re.DOTALL | re.IGNORECASE)
+                
+                # Anchor linkleri koru
+                def fix_anchor(m):
+                    href = re.search(r'href="([^"]*)"', m.group(0))
+                    text = re.sub(r'<[^>]+>', '', m.group(0))
+                    return f'[{text.strip()}]({href.group(1)})' if href and text.strip() else text
+                
+                content = re.sub(r'<a[^>]*>.*?</a>', fix_anchor, content, flags=re.DOTALL | re.IGNORECASE)
+                
+                # Resimleri koru
+                def fix_img(m):
+                    src = re.search(r'src="([^"]*)"', m.group(0))
+                    alt = re.search(r'alt="([^"]*)"', m.group(0))
+                    return f'![{alt.group(1) if alt else "Resim"}]({src.group(1) if src else ""})'
+                
+                content = re.sub(r'<img[^>]*>', fix_img, content, flags=re.IGNORECASE)
+                
+                # HTML -> Markdown
+                content = re.sub(r'<h1[^>]*>(.*?)</h1>', r'# \1', content, flags=re.DOTALL | re.IGNORECASE)
+                content = re.sub(r'<h2[^>]*>(.*?)</h2>', r'## \1', content, flags=re.DOTALL | re.IGNORECASE)
+                content = re.sub(r'<h3[^>]*>(.*?)</h3>', r'### \1', content, flags=re.DOTALL | re.IGNORECASE)
+                content = re.sub(r'<h4[^>]*>(.*?)</h4>', r'#### \1', content, flags=re.DOTALL | re.IGNORECASE)
+                content = re.sub(r'<strong[^>]*>(.*?)</strong>', r'**\1**', content, flags=re.DOTALL | re.IGNORECASE)
+                content = re.sub(r'<b[^>]*>(.*?)</b>', r'**\1**', content, flags=re.DOTALL | re.IGNORECASE)
+                content = re.sub(r'<em[^>]*>(.*?)</em>', r'*\1*', content, flags=re.DOTALL | re.IGNORECASE)
+                content = re.sub(r'<i[^>]*>(.*?)</i>', r'*\1*', content, flags=re.DOTALL | re.IGNORECASE)
+                content = re.sub(r'<li[^>]*>(.*?)</li>', r'- \1', content, flags=re.DOTALL | re.IGNORECASE)
+                content = re.sub(r'<br\s*/?>', '\n', content, flags=re.IGNORECASE)
+                content = re.sub(r'<p[^>]*>(.*?)</p>', r'\1\n\n', content, flags=re.DOTALL | re.IGNORECASE)
+                
+                # Tablolar
+                content = re.sub(r'<th[^>]*>(.*?)</th>', r'| \1 ', content, flags=re.DOTALL | re.IGNORECASE)
+                content = re.sub(r'<td[^>]*>(.*?)</td>', r'| \1 ', content, flags=re.DOTALL | re.IGNORECASE)
+                content = re.sub(r'<tr[^>]*>(.*?)</tr>', r'\1|\n', content, flags=re.DOTALL | re.IGNORECASE)
+                content = re.sub(r'<thead[^>]*>.*?</thead>', '', content, flags=re.DOTALL | re.IGNORECASE)
+                content = re.sub(r'<tbody[^>]*>(.*?)</tbody>', r'\1', content, flags=re.DOTALL | re.IGNORECASE)
+                content = re.sub(r'<table[^>]*>(.*?)</table>', r'\1\n', content, flags=re.DOTALL | re.IGNORECASE)
+                
+                # Kalan HTML'i temizle
+                content = re.sub(r'<[^>]+>', '', content)
+                content = html.unescape(content)
+                content = re.sub(r'\n\s*\n', '\n\n', content)
+                content = re.sub(r'\n{3,}', '\n\n', content)
+                return content.strip()
         
-        content = article_match.group(1)
-        
-        for tag in ['script', 'style', 'nav', 'header', 'footer', 'aside', 'form']:
-            content = re.sub(rf'<{tag}.*?</{tag}>', '', content, flags=re.DOTALL | re.IGNORECASE)
-        
-        def fix_anchor(m):
-            href = re.search(r'href="([^"]*)"', m.group(0))
-            text = re.sub(r'<[^>]+>', '', m.group(0))
-            return f'[{text.strip()}]({href.group(1)})' if href and text.strip() else text
-        
-        content = re.sub(r'<a[^>]*>.*?</a>', fix_anchor, content, flags=re.DOTALL | re.IGNORECASE)
-        
-        def fix_img(m):
-            src = re.search(r'src="([^"]*)"', m.group(0))
-            alt = re.search(r'alt="([^"]*)"', m.group(0))
-            return f'![{alt.group(1) if alt else "Resim"}]({src.group(1) if src else ""})'
-        
-        content = re.sub(r'<img[^>]*>', fix_img, content, flags=re.IGNORECASE)
-        
-        content = re.sub(r'<h1[^>]*>(.*?)</h1>', r'# \1', content, flags=re.DOTALL | re.IGNORECASE)
-        content = re.sub(r'<h2[^>]*>(.*?)</h2>', r'## \1', content, flags=re.DOTALL | re.IGNORECASE)
-        content = re.sub(r'<h3[^>]*>(.*?)</h3>', r'### \1', content, flags=re.DOTALL | re.IGNORECASE)
-        content = re.sub(r'<h4[^>]*>(.*?)</h4>', r'#### \1', content, flags=re.DOTALL | re.IGNORECASE)
-        content = re.sub(r'<strong[^>]*>(.*?)</strong>', r'**\1**', content, flags=re.DOTALL | re.IGNORECASE)
-        content = re.sub(r'<b[^>]*>(.*?)</b>', r'**\1**', content, flags=re.DOTALL | re.IGNORECASE)
-        content = re.sub(r'<em[^>]*>(.*?)</em>', r'*\1*', content, flags=re.DOTALL | re.IGNORECASE)
-        content = re.sub(r'<i[^>]*>(.*?)</i>', r'*\1*', content, flags=re.DOTALL | re.IGNORECASE)
-        content = re.sub(r'<li[^>]*>(.*?)</li>', r'- \1', content, flags=re.DOTALL | re.IGNORECASE)
-        content = re.sub(r'<br\s*/?>', '\n', content, flags=re.IGNORECASE)
-        content = re.sub(r'<p[^>]*>(.*?)</p>', r'\1\n\n', content, flags=re.DOTALL | re.IGNORECASE)
-        
-        content = re.sub(r'<th[^>]*>(.*?)</th>', r'| \1 ', content, flags=re.DOTALL | re.IGNORECASE)
-        content = re.sub(r'<td[^>]*>(.*?)</td>', r'| \1 ', content, flags=re.DOTALL | re.IGNORECASE)
-        content = re.sub(r'<tr[^>]*>(.*?)</tr>', r'\1|\n', content, flags=re.DOTALL | re.IGNORECASE)
-        content = re.sub(r'<thead[^>]*>.*?</thead>', '', content, flags=re.DOTALL | re.IGNORECASE)
-        content = re.sub(r'<tbody[^>]*>(.*?)</tbody>', r'\1', content, flags=re.DOTALL | re.IGNORECASE)
-        content = re.sub(r'<table[^>]*>(.*?)</table>', r'\1\n', content, flags=re.DOTALL | re.IGNORECASE)
-        
-        content = re.sub(r'<[^>]+>', '', content)
-        content = html.unescape(content)
-        content = re.sub(r'\n\s*\n', '\n\n', content)
-        content = re.sub(r'\n{3,}', '\n\n', content)
-        return content.strip()
+        return ""
     except Exception as e:
-        print(f"⚠️ Icerik cekme hatasi ({url}): {e}")
+        print(f"⚠️ WP API hatasi ({url}): {e}")
         return ""
 
 def parse_rss(xml_content):
@@ -142,7 +167,7 @@ def create_archive_file(item):
         return filepath, False
     
     if not item.get('content'):
-        item['content'] = fetch_full_content(item['link'])
+        item['content'] = fetch_wp_content(item['link'])
     
     content_text = item['content'] if item['content'] else item['description']
     
@@ -285,7 +310,7 @@ def update_feed_xml(items, daily_items):
     
     for item in daily_items:
         if not item.get('content'):
-            item['content'] = fetch_full_content(item['link'])
+            item['content'] = fetch_wp_content(item['link'])
         
         lines.append('        <item>')
         lines.append(f'            <title>{html.escape(item["title"])}</title>')
@@ -368,7 +393,7 @@ def main():
         return
     
     print("-"*70)
-    print("📂 ARSIVLEME (Tam Icerik)")
+    print("📂 ARSIVLEME (Tam Icerik - WP REST API)")
     print("-"*70)
     
     new_count = 0
@@ -423,3 +448,31 @@ def main():
 
 if __name__ == '__main__':
     main()
+'''
+
+# Save the script
+script_path = '/mnt/agents/output/.github/workflows/scripts/update_blog.py'
+os.makedirs(os.path.dirname(script_path), exist_ok=True)
+with open(script_path, 'w', encoding='utf-8') as f:
+    f.write(simple_script)
+
+print(f"✅ Simple script saved: {script_path}")
+print(f"   Size: {os.path.getsize(script_path):,} bytes")
+print()
+print("="*70)
+print("KOD HAZIR!")
+print("="*70)
+print()
+print("GitHub'a yuklemek icin:")
+print("1. .github/workflows/scripts/update_blog.py dosyasini SILIN")
+print("2. Ayni yerde 'Add file' -> 'Upload files' secin")
+print("3. Asagidaki dosyayi yukleyin:")
+print("   [update_blog.py](sandbox:///mnt/agents/output/.github/workflows/scripts/update_blog.py)")
+print()
+print("VEYA")
+print()
+print("4. GitHub'da dosyayi acin, 'Edit' deyin")
+print("5. TUM kodu silin")
+print("6. Yukaridaki kodu kopyala-yapistir yapin")
+print("7. Commit edin")
+print("8. Actions -> Run workflow calistirin")
