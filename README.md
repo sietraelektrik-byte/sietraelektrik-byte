@@ -34,10 +34,14 @@ Uzmanlık alanlarımdaki yayınlarımı ve profesyonel ağlarımı aşağıdaki 
 ---
 
 ### ✍️ Son Blog Yazılarım
-<!-- BLOG-POST-LIST:START -->
-- [LED Sektöründe “Watt” Skandalı: Etikette 100W Yazıyor, Prizde 30W Çıkıyor!](https://ledlamba.com/led-sektorunde-watt-skandali/)
-- [Enerji Lojistiğinde Karar Anı: DC Batarya Depolama mı, Termal Isı Depolama mı?](https://ledlamba.com/enerji-lojistiginde-karar-ani-dc-batarya-depolama-mi-termal-isi-depolama-mi/)
-- [Peyzaj Mimarisinde Aydınlatma Disiplini: Teknik, Ekoloji ve Estetiğin Mühendislik Rehberi 2026](https://ledlamba.com/peyzaj-mimarisinde-aydinlatma/)
-- [İç Mekan Aydınlatmasında Görsel Konfor ve Optik Verimlilik: LED Panel Teknolojileri 2026](https://ledlamba.com/led-panel-aydinlatma-rehberi/)
-- [Yüksek Güçlü LED Projektörlerde Termal Yönetim ve Fotometrik Verimlilik Analizi 2026](https://ledlamba.com/led-projektor-verimlilik-analizi/)
-<!-- BLOG-POST-LIST:END -->
+
+Gi̇Zli̇ Pandemi̇ Evimizdeki Işıklar Bizi Hasta Mı Ediyor
+
+Enerji Lojistiğinde Karar Anı Dc Batarya Depolama Mı Termal Isı Depolama Mı
+
+Elektrik Tasarrufu Gerçekten İŞe Yarar Mı
+
+Elektrik Faturasında En Çok Ne Yakar 2026 Beyaz Eşya Ve Cihaz Tüketim Analizi
+
+Elektrik Faturası Neden Bu Kadar Yüksek Geliyor
+
