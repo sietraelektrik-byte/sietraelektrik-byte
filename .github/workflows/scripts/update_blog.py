@@ -38,18 +38,15 @@ def fetch_full_content(url):
         response.raise_for_status()
         html_text = response.text
         
-        # <article> etiketini bul
         article_match = re.search(r'<article[^>]*>(.*?)</article>', html_text, re.DOTALL | re.IGNORECASE)
         if not article_match:
             return ""
         
         content = article_match.group(1)
         
-        # Gereksiz bolumleri temizle
         for tag in ['script', 'style', 'nav', 'header', 'footer', 'aside', 'form']:
             content = re.sub(rf'<{tag}.*?</{tag}>', '', content, flags=re.DOTALL | re.IGNORECASE)
         
-        # Anchor linkleri koru
         def fix_anchor(m):
             href = re.search(r'href="([^"]*)"', m.group(0))
             text = re.sub(r'<[^>]+>', '', m.group(0))
@@ -57,7 +54,6 @@ def fetch_full_content(url):
         
         content = re.sub(r'<a[^>]*>.*?</a>', fix_anchor, content, flags=re.DOTALL | re.IGNORECASE)
         
-        # Resimleri koru
         def fix_img(m):
             src = re.search(r'src="([^"]*)"', m.group(0))
             alt = re.search(r'alt="([^"]*)"', m.group(0))
@@ -65,7 +61,6 @@ def fetch_full_content(url):
         
         content = re.sub(r'<img[^>]*>', fix_img, content, flags=re.IGNORECASE)
         
-        # HTML -> Markdown
         content = re.sub(r'<h1[^>]*>(.*?)</h1>', r'# \1', content, flags=re.DOTALL | re.IGNORECASE)
         content = re.sub(r'<h2[^>]*>(.*?)</h2>', r'## \1', content, flags=re.DOTALL | re.IGNORECASE)
         content = re.sub(r'<h3[^>]*>(.*?)</h3>', r'### \1', content, flags=re.DOTALL | re.IGNORECASE)
@@ -78,7 +73,6 @@ def fetch_full_content(url):
         content = re.sub(r'<br\s*/?>', '\n', content, flags=re.IGNORECASE)
         content = re.sub(r'<p[^>]*>(.*?)</p>', r'\1\n\n', content, flags=re.DOTALL | re.IGNORECASE)
         
-        # Tablolar
         content = re.sub(r'<th[^>]*>(.*?)</th>', r'| \1 ', content, flags=re.DOTALL | re.IGNORECASE)
         content = re.sub(r'<td[^>]*>(.*?)</td>', r'| \1 ', content, flags=re.DOTALL | re.IGNORECASE)
         content = re.sub(r'<tr[^>]*>(.*?)</tr>', r'\1|\n', content, flags=re.DOTALL | re.IGNORECASE)
@@ -86,7 +80,6 @@ def fetch_full_content(url):
         content = re.sub(r'<tbody[^>]*>(.*?)</tbody>', r'\1', content, flags=re.DOTALL | re.IGNORECASE)
         content = re.sub(r'<table[^>]*>(.*?)</table>', r'\1\n', content, flags=re.DOTALL | re.IGNORECASE)
         
-        # Kalan HTML'i temizle
         content = re.sub(r'<[^>]+>', '', content)
         content = html.unescape(content)
         content = re.sub(r'\n\s*\n', '\n\n', content)
