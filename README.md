@@ -41,19 +41,6 @@ Uzmanlık alanlarımdaki yayınlarımı ve profesyonel ağlarımı aşağıdaki 
 | 9 | 2026-03-30 | [Ofis Aydınlatma Rehberi 2026: UGR, Ergonomi ve Verimlilik İçin Uzman Tavsiyeleri](https://ledlamba.com/ofis-aydinlatma-rehberi-2026/) |
 | 10 | 2026-03-21 | [Solar Güneş Enerjili Aydınlatma Armatürleri Teknolojisi 2026](https://ledlamba.com/solar-gunes-enerjili-aydinlatma-armaturleri/) |
 
-> 🔗 Tüm yazılar [ledlamba.com/faydali-bilgiler](https://ledlamba.com/faydali-bilgiler) adresinde yayınlanmaktadır.  
-> 📁 Bu repoda yer alan arşiv dosyaları SEO amaçlıdır; her yazının sonunda orijinal kaynağa canonical link bulunmaktadır.  
-> 🔄 Son güncelleme: 2026-05-16 21:18 UTC
-
----
-
-### 📂 Blog Arşivi (SEO Canonical)
-Bu repoda `ledlamba.com` blogundan arşivlenen yazılar yer almaktadır. Her `.md` dosyasının sonunda:
-- `<link rel="canonical" href="..." />` etiketi
-- Orijinal blog linki
-
-bulunmaktadır.
-
 ---
 
 ### 📩 İletişim & İş Birliği
