@@ -1,3 +1,6 @@
+İşte README.md dosyanızın tam kodu:
+
+```markdown
 # Müslim Sevindik | Sietra Elektrik 💡
 
 **LED Aydınlatma Uzmanı, Enerji Araştırmacısı ve Sietra Elektrik Kurucusu.**  
@@ -26,22 +29,42 @@ Uzmanlık alanlarımdaki yayınlarımı ve profesyonel ağlarımı aşağıdaki 
 
 ---
 
+### ✍️ Son Blog Yazılarım
+
+| # | Tarih | Başlık | Orijinal Link |
+|---|-------|--------|---------------|
+| 1 | 2026-05-15 | Endüstriyel IoT Aydınlatma ile %30 Enerji Tasarrufu | [Okuyun](https://ledlamba.com/endustriyel-iot-aydinlatma/) |
+| 2 | 2026-05-12 | LED Sektöründe "Watt" Skandalı: Etikette 100W Yazıyor, Prizde 30W Çıkıyor! | [Okuyun](https://ledlamba.com/led-sektorunde-watt-skandali/) |
+| 3 | 2026-05-11 | Enerji Lojistiğinde Karar Anı: DC Batarya Depolama mı, Termal Isı Depolama mı? | [Okuyun](https://ledlamba.com/enerji-lojistiginde-karar-ani-dc-batarya-depolama-mi-termal-isi-depolama-mi/) |
+| 4 | 2026-05-08 | Peyzaj Mimarisinde Aydınlatma Disiplini: Teknik, Ekoloji ve Estetiğin Mühendislik Rehberi 2026 | [Okuyun](https://ledlamba.com/peyzaj-mimarisinde-aydinlatma/) |
+| 5 | 2026-05-02 | İç Mekan Aydınlatmasında Görsel Konfor ve Optik Verimlilik: LED Panel Teknolojileri 2026 | [Okuyun](https://ledlamba.com/led-panel-aydinlatma-rehberi/) |
+| 6 | 2026-05-02 | Yüksek Güçlü LED Projektörlerde Termal Yönetim ve Fotometrik Verimlilik Analizi 2026 | [Okuyun](https://ledlamba.com/led-projektor-verimlilik-analizi/) |
+| 7 | 2026-04-26 | GİZLİ PANDEMİ: Evimizdeki Işıklar Bizi Hasta mı Ediyor? | [Okuyun](https://ledlamba.com/isik-kirliligi-ve-saglik-uyarisi/) |
+| 8 | 2026-04-26 | Yeni Enerji Etiketi Yönetmeliği (2026): Armatürlerde A'dan G'ye Sınıflandırma Rehberi | [Okuyun](https://ledlamba.com/yeni-enerji-etiketi-yonetmeligi-2026/) |
+| 9 | 2026-03-30 | Ofis Aydınlatma Rehberi 2026: UGR, Ergonomi ve Verimlilik İçin Uzman Tavsiyeleri | [Okuyun](https://ledlamba.com/ofis-aydinlatma-rehberi-2026/) |
+| 10 | 2026-03-21 | Solar Güneş Enerjili Aydınlatma Armatürleri Teknolojisi 2026 | [Okuyun](https://ledlamba.com/solar-gunes-enerjili-aydinlatma-armaturleri/) |
+
+> 🔗 Tüm yazılar [ledlamba.com/faydali-bilgiler](https://ledlamba.com/faydali-bilgiler) adresinde yayınlanmaktadır.  
+> 📁 Bu repoda yer alan arşiv dosyaları SEO amaçlıdır; her yazının sonunda orijinal kaynağa canonical link bulunmaktadır.  
+> 🔄 Son güncelleme: 2026-05-16 21:18 UTC
+
+---
+
+### 📂 Blog Arşivi (SEO Canonical)
+Bu repoda `ledlamba.com` blogundan arşivlenen yazılar yer almaktadır. Her `.md` dosyasının sonunda:
+- `<link rel="canonical" href="..." />` etiketi
+- Orijinal blog linki
+
+bulunmaktadır.
+
+---
+
 ### 📩 İletişim & İş Birliği
 - **Web Sitesi:** [ledlamba.com](https://ledlamba.com)
 - **E-posta:** sietraelektrik@gmail.com
 - **Konum:** Tekirdağ, Türkiye
+```
 
 ---
 
-### ✍️ Son Blog Yazılarım
-
-Gi̇Zli̇ Pandemi̇ Evimizdeki Işıklar Bizi Hasta Mı Ediyor
-
-Enerji Lojistiğinde Karar Anı Dc Batarya Depolama Mı Termal Isı Depolama Mı
-
-Elektrik Tasarrufu Gerçekten İŞe Yarar Mı
-
-Elektrik Faturasında En Çok Ne Yakar 2026 Beyaz Eşya Ve Cihaz Tüketim Analizi
-
-Elektrik Faturası Neden Bu Kadar Yüksek Geliyor
-
+Bu kodu kopyalayıp GitHub profil reposunuzdaki `README.md` dosyasına yapıştırabilirsiniz. GitHub Actions workflow'u da kurarsanız, "Son güncelleme" satırı otomatik olarak her saat güncellenecektir.
