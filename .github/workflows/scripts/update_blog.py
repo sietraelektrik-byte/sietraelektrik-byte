@@ -47,6 +47,50 @@ def fetch_rss():
         print(f"❌ RSS cekme hatasi: {e}")
         return None
 
+def fetch_full_content(url):
+    """Yazinin tam icerigini sayfasindan ceker."""
+    try:
+        print(f"📄 Icerik cekiliyor: {url}")
+        response = requests.get(url, timeout=30)
+        response.raise_for_status()
+        
+        # WordPress icerigini bul - entry-content
+        content_match = re.search(
+            r'<div[^>]*class="[^"]*entry-content[^"]*"[^>]*>(.*?)</div>\s*<footer',
+            response.text,
+            re.DOTALL | re.IGNORECASE
+        )
+        
+        if content_match:
+            content = content_match.group(1)
+            content = re.sub(r'<script.*?</script>', '', content, flags=re.DOTALL)
+            content = re.sub(r'<style.*?</style>', '', content, flags=re.DOTALL)
+            content = re.sub(r'<[^>]+>', '', content)
+            content = html.unescape(content)
+            content = re.sub(r'\n\s*\n', '\n\n', content)
+            return content.strip()
+        
+        # Alternatif: content-area class
+        content_match = re.search(
+            r'<div[^>]*class="[^"]*content-area[^"]*"[^>]*>(.*?)</div>\s*(?:<footer|</article>)',
+            response.text,
+            re.DOTALL | re.IGNORECASE
+        )
+        
+        if content_match:
+            content = content_match.group(1)
+            content = re.sub(r'<script.*?</script>', '', content, flags=re.DOTALL)
+            content = re.sub(r'<style.*?</style>', '', content, flags=re.DOTALL)
+            content = re.sub(r'<[^>]+>', '', content)
+            content = html.unescape(content)
+            content = re.sub(r'\n\s*\n', '\n\n', content)
+            return content.strip()
+        
+        return ""
+    except Exception as e:
+        print(f"⚠️ Icerik cekme hatasi ({url}): {e}")
+        return ""
+
 def parse_rss(xml_content):
     if not xml_content:
         return []
@@ -69,14 +113,12 @@ def parse_rss(xml_content):
         pub_date_elem = item.find('pubDate')
         creator_elem = item.find('dc:creator', ns)
         desc_elem = item.find('description')
-        content_elem = item.find('content:encoded', ns)
         
         title = html.unescape(title_elem.text) if title_elem is not None and title_elem.text else ''
         link = link_elem.text if link_elem is not None and link_elem.text else ''
         pub_date = pub_date_elem.text if pub_date_elem is not None and pub_date_elem.text else ''
         creator = html.unescape(creator_elem.text) if creator_elem is not None and creator_elem.text else 'Muslim SEVINDIK'
         description = html.unescape(desc_elem.text) if desc_elem is not None and desc_elem.text else ''
-        content = html.unescape(content_elem.text) if content_elem is not None and content_elem.text else ''
         
         try:
             date_obj = datetime.strptime(pub_date, '%a, %d %b %Y %H:%M:%S %z')
@@ -97,7 +139,7 @@ def parse_rss(xml_content):
             'display_date': display_date,
             'creator': creator,
             'description': description,
-            'content': content,
+            'content': '',
             'slug': slug
         })
     
@@ -110,11 +152,20 @@ def create_archive_file(item):
     if os.path.exists(filepath):
         return filepath, False
     
+    if not item.get('content'):
+        item['content'] = fetch_full_content(item['link'])
+    
+    content_text = item['content'] if item['content'] else item['description']
+    
     content = f"""# {item['title']}
 
 **Yazar:** {item['creator']}  
 **Yayin Tarihi:** {item['display_date']}  
 **Orijinal Kaynak:** [{item['link']}]({item['link']})
+
+---
+
+{content_text}
 
 ---
 
@@ -247,14 +298,18 @@ def update_feed_xml(items, daily_items):
     lines.append(f'        <itemCount>{len(daily_items)}</itemCount>')
     
     for item in daily_items:
+        if not item.get('content'):
+            item['content'] = fetch_full_content(item['link'])
+        
         lines.append('        <item>')
         lines.append(f'            <title>{html.escape(item["title"])}</title>')
         lines.append(f'            <link>{item["link"]}</link>')
         lines.append(f'            <pubDate>{item.get("pub_date", "")}</pubDate>')
         lines.append(f'            <dc:creator>{html.escape(item["creator"])}</dc:creator>')
         lines.append(f'            <guid isPermaLink="true">{item["link"]}</guid>')
-        desc = item.get('description', '')[:500]
-        lines.append(f'            <description><![CDATA[{desc}]]></description>')
+        
+        content_text = item['content'] if item['content'] else item.get('description', '')
+        lines.append(f'            <content:encoded><![CDATA[{content_text}]]></content:encoded>')
         lines.append('        </item>')
     
     lines.append('    </channel>')
@@ -327,7 +382,7 @@ def main():
         return
     
     print("-"*70)
-    print("📂 ARSIVLEME")
+    print("📂 ARSIVLEME (Tam Icerik)")
     print("-"*70)
     
     new_count = 0
@@ -359,7 +414,7 @@ def main():
     print()
     
     print("-"*70)
-    print("🌐 FEED.XML GUNCELLEME")
+    print("🌐 FEED.XML GUNCELLEME (Tam Icerik)")
     print("-"*70)
     update_feed_xml(items, daily_items)
     print()
