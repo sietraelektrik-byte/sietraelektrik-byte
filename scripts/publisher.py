@@ -1,17 +1,18 @@
 import os
 from datetime import datetime
-import html
 import re
 
 # Yapılandırma
 POSTS_DIR = "blog-archive"
 PUBLISHED_DIR = "published_posts"
 FEED_FILE = "feed.xml"
-README_FILE = "README.md"  # Profil README'sini günceller
-LIMIT = 2
-BASE_URL = "https://ledlamba.com" # SEO için ana siten
+README_FILE = "README.md"
+# 63 yazının tamamını tek seferde yayına almak ve feed'e basmak için limiti kaldırdık veya büyük bir sayı yaptık
+LIMIT = 100 
+BASE_URL = "https://ledlamba.com"
 
 def create_rss_feed(recent_files):
+    """Differ ve Dev.to standartlarına %100 uyumlu bulk feed üretici"""
     rss_items = ""
     for file_name in recent_files:
         file_path = os.path.join(PUBLISHED_DIR, file_name)
@@ -19,20 +20,18 @@ def create_rss_feed(recent_files):
         with open(file_path, "r", encoding="utf-8") as f:
             content = f.read()
 
-        # Başlığı dosyadan temizle ve formatla
+        # Orijinal dosya adından başlık türetme mantığın
         title = file_name.replace(".md", "").replace("-", " ").title()
-        
-        # SEO ve Google News için Dinamik Link Yapısı
         slug = file_name.replace(".md", "")
-        post_url = f"{BASE_URL}/blog/{slug}"
-        
-        # Differ ve RSS botları için benzersiz (unique) GUID
+        post_url = f"{BASE_URL}/{slug}" # Sitenizdeki orijinal link yapısı
         guid = f"sietra-post-{slug}"
         
-        # Temiz ve kısa açıklama
-        description = content[:300].replace("\n", " ").strip()
+        # Bulk platformların hata vermemesi için temiz açıklama
+        clean_desc = re.sub(r'<[^<]+?>', '', content)
+        clean_desc = re.sub(r'[#*`\-\[\]]', '', clean_desc)
+        description = clean_desc[:300].replace("\n", " ").strip()
         
-        # Dosyanın gerçek sisteme taşınma/yazılma tarihi (Her seferinde değişmez)
+        # Sabit Tarih: Dosyanın gerçek sisteme işlenme zamanı
         file_mtime = os.path.getmtime(file_path)
         pub_date = datetime.fromtimestamp(file_mtime).strftime("%a, %d %b %Y %H:%M:%S +0300")
         
@@ -66,9 +65,8 @@ def create_rss_feed(recent_files):
         f.write(rss_content)
 
 def update_readme(recent_files):
-    """README.md dosyasındaki '✍️ Son Blog Yazılarım' alanını dinamik günceller"""
+    """README.md içindeki anchor linkleri sitene çıkacak şekilde eksiksiz onarır"""
     if not os.path.exists(README_FILE):
-        print("README.md dosyası kök dizinde bulunamadı!")
         return
 
     with open(README_FILE, "r", encoding="utf-8") as f:
@@ -76,59 +74,53 @@ def update_readme(recent_files):
 
     header_marker = "✍️ Son Blog Yazılarım"
     if header_marker not in readme_content:
-        print("README içinde '✍️ Son Blog Yazılarım' başlığı bulunamadı!")
         return
 
-    # Başlığa göre ayır ve üst kısmı koru
     top_part = readme_content.split(header_marker)[0] + header_marker + "\n\n"
     
-    # En güncel 5 yazıyı Markdown formatında listele
+    # Profilinde tam olarak son 10 yazıyı sitene giden orijinal anchor linklerle basıyoruz
     blog_links = ""
-    for file_name in recent_files[:5]:
+    for file_name in recent_files[:10]:
         title = file_name.replace(".md", "").replace("-", " ").title()
         slug = file_name.replace(".md", "")
-        post_url = f"{BASE_URL}/blog/{slug}"
-        blog_links += f"{title}\n\n"  # Senin profil yapındaki boşluklu estetiğe sadık kaldım
+        post_url = f"{BASE_URL}/{slug}"
+        # Senin istediğin gerçek anchor link formatı:
+        blog_links += f"[{title}]({post_url})\n\n"
 
-    # Altına footer veya özel bilgi eklemek istersen burayı düzenleyebilirsin
-    # Sadece linkleri basıp temiz bırakıyoruz
-    new_readme = top_part + blog_links
-    
+    # Alt kısımda kalan repo açıklama alanını koruyoruz
+    footer_marker = "sietraelektrik-byte/sietraelektrik-byte"
+    bottom_part = ""
+    if footer_marker in readme_content:
+        bottom_part = "\n" + footer_marker + readme_content.split(footer_marker)[1]
+    else:
+        bottom_part = "\n\n_sietraelektrik-byte/sietraelektrik-byte is a special repository._"
+
     with open(README_FILE, "w", encoding="utf-8") as f:
-        f.write(new_readme)
-    print("README.md en son yazılarla başarıyla tazeleyip güncellendi.")
+        f.write(top_part + blog_links + bottom_part)
 
 def run():
-    # Klasör yollarını düzeltelim (Script içeriden çalıştırılırsa kaymasın diye)
     if not os.path.exists(PUBLISHED_DIR): os.makedirs(PUBLISHED_DIR)
     if not os.path.exists(POSTS_DIR): return
         
-    # Dosyaları isim sırasına göre al (Arşivin sırasını bozmaz)
+    # Arşivdeki tüm dosyaları oku
     files = sorted([f for f in os.listdir(POSTS_DIR) if f.endswith('.md')])
     
-    if not files:
-        print("Arşivde yayınlanacak yeni yazı kalmadı!")
-        # Yeni yazı kalmasa bile feed ve README'yi mevcut olanlarla taze tutalım
-        all_published = sorted([f for f in os.listdir(PUBLISHED_DIR) if f.endswith('.md')], reverse=True)
-        recent_published = all_published[:10]
-        if recent_published:
-            create_rss_feed(recent_published)
-            update_readme(recent_published)
-        return
-
-    to_publish_now = files[:LIMIT]
+    if files:
+        # LIMIT = 100 yaptığımız için 63 yazının tamamını tek seferde published_posts'a taşır
+        to_publish_now = files[:LIMIT]
+        for file_name in to_publish_now:
+            os.rename(os.path.join(POSTS_DIR, file_name), os.path.join(PUBLISHED_DIR, file_name))
+        print(f"{len(to_publish_now)} yazının tamamı arşive başarıyla taşındı.")
     
-    # Yeni dosyaları taşı
-    for file_name in to_publish_now:
-        os.rename(os.path.join(POSTS_DIR, file_name), os.path.join(PUBLISHED_DIR, file_name))
-    
-    # Son yayınlanan 10 yazıyı feed'de tut (Yeniden eskiye doğru sıralı)
+    # published_posts klasöründeki her şeyi yeniden eskiye sırala
     all_published = sorted([f for f in os.listdir(PUBLISHED_DIR) if f.endswith('.md')], reverse=True)
-    recent_published = all_published[:10] 
     
-    create_rss_feed(recent_published)
-    update_readme(recent_published)
-    print(f"Başarıyla {len(to_publish_now)} yazı yayınlandı, feed ve README güncellendi.")
+    # Feed içinde tüm yazıların (63 tane) görünmesi için feed beslemesini sınırlamıyoruz
+    if all_published:
+        create_rss_feed(all_published)
+        # Profilinde ise sadece en güncel son 10 yazıyı gösteriyoruz
+        update_readme(all_published)
+        print("feed.xml (Tüm yazılar) ve README.md (Son 10 link) başarıyla güncellendi.")
 
 if __name__ == "__main__":
     run()
