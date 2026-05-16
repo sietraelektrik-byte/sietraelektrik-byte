@@ -8,7 +8,7 @@ PUBLISHED_DIR = "published_posts"
 FEED_FILE = "feed.xml"
 README_FILE = "README.md"
 # 63 yazının tamamını tek seferde yayına almak ve feed'e basmak için limiti kaldırdık veya büyük bir sayı yaptık
-LIMIT = 100 
+LIMIT = 500 
 BASE_URL = "https://ledlamba.com"
 
 def create_rss_feed(recent_files):
