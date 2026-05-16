@@ -18,24 +18,29 @@ def create_rss_feed(recent_files):
         with open(file_path, "r", encoding="utf-8") as f:
             content = f.read()
 
-        # Başlığı dosyadan temizle
+        # Başlığı dosyadan temizle ve formatla
         title = file_name.replace(".md", "").replace("-", " ").title()
         
-        # SEO Hamlesi: GitHub linki yerine doğrudan dosya adını GUID yapalım
-        # Böylece Differ her dosyayı benzersiz (unique) bir makale olarak görür.
-        guid = f"sietra-post-{file_name}"
+        # SEO ve Google News için Dinamik Link Yapısı (Klasör adını blog/ yaptım, değiştirebilirsin)
+        slug = file_name.replace(".md", "")
+        post_url = f"{BASE_URL}/blog/{slug}"
         
-        # İçeriği Differ'ın anlayacağı temizlikte hazırla
-        # CDATA kullanarak Markdown'ın bozulmamasını sağlıyoruz
-        safe_content = html.escape(content)
+        # Differ ve RSS botları için benzersiz (unique) GUID
+        guid = f"sietra-post-{slug}"
         
-        pub_date = datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0300")
+        # Temiz ve kısa açıklama (Markdown etiketlerini veya HTML'i kabaca temizleyebilirsin gerekirse)
+        # Şimdilik ilk 300 karakteri alıp üç nokta koyuyoruz
+        description = content[:300].replace("\n", " ").strip()
+        
+        # ÇÖZÜM: Dosyanın gerçek sisteme taşınma/yazılma tarihini alıyoruz (Her seferinde değişmez)
+        file_mtime = os.path.getmtime(file_path)
+        pub_date = datetime.fromtimestamp(file_mtime).strftime("%a, %d %b %Y %H:%M:%S +0300")
         
         rss_items += f"""
         <item>
             <title><![CDATA[{title}]]></title>
-            <link>{BASE_URL}</link>
-            <description><![CDATA[{content[:500]}...]]></description>
+            <link>{post_url}</link>
+            <description><![CDATA[{description}...]]></description>
             <content:encoded><![CDATA[{content}]]></content:encoded>
             <pubDate>{pub_date}</pubDate>
             <guid isPermaLink="false">{guid}</guid>
@@ -52,7 +57,7 @@ def create_rss_feed(recent_files):
     <link>{BASE_URL}</link>
     <description>LED Aydınlatma ve Enerji Teknolojileri Uzmanlık Blogu</description>
     <language>tr</language>
-    <atom:link href="{BASE_URL}/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="{BASE_URL}/{FEED_FILE}" rel="self" type="application/rss+xml" />
     {rss_items}
 </channel>
 </rss>"""
@@ -77,10 +82,9 @@ def run():
     for file_name in to_publish_now:
         os.rename(os.path.join(POSTS_DIR, file_name), os.path.join(PUBLISHED_DIR, file_name))
     
-    # MÜKEMMEL DOKUNUŞ: RSS'e tüm arşivi değil, sadece en son yayınlanan 5-10 taneyi bas.
-    # Böylece Differ sadece taze olanları görür, feed dosyan şişmez.
+    # Son yayınlanan 10 yazıyı feed'de tut (Yeniden eskiye doğru sıralı)
     all_published = sorted([f for f in os.listdir(PUBLISHED_DIR) if f.endswith('.md')], reverse=True)
-    recent_published = all_published[:10] # Son 10 yazıyı feed'de tutar
+    recent_published = all_published[:10] 
     
     create_rss_feed(recent_published)
     print(f"Başarıyla {len(to_publish_now)} yazı yayınlandı ve feed güncellendi.")
