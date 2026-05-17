@@ -1,7 +1,5 @@
 # GİZLİ PANDEMİ: Evimizdeki Işıklar Bizi Hasta mı Ediyor?
 
-**Yayın Tarihi:** Sun, 26 Apr 2026 21:38:48 +0000
-
 
     
         GİZLİ PANDEMİ: Evimizdeki Işıklar Bizi Hasta mı Ediyor?
@@ -58,6 +56,6 @@
     
 
 ---
-**Asıl Kaynak (Canonical):** [GİZLİ PANDEMİ: Evimizdeki Işıklar Bizi Hasta mı Ediyor?](https://ledlamba.com/isik-kirliligi-ve-saglik-uyarisi/)
+**Asıl Kaynak:** https://ledlamba.com/isik-kirliligi-ve-saglik-uyarisi/
 
-*Bu içerik otomatik olarak [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından arşivlenmiştir.*
+*Bu içerik [Sietra Uydu](https://github.com/sietraelektrik-byte) tarafından otomatik arşivlenmiştir.*
