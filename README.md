@@ -49,5 +49,4 @@ Uzmanlık alanlarımdaki yayınlarımı ve profesyonel ağlarımı aşağıdaki 
 [Tekirdağda Şerit Led Mi Neon Led Mi Teknik İNceleme Rehberi 2026](https://ledlamba.com/tekirdağda-şerit-led-mi-neon-led-mi-teknik-i̇nceleme-rehberi-2026)
 
 
-
-_sietraelektrik-byte/sietraelektrik-byte is a special repository._
+sietraelektrik-byte/sietraelektrik-byte is a special repository._
