@@ -19,7 +19,7 @@ def slugify(text):
     return re.sub(re.compile(r'[-\s]+'), '-', text).strip('-')
 
 def clean_and_convert_html(html_content):
-    """HTML içeriğini temizler, linkleri korur ve saf Markdown'a çevirir"""
+    """HTML içeriğini temizler, iç linkleri Markdown formatına ([Metin](URL)) çevirir"""
     if not html_content:
         return ""
     
@@ -39,31 +39,56 @@ def clean_and_convert_html(html_content):
     for header_tag in soup.find_all('header'):
         header_tag.decompose()
 
-    # 3. HTML elemanlarını temiz Markdown yapılarına dönüştür
+    # 3. ÖNEMLİ: Linkleri (<a>) düz metne düşürmeden Markdown formatına çevir
+    for a in soup.find_all('a'):
+        href = a.get('href', '').strip()
+        text = a.get_text().strip()
+        if href and text:
+            # Eğer dahili sayfa içi link değilse ve başında http yoksa tamamla
+            a.replace_with(f"[{text}]({href})")
+        elif text:
+            a.replace_with(text)
+
+    # 4. Kalın ve Eğik Yazıları Markdown'a Çevir
+    for strong in soup.find_all(['strong', 'b']):
+        strong.replace_with(f" **{strong.get_text().strip()}** ")
+    for em in soup.find_all(['em', 'i']):
+        em.replace_with(f" *{em.get_text().strip()}* ")
+
+    # 5. Başlıkları Markdown'a Çevir
     for h in soup.find_all(['h1', 'h2', 'h3', 'h4', 'h5', 'h6']):
         level = int(h.name[1])
         h.replace_with(f"\n\n{'#' * level} {h.get_text().strip()}\n\n")
         
+    # 6. Listeleri ve Paragrafları Düzenle
     for p in soup.find_all('p'):
         p.replace_with(f"\n{p.get_text().strip()}\n")
         
     for li in soup.find_all('li'):
-        # İçindeki linkleri bozmamak için text yerine doğrudan eleman kontrolü yapabiliriz
         li.replace_with(f"* {li.get_text().strip()}\n")
 
-    # 4. Tabloları düzgün okunabilir Markdown tablosuna çevir
+    # 7. Tabloları düzgün okunabilir Markdown tablosuna çevir
     for table in soup.find_all('table'):
         markdown_table = []
         rows = table.find_all('tr')
         for i, row in enumerate(rows):
             cells = [cell.get_text().strip().replace('|', '\\|') for cell in row.find_all(['th', 'td'])]
+            # Eğer boş satır denk gelirse atla
+            if not any(cells):
+                continue
             markdown_table.append(f"| {' | '.join(cells)} |")
             if i == 0:  # Header altı çizgisi
                 markdown_table.append(f"| {' | '.join(['---'] * len(cells))} |")
         table.replace_with("\n\n" + "\n".join(markdown_table) + "\n\n")
 
-    # Temizlenmiş metni al ve çoklu boşlukları düzenle
+    # Son temizlik: HTML kalıntılarını temizle ve çoklu boşlukları düzenle
     text_content = soup.get_text()
+    
+    # Markdown link yapay boşluklarını temizle (örn: "[ Metin ]( URL )" -> "[Metin](URL)")
+    text_content = re.sub(r'\[\s+', '[', text_content)
+    text_content = re.sub(r'\s+\]', ']', text_content)
+    
+    # Satır boşluklarını jilet gibi yap
     text_content = re.sub(r'\n\s*\n', '\n\n', text_content)
     
     return text_content.strip()
@@ -98,7 +123,7 @@ def main():
             else:
                 raw_content = ""
 
-            # HTML'den arındırılmış kusursuz Markdown içeriği
+            # HTML'den arındırılmış, linkleri korunmuş mükemmel Markdown
             content = clean_and_convert_html(raw_content)
 
             filename = f"{slugify(title)}.md"
@@ -117,7 +142,7 @@ canonical: "{link}"
 
             with open(filepath, "w", encoding="utf-8") as f:
                 f.write(md_content)
-            print(f"Jilet gibi arşive eklendi: {filename}")
+            print(f"Linkleri ile birlikte arşive eklendi: {filename}")
             processed_titles.add(title)
             
         page += 1
