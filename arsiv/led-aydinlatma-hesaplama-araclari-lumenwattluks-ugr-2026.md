@@ -10,11 +10,11 @@ LED Aydınlatma Hesaplama Araçları 2026
 
 # Aydınlatma ve Elektrik Hesaplama Araçları
 
-Aydınlatma ve elektrik hesaplama araçları, sahada hızlı ön değerlendirme yapmak, doğru ürün ve kablo seçimine yaklaşmak ve temel teknik kararları daha bilinçli vermek için oldukça faydalıdır. Bu sayfada yer alan araçlarla lümen hesaplama, lüks ve watt tahmini, UGR kontrolü ve gerilim düşümü hesaplama işlemlerini tek ekranda pratik şekilde yapabilirsiniz. Özellikle ofis, mağaza, konut, depo ve ticari alan uygulamalarında bu tür hızlı araçlar ilk karar aşamasında ciddi kolaylık sağlar.
+**Aydınlatma ve elektrik hesaplama araçları** , sahada hızlı ön değerlendirme yapmak, doğru ürün ve kablo seçimine yaklaşmak ve temel teknik kararları daha bilinçli vermek için oldukça faydalıdır. Bu sayfada yer alan araçlarla  **lümen hesaplama** ,  **lüks ve watt tahmini** ,  **UGR kontrolü**  ve  **gerilim düşümü hesaplama**  işlemlerini tek ekranda pratik şekilde yapabilirsiniz. Özellikle ofis, mağaza, konut, depo ve ticari alan uygulamalarında bu tür hızlı araçlar ilk karar aşamasında ciddi kolaylık sağlar.
 
 Birçok kullanıcı sadece watt değerine bakarak ürün seçmeye çalışır. Oysa iyi bir değerlendirme için toplam ışık ihtiyacını, görsel konfor seviyesini ve elektrik altyapısının uygunluğunu birlikte düşünmek gerekir. Yani doğru aydınlatma seçimi yalnızca kaç watt kullanıldığı ile değil; aynı zamanda kaç lümen elde edildiği, mekanda hedeflenen lüks seviyesinin karşılanıp karşılanmadığı, armatürün kamaşma oluşturup oluşturmadığı ve kablo hattında kabul edilebilir gerilim düşümü olup olmadığı ile ilgilidir.
 
-Bu yüzden burada bulunan araç merkezi, tek bir hesaplayıcı yerine birbirini tamamlayan üç farklı bölümden oluşur. İlk bölüm lümen, watt ve lüks hesaplama içindir. İkinci bölüm UGR hızlı kontrolü ile görsel konforu ön değerlendirmeye yardımcı olur. Üçüncü bölüm ise tek faz ve üç faz gerilim düşümü hesaplama aracı ile kablo hattı tarafında yaklaşık voltaj kaybını gösterir. Böylece kullanıcı, aydınlatma ve elektrik tarafındaki temel ihtiyaçları aynı sayfada daha düzenli değerlendirebilir.
+Bu yüzden burada bulunan araç merkezi, tek bir hesaplayıcı yerine birbirini tamamlayan üç farklı bölümden oluşur. İlk bölüm  **lümen, watt ve lüks hesaplama**  içindir. İkinci bölüm  **UGR hızlı kontrolü**  ile görsel konforu ön değerlendirmeye yardımcı olur. Üçüncü bölüm ise  **tek faz ve üç faz gerilim düşümü hesaplama**  aracı ile kablo hattı tarafında yaklaşık voltaj kaybını gösterir. Böylece kullanıcı, aydınlatma ve elektrik tarafındaki temel ihtiyaçları aynı sayfada daha düzenli değerlendirebilir.
 
 Lümen Hesaplama
 Lüks Hesabı
@@ -36,7 +36,7 @@ Armatür tipi, görüş yönü, tavan yüksekliği, yüzey özellikleri ve ekran
 
 ## Gerilim Düşümü Hesabı Neden Yapılmalıdır?
 
-Gerilim düşümü hesaplama, özellikle uzun kablo hatlarında ve yüksek akım geçen devrelerde önem kazanır. Kablo boyunca oluşan direnç etkisi nedeniyle yük ucundaki gerilim düşebilir. Bu durum aydınlatma seviyesini azaltabilir, motorlarda verim kaybına neden olabilir ve bazı cihazların kararsız çalışmasına yol açabilir. Bu yüzden sadece kablonun akımı taşıması değil, yük ucuna uygun gerilim seviyesini ulaştırması da gerekir.
+**Gerilim düşümü hesaplama** , özellikle uzun kablo hatlarında ve yüksek akım geçen devrelerde önem kazanır. Kablo boyunca oluşan direnç etkisi nedeniyle yük ucundaki gerilim düşebilir. Bu durum aydınlatma seviyesini azaltabilir, motorlarda verim kaybına neden olabilir ve bazı cihazların kararsız çalışmasına yol açabilir. Bu yüzden sadece kablonun akımı taşıması değil, yük ucuna uygun gerilim seviyesini ulaştırması da gerekir.
 
 Buradaki gerilim düşümü hesaplayıcı; tek faz ve üç faz sistemlerde, iletken tipi, kesit, hat uzunluğu, akım ve güç faktörü gibi değerleri kullanarak yaklaşık sonuç verir. Böylece uygun kesit seçimine yaklaşmak ve sınır değerleri önceden görmek kolaylaşır. Kısa keşif, teklif hazırlığı, uygulama öncesi teknik kontrol ve saha kararı gibi durumlarda bu tarz pratik araçlar ciddi zaman kazandırır.
 
@@ -244,4 +244,4 @@ Bu sayfadaki sonuçlar hızlı ön değerlendirme amacıyla hazırlanmıştır. 
 
 ## Genel Değerlendirme
 
-İyi bir aydınlatma ve elektrik altyapısı yalnızca çalışan ürünlerden oluşmaz; aynı zamanda doğru seviyede ışık sağlayan, kullanıcıyı yormayan ve hattın sonunda kabul edilebilir gerilim sunan dengeli bir sistem gerektirir. Bu nedenle aydınlatma hesaplama araçları ve elektrik hesaplama araçları birlikte düşünülmelidir. Buradaki araç merkezi, hızlı ve pratik bir başlangıç noktası sunarak teknik karar sürecini kolaylaştırır.
+İyi bir aydınlatma ve elektrik altyapısı yalnızca çalışan ürünlerden oluşmaz; aynı zamanda doğru seviyede ışık sağlayan, kullanıcıyı yormayan ve hattın sonunda kabul edilebilir gerilim sunan dengeli bir sistem gerektirir. Bu nedenle  **aydınlatma hesaplama araçları**  ve  **elektrik hesaplama araçları**  birlikte düşünülmelidir. Buradaki araç merkezi, hızlı ve pratik bir başlangıç noktası sunarak teknik karar sürecini kolaylaştırır.

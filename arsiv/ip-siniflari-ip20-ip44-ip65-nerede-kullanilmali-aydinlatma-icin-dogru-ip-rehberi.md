@@ -6,12 +6,12 @@ canonical: "https://ledlamba.com/ip-siniflari-ip20-ip44-ip65-nerede-kullanilmali
 
 # IP Sınıfları (IP20 / IP44 / IP65) Nerede Kullanılmalı? Aydınlatma İçin Doğru IP Rehberi
 
-Kısa Özet: Aydınlatma ürünlerinde IP sınıfı, ürünün toza ve suya karşı dayanım seviyesini ifade eder. Yanlış IP sınıfı seçimi; erken arıza, güvenlik riski ve gereksiz maliyetlere yol açabilir. Bu rehberde IP20, IP44 ve IP65 sınıflarının ne anlama geldiğini ve hangi alanlarda doğru şekilde kullanılması gerektiğini net örneklerle bulacaksınız.
+**Kısa Özet:**  Aydınlatma ürünlerinde IP sınıfı, ürünün toza ve suya karşı dayanım seviyesini ifade eder. Yanlış IP sınıfı seçimi; erken arıza, güvenlik riski ve gereksiz maliyetlere yol açabilir. Bu rehberde IP20, IP44 ve IP65 sınıflarının ne anlama geldiğini ve hangi alanlarda doğru şekilde kullanılması gerektiğini net örneklerle bulacaksınız.
 
 LED teknolojisinin temelini ve aydınlatma sistemlerinin evrimini anlatan kapsamlı rehber için
-Işığın Aydınlatmadaki Evrimi sayfasına göz atabilirsiniz.
+[Işığın Aydınlatmadaki Evrimi](https://ledlamba.com/isigin-aydinlatmadaki-evrimi/) sayfasına göz atabilirsiniz.
 
-Bu rehberde:
+**Bu rehberde:**
 
 * IP sınıfı nedir ve neyi ifade eder?
 
@@ -27,9 +27,9 @@ Bu rehberde:
 
 IP (Ingress Protection) sınıfı, bir elektrikli ürünün katı cisimlere (toz gibi) ve sıvılara (su gibi) karşı dayanım seviyesini gösteren uluslararası bir standarttır. IP kodu iki rakamdan oluşur:
 
-* İlk rakam: Toza ve katı cisimlere karşı koruma
+* **İlk rakam:**  Toza ve katı cisimlere karşı koruma
 
-* İkinci rakam: Suya ve neme karşı koruma
+* **İkinci rakam:**  Suya ve neme karşı koruma
 
 Örneğin IP65 kodunda “6” tam toz korumasını, “5” ise düşük basınçlı suya karşı dayanımı ifade eder.
 
@@ -45,7 +45,7 @@ IP20 sınıfı ürünler, toza ve suya karşı özel bir koruma sunmaz. Bu neden
 
 * Koridor ve toplantı odaları
 
-Uyarı: IP20 ürünlerin nemli alanlarda veya dış mekânda kullanılması, erken arızaya ve güvenlik risklerine yol açabilir.
+**Uyarı:**  IP20 ürünlerin nemli alanlarda veya dış mekânda kullanılması, erken arızaya ve güvenlik risklerine yol açabilir.
 
 ## IP44 Nedir? Nerelerde Kullanılmalı?
 
@@ -94,7 +94,7 @@ Bu nedenle IP sınıfı seçimi, watt veya lumen kadar kritik bir konudur.
 ## Doğru Ürün Seçimi İçin İpucu
 
 Aydınlatma ürünlerini seçerken kullanım alanı, nem ve toz durumu mutlaka değerlendirilmelidir. Farklı IP sınıflarındaki LED ürünleri incelemek için
-LED aydınlatma sayfasına göz atabilirsiniz.
+[LED aydınlatma](https://ledlamba.com/led-aydinlatma/) sayfasına göz atabilirsiniz.
 
 ## Sık Sorulan Sorular
 

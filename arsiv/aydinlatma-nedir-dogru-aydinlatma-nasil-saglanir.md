@@ -66,7 +66,7 @@ Yetersiz aydınlatma ortamı karanlık ve kullanışsız hâle getirirken, aşı
 
 ### 3. Enerji Verimli Ürünler Tercih Edilmeli
 
-Günümüzde LED teknolojisi, düşük enerji tüketimi ve uzun ömür avantajı sayesinde en verimli aydınlatma çözümüdür. Kaliteli LED aydınlatma ürünleri, uzun vadede ciddi tasarruf sağlar.
+Günümüzde LED teknolojisi, düşük enerji tüketimi ve uzun ömür avantajı sayesinde en verimli aydınlatma çözümüdür. Kaliteli [LED aydınlatma ürünleri](https://ledlamba.com/), uzun vadede ciddi tasarruf sağlar.
 
 ### 4. Doğru Armatür Yerleşimi Yapılmalı
 
@@ -88,4 +88,4 @@ Bu hatalardan kaçınmak için aydınlatma planlaması mutlaka bilinçli şekild
 
 Aydınlatma, sadece bir ihtiyaç değil; konfor, estetik ve verimlilik sağlayan önemli bir yatırımdır. Doğru aydınlatma sayesinde hem yaşam alanlarınızı daha keyifli hâle getirebilir hem de enerji maliyetlerinizi düşürebilirsiniz.
 
-Mekânınıza en uygun çözümleri keşfetmek için LED aydınlatma ürünlerimizi inceleyebilirsiniz.
+Mekânınıza en uygun çözümleri keşfetmek için [LED aydınlatma ürünlerimizi](https://ledlamba.com/) inceleyebilirsiniz.

@@ -31,7 +31,7 @@ LED spot; daha dar açılı, yönlendirilmiş ışık veren ve çoğu zaman vurg
       Birçok ev ve iş yerinde en iyi sonuç, iki yaklaşımın dengeli şekilde birlikte kurgulanmasıyla elde edilir:
       panel veya benzeri homojen bir ana aydınlatma + spot veya yönlü armatürlerle vurgu katmanları.
 
-Özet mantık:
+ **Özet mantık:** 
       LED panel ağırlıklı çözümler “eşit dağılan genel ışık” üretir. LED spot ağırlıklı çözümler “yönlü ve kontrollü vurgu”
       üretir. Mekânın işlevi ve kullanım süresi, hangi tarafın baskın olması gerektiğini belirler.
 
@@ -167,7 +167,7 @@ Tek Kelvin seçip her alana uygulamak pratik görünse de her odanın kullanım 
       beklentisi aynı değildir. Renk sıcaklığı; mekânın sıcaklığı, duvar rengi, gün ışığı alma durumu ve kullanım alışkanlıklarıyla birlikte
       değerlendirilir. Bu yaklaşım, panel mi spot mu kararından bağımsız olarak aydınlatma kalitesini belirler.
 
-Yerleşimde temel hedef: Karanlık bölge bırakmayan, göz hizasında parlamayı azaltan, iş yapılan alanlarda gölgeyi
+ **Yerleşimde temel hedef:**  Karanlık bölge bırakmayan, göz hizasında parlamayı azaltan, iş yapılan alanlarda gölgeyi
       minimuma indiren ve mekâna katmanlı bir ışık derinliği kazandıran bir düzen kurmaktır.
 
 ## SSS (Sık Sorulan Sorular)
@@ -218,32 +218,32 @@ Bu sayfa, Tekirdağ’da LED panel ve LED spot seçiminde oda oda kullanım mant
 
 LED aydınlatma teknolojisini daha iyi anlamak ve teknik detaylara hakim olmak için aşağıdaki uzman rehberlerimizi inceleyebilirsiniz:
 
-                💡 LED Sürücü (Driver) Nedir?
+[💡 LED Sürücü (Driver) Nedir?](https://ledlamba.com/led-surucu-driver-nedir-led-omrunu-ve-performansini-neden-belirler/)
 
 LED armatürlerin ömrünü belirleyen sabit akım ve voltaj sürücülerinin farkları.
 
-                🛡️ IP Sınıfları Nedir? (IP20, IP44, IP65, IP68)
+[🛡️ IP Sınıfları Nedir? (IP20, IP44, IP65, IP68)](https://ledlamba.com/ip-siniflari-ip20-ip44-ip65-nerede-kullanilmali-aydinlatma-icin-dogru-ip-rehberi/)
 
 İç ve dış mekanda doğru sızdırmazlık sınıfı seçimi için rehber.
 
-                ⚠️ LED Panel Neden Bozulur?
+[⚠️ LED Panel Neden Bozulur?](https://ledlamba.com/led-panel-neden-cabuk-bozulur-gercek-sebepler-ve-kalici-cozumler/)
 
 Panel arızalarının gerçek nedenleri: Isı, sürücü hataları ve kalitesiz bileşenler.
 
-                🏠 Alçıpan ve Tavan LED Spot Seçim Rehberi
+[🏠 Alçıpan ve Tavan LED Spot Seçim Rehberi](https://ledlamba.com/alcipan-led-spot-gun-isigi-led-spot-ve-tavan-led-spot-rehberi/)
 
 Ev aydınlatmasında doğru spot açısı ve ışık rengi nasıl belirlenir?
 
-                📊 LED mi Floresan mı? Tasarruf Analizi
+[📊 LED mi Floresan mı? Tasarruf Analizi](https://ledlamba.com/led-mi-floresan-mi/)
 
 Enerji tüketimi ve maliyet açısından aydınlatma teknolojilerinin karşılaştırması.
 
-                📱 Akıllı Aydınlatma Sistemleri ve Sensörler
+[📱 Akıllı Aydınlatma Sistemleri ve Sensörler](https://ledlamba.com/akilli-aydinlatma-sistemleri/)
 
 Otomasyonun enerji tasarrufuna gerçek etkisi ve 2026 Türkiye verileri.
 
-                🌡️ LED Armatürlerde Isı Yönetimi
+[🌡️ LED Armatürlerde Isı Yönetimi](https://ledlamba.com/led-armaturlerde-isi-yonetimi/)
 
 LED çiplerin ömrünü korumak için termal yönetimin önemi.
 
-Bu teknik rehberler, aydınlatma projelerinizde en doğru kararı vermeniz için Sietra Elektrik tecrübesiyle hazırlanmıştır.
+Bu teknik rehberler, aydınlatma projelerinizde en doğru kararı vermeniz için  **Sietra Elektrik**  tecrübesiyle hazırlanmıştır.

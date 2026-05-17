@@ -139,7 +139,7 @@ Naš cilj je izgradnja dugoročnih partnerstava
       transparentnosti
       i konkurentnim cenama.
 
-Sietra Elektrik Aydınlatma –
+**Sietra Elektrik Aydınlatma –
       pouzdan partner za pristupačna LED
       i solarna rasvetna rešenja
-      iz Turske za Srbiju i Balkan.
+      iz Turske za Srbiju i Balkan.**

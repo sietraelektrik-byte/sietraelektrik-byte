@@ -18,7 +18,7 @@ LED aydınlatma teknolojisi, günümüzde enerji verimliliği ve tasarım esnekl
 
 2026 yılı aydınlatma trendleri ve mühendislik verileri ışığında hazırladığımız bu rehberde, evinizdeki ışığın neden mağazanızda çalışmadığını veya mağaza aydınlatmanızın evde neden göz yorduğunu en ince ayrıntısına kadar inceleyeceğiz. Özellikle Tekirdağ’ın denizel iklimi, yüksek nem oranı ve ticari rekabet ortamı dikkate alınarak optimize edilen bu farklar, yanlış yatırım yapmanızı engelleyecektir.
 
-Temel Stratejik Fark: Konut aydınlatmasında ana hedef “Göz Konforu ve Dinlenme” iken; mağaza aydınlatmasında temel hedef “Ürün Teşhiri ve Satış Psikolojisi” üzerine kuruludur.
+**Temel Stratejik Fark:**  Konut aydınlatmasında ana hedef  **“Göz Konforu ve Dinlenme”**  iken; mağaza aydınlatmasında temel hedef  **“Ürün Teşhiri ve Satış Psikolojisi”**  üzerine kuruludur.
 
 ## 1. Aydınlatma Tasarımı ve Katmanlandırma Yaklaşımı
 
@@ -67,53 +67,53 @@ Mağaza aydınlatmasında armatürün kendisi kadar “Sürücü” kalitesi de 
 
 ## 7. Sık Sorulan Sorular (Genişletilmiş SSS)
 
-1. Evime mağaza tipi ray spot takarsam ne olur?
+**1. Evime mağaza tipi ray spot takarsam ne olur?** 
 Işık çok sert gelir, odanın köşelerinde derin karanlıklar oluşur ve yüksek lümen nedeniyle gözleriniz kısa sürede yorulur. Estetik olarak “endüstriyel” durabilir ama konfor açısından başarısızdır.
 
-2. Mağazada standart panel LED kullanmak neden yanlıştır?
+**2. Mağazada standart panel LED kullanmak neden yanlıştır?** 
 Standart paneller ışığı her yöne eşit dağıtır. Bu da ürünlerin “sıradan” görünmesine, derinlik algısının kaybolmasına ve mağazanın bir depo gibi algılanmasına neden olur.
 
-3. Tekirdağ gibi nemli bölgelerde hangi kasa tipini seçmeliyim?
+**3. Tekirdağ gibi nemli bölgelerde hangi kasa tipini seçmeliyim?** 
 Elektrostatik toz boyalı, döküm alüminyum gövdeler korozyona karşı en dayanıklı olanlardır. Plastik kasalı ucuz ürünlerden nemli bölgelerde kaçınmalısınız.
 
-4. Enerji tasarrufu hangisinde daha kritiktir?
+**4. Enerji tasarrufu hangisinde daha kritiktir?** 
 Mağazalarda çalışma saati çok daha uzun olduğu için (yıllık ortalama 4500 saat), enerji tasarrufu ve lümen/watt verimliliği (lm/W) mağaza yatırımlarında kendini çok daha hızlı amorti eder.
 
-5. Mutfak aydınlatması konut mu yoksa mağaza mantığıyla mı yapılmalı?
+**5. Mutfak aydınlatması konut mu yoksa mağaza mantığıyla mı yapılmalı?** 
 Mutfak, konutun “mağazası” gibidir. Tezgah üstü için yüksek CRI (ürünleri/yiyecekleri doğru görmek için) ve yönlü ışık (görev aydınlatması) gerekir. Yani hibrit bir yaklaşım en iyisidir.
 
-Sonuç ve Öneri: Tekirdağ’daki projelerinizde konut için huzuru, mağaza için başarıyı hedefleyin. Yanlış ürün seçimi sadece maliyet değil, yaşam kalitesi ve ticari itibar kaybıdır. 2026 teknolojisiyle uyumlu, doğru sürücü ve doğru CRI değerine sahip ürünler için mutlaka bir aydınlatma planı hazırlatın.
+**Sonuç ve Öneri:**  Tekirdağ’daki projelerinizde konut için huzuru, mağaza için başarıyı hedefleyin. Yanlış ürün seçimi sadece maliyet değil, yaşam kalitesi ve ticari itibar kaybıdır. 2026 teknolojisiyle uyumlu, doğru sürücü ve doğru CRI değerine sahip ürünler için mutlaka bir aydınlatma planı hazırlatın.
 
 ## İlgili Faydalı Bilgiler Rehberleri
 
 LED aydınlatma teknolojisini daha iyi anlamak ve teknik detaylara hakim olmak için aşağıdaki uzman rehberlerimizi inceleyebilirsiniz:
 
-                💡 LED Aydınlatma Rehberleri Nedir?
+[💡 LED Aydınlatma Rehberleri Nedir?](https://sites.google.com/view/led-aydinlatma-rehberi/)
 
 LED armatürlerin ömrünü belirleyen sabit akım ve voltaj sürücülerinin farkları.
 
-                🛡️ IP Sınıfları Nedir? (IP20, IP44, IP65, IP68)
+[🛡️ IP Sınıfları Nedir? (IP20, IP44, IP65, IP68)](https://ledlamba.com/ip-siniflari-ip20-ip44-ip65-nerede-kullanilmali-aydinlatma-icin-dogru-ip-rehberi/)
 
 İç ve dış mekanda doğru sızdırmazlık sınıfı seçimi için rehber.
 
-                ⚠️ LED Panel Neden Bozulur?
+[⚠️ LED Panel Neden Bozulur?](https://ledlamba.com/led-panel-neden-cabuk-bozulur-gercek-sebepler-ve-kalici-cozumler/)
 
 Panel arızalarının gerçek nedenleri: Isı, sürücü hataları ve kalitesiz bileşenler.
 
-                🏠 Alçıpan ve Tavan LED Spot Seçim Rehberi
+[🏠 Alçıpan ve Tavan LED Spot Seçim Rehberi](https://ledlamba.com/alcipan-led-spot-gun-isigi-led-spot-ve-tavan-led-spot-rehberi/)
 
 Ev aydınlatmasında doğru spot açısı ve ışık rengi nasıl belirlenir?
 
-                📊 LED mi Floresan mı? Tasarruf Analizi
+[📊 LED mi Floresan mı? Tasarruf Analizi](https://ledlamba.com/led-mi-floresan-mi/)
 
 Enerji tüketimi ve maliyet açısından aydınlatma teknolojilerinin karşılaştırması.
 
-                📱 Akıllı Aydınlatma Sistemleri ve Sensörler
+[📱 Akıllı Aydınlatma Sistemleri ve Sensörler](https://ledlamba.com/akilli-aydinlatma-sistemleri/)
 
 Otomasyonun enerji tasarrufuna gerçek etkisi ve 2026 Türkiye verileri.
 
-                🌡️ LED Armatürlerde Isı Yönetimi
+[🌡️ LED Armatürlerde Isı Yönetimi](https://ledlamba.com/led-armaturlerde-isi-yonetimi/)
 
 LED çiplerin ömrünü korumak için termal yönetimin önemi.
 
-Bu teknik rehberler, aydınlatma projelerinizde en doğru kararı vermeniz için Sietra Elektrik tecrübesiyle hazırlanmıştır.
+Bu teknik rehberler, aydınlatma projelerinizde en doğru kararı vermeniz için  **Sietra Elektrik**  tecrübesiyle hazırlanmıştır.

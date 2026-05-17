@@ -166,7 +166,7 @@ Metal halide geniş açılıdır, LED ise odaklanabilir. Bu yüzden:
 ## 7. LED Dönüşüm İçin En İyi Ürünler
 
 Metal halide yerine kullanılabilecek yüksek performanslı ürünleri incelemek için:  
-LED Projektör Modelleri
+[LED Projektör Modelleri](https://ledlamba.com/led-projektor)
 
 – 100–500W aralığında, 130–180 lm/W verimli, 5 yıl garantili ürünler tercih edin.
 
@@ -190,4 +190,4 @@ Eğer hâlâ metal halide kullanıyorsanız, bugün dönüşüm yapmanın tam za
 
 Sietra Elektrik olarak Tekirdağ ve Türkiye genelinde **metal halide → LED dönüşüm** projelerinizi profesyonelce gerçekleştiriyoruz. Hemen teklif almak için bizimle iletişime geçin!
 
-LED Projektör Modelleri ve Fiyatları için tıklayın.
+[LED Projektör Modelleri ve Fiyatları](https://ledlamba.com/led-projektor) için tıklayın.

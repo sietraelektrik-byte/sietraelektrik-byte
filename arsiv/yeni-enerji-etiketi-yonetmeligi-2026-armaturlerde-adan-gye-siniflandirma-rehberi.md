@@ -8,17 +8,17 @@ canonical: "https://ledlamba.com/yeni-enerji-etiketi-yonetmeligi-2026/"
 
 Yeni Enerji Etiketi Yönetmeliği (2026): Armatürlerde A’dan G’ye Sınıflandırma
 
-Rehber İçeriği
+ **Rehber İçeriği** 
 
-1. Neden Değişti?
-2. Eski vs Yeni Sistem
-3. Verimlilik Sınıfları
-4. Etiketleme Kuralları
-5. QR Kod & EPREL
-6. Zaman Çizelgesi
-7. Tüketici Rehberi
+[1. Neden Değişti?](#neden)
+[2. Eski vs Yeni Sistem](#karsilastirma)
+[3. Verimlilik Sınıfları](#teknik)
+[4. Etiketleme Kuralları](#kurallar)
+[5. QR Kod & EPREL](#eprel)
+[6. Zaman Çizelgesi](#zaman)
+[7. Tüketici Rehberi](#tuketici)
 
-1 Eylül 2021 tarihinden itibaren, Avrupa Birliği’nde yürürlüğe giren yeni Enerji Etiketi Yönetmeliği (EU) 2019/2015, aydınlatma ürünlerinde köklü bir değişimi beraberinde getirmiştir. Bu yönetmelik, eski A+++ ile D arasındaki karmaşık sınıflandırmayı terk ederek, A (en verimli) ile G (en az verimli) arasındaki basit ve anlaşılır bir ölçeğe dönmüştür. 2026 yılı itibarıyla bu düzenleme, Türkiye’nin de AB mevzuatına uyum süreci kapsamında yerli üreticiler ve ithalatçılar için zorunlu hale gelmiştir.
+**1 Eylül 2021 tarihinden itibaren** , Avrupa Birliği’nde yürürlüğe giren yeni Enerji Etiketi Yönetmeliği (EU) 2019/2015, aydınlatma ürünlerinde köklü bir değişimi beraberinde getirmiştir. Bu yönetmelik, eski A+++ ile D arasındaki karmaşık sınıflandırmayı terk ederek,  **A (en verimli) ile G (en az verimli)**  arasındaki basit ve anlaşılır bir ölçeğe dönmüştür. 2026 yılı itibarıyla bu düzenleme, Türkiye’nin de AB mevzuatına uyum süreci kapsamında yerli üreticiler ve ithalatçılar için zorunlu hale gelmiştir.
 
 ## 1. Neden Yeni Bir Enerji Etiketi Sistemi?
 
@@ -34,11 +34,11 @@ Eski ve yeni sistem arasındaki farklar sadece harflerle sınırlı değildir; h
 
 | Özellik | Eski Sistem (2012-2021) | Yeni Sistem (2021-2026+) |
 | --- | --- | --- |
-| Sınıf Aralığı | A+++ → D | A → G |
-| En Üst Verim | A+++ | A (Teknolojik hedef) |
-| QR Kod | Bulunmuyordu | Zorunlu Uygulama |
-| Veri Tabanı | Yerel Beyanlar | EPREL (Merkezi AB Kaydı) |
-| Hesaplama | EEI İndeksi | ηTM (Net lm/W) |
+| **Sınıf Aralığı** | A+++ → D | A → G |
+| **En Üst Verim** | A+++ | A (Teknolojik hedef) |
+| **QR Kod** | Bulunmuyordu | Zorunlu Uygulama |
+| **Veri Tabanı** | Yerel Beyanlar | EPREL (Merkezi AB Kaydı) |
+| **Hesaplama** | EEI İndeksi | ηTM (Net lm/W) |
 
 ## 3. Yeni Verimlilik Sınıfları ve Teknik Detaylar
 
@@ -84,16 +84,16 @@ Yeni yönetmeliğin en devrimsel özelliği QR kodudur. Her ürün için basıla
 
 Geçiş süreci kademeli olarak tamamlanmıştır. 2026 yılı itibarıyla piyasadaki tüm ürünlerin bu standartta olması yasal bir zorunluluktur.
 
-2021: Yeni etiketlerin üretimi ve EPREL kaydı zorunlu oldu.
+**2021:**  Yeni etiketlerin üretimi ve EPREL kaydı zorunlu oldu.
 
-2023: Eski etiketli stokların satışı tamamen durduruldu.
+**2023:**  Eski etiketli stokların satışı tamamen durduruldu.
 
-2026: Denetimler ve standartlar en katı seviyeye ulaştı.
+**2026:**  Denetimler ve standartlar en katı seviyeye ulaştı.
 
 ## 7. Tüketiciler İçin Pratik Rehber
 
-Alışveriş yaparken sadece sınıf harfine bakmak yanıltıcı olabilir. En doğru karşılaştırma için etiketin alt kısmında bulunan kWh/1000 saat değerini kontrol edin. Bu değer, ürünün 1000 saatlik kullanımda kaç birim elektrik tüketeceğini gösterir ve doğrudan faturanıza yansır.
+Alışveriş yaparken sadece sınıf harfine bakmak yanıltıcı olabilir. En doğru karşılaştırma için etiketin alt kısmında bulunan  **kWh/1000 saat**  değerini kontrol edin. Bu değer, ürünün 1000 saatlik kullanımda kaç birim elektrik tüketeceğini gösterir ve doğrudan faturanıza yansır.
 
-Müslim Sevindik – Sietra Elektrik Genel Müdürü
+**Müslim Sevindik**  – Sietra Elektrik Genel Müdürü
 
 Aydınlatma ve Enerji Verimliliği Uzmanı | © 2026 ledlamba.com

@@ -7,7 +7,7 @@ canonical: "https://ledlamba.com/enerji-tasarrufu-saglayan-aydinlatma-urunleri-n
 # Aydınlatmada Enerji Tasarrufu Sağlayan Ürünler ve Doğru Seçim Rehberi
 
 Enerji maliyetlerinin her geçen gün arttığı günümüzde, 
-aydınlatmada enerji tasarrufu hem bireysel kullanıcılar hem de işletmeler için
+ **aydınlatmada enerji tasarrufu**  hem bireysel kullanıcılar hem de işletmeler için
 öncelikli bir konu haline gelmiştir.
 Doğru ürün seçimi ile %60’a varan enerji tasarrufu sağlamak mümkündür.
 
@@ -47,18 +47,18 @@ Bu da doğrudan enerji tasarrufu anlamına gelir.
 Dış mekân ve geniş alan aydınlatmalarında kullanılan LED projektörler,
 yüksek lümen değerlerini düşük watt ile sunar.
 Otopark, fabrika ve saha aydınlatmalarında idealdir.
-…idealdir. Ürünlerimizi incelemek için tıklayın.
+…idealdir. [Ürünlerimizi incelemek için tıklayın.](https://ledlamba.com/urun-kategori/led-projektor/)
 
 ### LED Linear ve Endüstriyel Armatürler
 
 Depo ve üretim alanlarında kullanılan bu ürünler,
 yüksek tavanlı mekânlarda verimli aydınlatma sağlar.
-Doğru açı ve yerleşimle ciddi enerji kazancı elde edilir.Ürünlerimizi incelemek için tıklayın.
+Doğru açı ve yerleşimle ciddi enerji kazancı elde edilir.[Ürünlerimizi incelemek için tıklayın.](https://ledlamba.com/urun-kategori/led-linear-armaturler/)
 
 ## Akıllı Aydınlatma Sistemleri
 
 Enerji tasarrufunu bir adım ileri taşıyan sistemler,
-sensörlü ve zaman ayarlı aydınlatmalardır.
+ **sensörlü ve zaman ayarlı aydınlatmalar** dır.
 
 * Hareket sensörlü armatürler
 

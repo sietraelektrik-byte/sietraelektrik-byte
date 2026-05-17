@@ -8,12 +8,11 @@ canonical: "https://ledlamba.com/led-ray-spot-aydinlatma/"
 
 Bu yazı, LED ray spot aydınlatma sistemleri hakkında genel bir rehberdir.
     Tekirdağ özelinde mağaza ve ticari alanlar için LED çözümlerini toplu görmek isterseniz:
-
-      Tekirdağ LED Aydınlatma Ana Rehberi
+    [Tekirdağ LED Aydınlatma Ana Rehberi](https://ledlamba.com/tekirdag-led-aydinlatma-gruplari/)
 
 # LED Ray Spot Aydınlatma Nedir? Nerelerde Kullanılır?
 
-Yazan muslimx34 · Ocak 24, 2026
+**Yazan muslimx34**  · Ocak 24, 2026
 
 LED Ray Spot Aydınlatma
 
@@ -27,7 +26,7 @@ Ray hattı üzerinde hareket edebilen bu sistemler, mekân düzeni değiştiğin
 
 LED ray spot; LED çipler aracılığıyla ışık üreten ve ray sistemi üzerine monte edilen yönlendirilebilir spot aydınlatma armatürüdür. Spotlar ray hattı üzerinde istenilen noktaya taşınabilir ve farklı açılara yönlendirilebilir.
 
-👉 LED ray spot modellerini incelemek için tıklayın
+👉 [LED ray spot modellerini incelemek için tıklayın](https://ledlamba.com/urun-kategori/led-ray-spot/)
 
 Mağaza Aydınlatmasında LED Ray Spot Kullanımı
 
@@ -51,11 +50,11 @@ Klasik spotlar sabit montajlıdır. LED ray spotlar ise ray üzerinde hareket ed
 
 ## Watt, Lümen ve Işık Açısı
 
-* Watt: Enerji tüketimi
+* **Watt:**  Enerji tüketimi
 
-* Lümen: Işık gücü
+* **Lümen:**  Işık gücü
 
-* Işık Açısı: Işığın yayılma genişliği
+* **Işık Açısı:**  Işığın yayılma genişliği
 
 30W LED ray spot, kaliteye bağlı olarak 2500–3500 lümen ışık verebilir.
 
@@ -105,5 +104,4 @@ Profesyonel uygulamalarda Philips ve Osram öne çıkar.
 
 LED ray spot ürünlerinin farklı kullanım alanları ve şehir bazlı uygulamaları için
     ana rehberi inceleyebilirsiniz:
-
-      Tekirdağ LED Aydınlatma
+    [Tekirdağ LED Aydınlatma](https://ledlamba.com/tekirdag-led-aydinlatma-gruplari/)

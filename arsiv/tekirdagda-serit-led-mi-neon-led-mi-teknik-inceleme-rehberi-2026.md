@@ -89,7 +89,7 @@ Kelvin, ışığın sıcak (sarı) veya soğuk (beyaz/mavimsi) algılanmasını 
       daha sıcak tonlar tercih edilebilirken; çalışma yüzeylerinde daha nötr tonlar seçilebilir. Şerit LED ve neon LED’de Kelvin
       seçenekleri ürün gamına göre değişir. Aynı Kelvin değerinde bile difüzör, gövde rengi ve optik tasarım nedeniyle algı farklılaşabilir.
 
-Teknik odak: Çizgi etkisi için “difüzör kalitesi”, “LED yoğunluğu”, “profil/kanal geometrisi” ve “ek yerlerinin
+ **Teknik odak:**  Çizgi etkisi için “difüzör kalitesi”, “LED yoğunluğu”, “profil/kanal geometrisi” ve “ek yerlerinin
       görünürlüğü” birlikte değerlendirilir.
 
 ## Dayanım: IP sınıfı, UV, sıcaklık ve dış mekân
@@ -133,7 +133,7 @@ Sürücü, LED’e doğru akımı/voltajı sağlayan güç kaynağıdır. Kötü
       Yalıtım, bağlantı ekipmanları, koruma elemanları ve standartlara uygun uygulama önemlidir. Bu tip sistemlerde ek yerlerinin ve uç kapamalarının
       doğru yapılması, hem güvenlik hem de dayanım açısından belirleyicidir.
 
-Teknik odak: Uzun hatlarda parlaklık farkı yaşanmaması için “güç yoğunluğu + hat uzunluğu + besleme noktası + kablo kesiti”
+ **Teknik odak:**  Uzun hatlarda parlaklık farkı yaşanmaması için “güç yoğunluğu + hat uzunluğu + besleme noktası + kablo kesiti”
       birlikte planlanır.
 
 ## Montaj ve altyapı: profil, kanal, yapıştırma ve klips
@@ -182,7 +182,7 @@ Mobilya içi uygulamalarda şerit LED, ince formu ve kesim esnekliği ile yaygı
       Neon LED’in gövde kalınlığı bazı mobilya detaylarında yerleşimi zorlaştırabilir; ancak açıkta görünen çizgisel bir tasarım isteniyorsa
       neon flex estetik bir seçenek olabilir.
 
-Senaryo özeti: “Işık kaynağı görünür bir çizgi olacak” denildiğinde neon LED çoğu tasarımda öne çıkar.
+ **Senaryo özeti:**  “Işık kaynağı görünür bir çizgi olacak” denildiğinde neon LED çoğu tasarımda öne çıkar.
       “Gizli, profil içinde, raf altı, dolap içi” gibi detaylarda şerit LED daha esnek bir altyapı sunar.
 
 ## SSS (Sık Sorulan Sorular)
@@ -219,32 +219,32 @@ Bu teknik rehber; şerit LED ve neon LED (flex) ürünlerinin temel farklarını
 
 LED aydınlatma teknolojisini daha iyi anlamak ve teknik detaylara hakim olmak için aşağıdaki uzman rehberlerimizi inceleyebilirsiniz:
 
-                💡 LED Aydınlatma Rehberleri
+[💡 LED Aydınlatma Rehberleri](https://sites.google.com/view/led-aydinlatma-rehberi/ana-sayfa)
 
 LED armatürlerin ömrünü belirleyen sabit akım ve voltaj sürücülerinin farkları.
 
-                🛡️ IP Sınıfları Nedir? (IP20, IP44, IP65, IP68)
+[🛡️ IP Sınıfları Nedir? (IP20, IP44, IP65, IP68)](https://ledlamba.com/ip-siniflari-ip20-ip44-ip65-nerede-kullanilmali-aydinlatma-icin-dogru-ip-rehberi/)
 
 İç ve dış mekanda doğru sızdırmazlık sınıfı seçimi için rehber.
 
-                ⚠️ LED Panel Neden Bozulur?
+[⚠️ LED Panel Neden Bozulur?](https://ledlamba.com/led-panel-neden-cabuk-bozulur-gercek-sebepler-ve-kalici-cozumler/)
 
 Panel arızalarının gerçek nedenleri: Isı, sürücü hataları ve kalitesiz bileşenler.
 
-                🏠 Alçıpan ve Tavan LED Spot Seçim Rehberi
+[🏠 Alçıpan ve Tavan LED Spot Seçim Rehberi](https://ledlamba.com/alcipan-led-spot-gun-isigi-led-spot-ve-tavan-led-spot-rehberi/)
 
 Ev aydınlatmasında doğru spot açısı ve ışık rengi nasıl belirlenir?
 
-                📊 LED mi Floresan mı? Tasarruf Analizi
+[📊 LED mi Floresan mı? Tasarruf Analizi](https://ledlamba.com/led-mi-floresan-mi/)
 
 Enerji tüketimi ve maliyet açısından aydınlatma teknolojilerinin karşılaştırması.
 
-                📱 Akıllı Aydınlatma Sistemleri ve Sensörler
+[📱 Akıllı Aydınlatma Sistemleri ve Sensörler](https://ledlamba.com/akilli-aydinlatma-sistemleri/)
 
 Otomasyonun enerji tasarrufuna gerçek etkisi ve 2026 Türkiye verileri.
 
-                🌡️ LED Armatürlerde Isı Yönetimi
+[🌡️ LED Armatürlerde Isı Yönetimi](https://ledlamba.com/led-armaturlerde-isi-yonetimi/)
 
 LED çiplerin ömrünü korumak için termal yönetimin önemi.
 
-Bu teknik rehberler, aydınlatma projelerinizde en doğru kararı vermeniz için Sietra Elektrik tecrübesiyle hazırlanmıştır.
+Bu teknik rehberler, aydınlatma projelerinizde en doğru kararı vermeniz için  **Sietra Elektrik**  tecrübesiyle hazırlanmıştır.

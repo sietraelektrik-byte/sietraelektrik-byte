@@ -12,37 +12,37 @@ Aydınlatma; yalnızca bir mekânı görünür kılmak değil, konfor, güvenlik
 
 ## İçindekiler
 
-* Genel Aydınlatma Nedir?
+* [Genel Aydınlatma Nedir?](https://ledlamba.com/feed/?paged=4#genel-aydinlatma-nedir)
 
-* LED Aydınlatma Neden Standart Haline Geldi?
+* [LED Aydınlatma Neden Standart Haline Geldi?](https://ledlamba.com/feed/?paged=4#led-aydinlatma)
 
-* Lümen – Lux – Watt Arasındaki Farklar
+* [Lümen – Lux – Watt Arasındaki Farklar](https://ledlamba.com/feed/?paged=4#lumen-lux-watt)
 
-* İç Mekan Aydınlatma
+* [İç Mekan Aydınlatma](https://ledlamba.com/feed/?paged=4#ic-mekan-aydinlatma)
 
-* Ev ve Konut Aydınlatması
+* [Ev ve Konut Aydınlatması](https://ledlamba.com/feed/?paged=4#ev-aydinlatma)
 
-* İşyeri ve Ticari Aydınlatma
+* [İşyeri ve Ticari Aydınlatma](https://ledlamba.com/feed/?paged=4#isyeri-aydinlatma)
 
-* Mağaza ve Showroom Aydınlatması
+* [Mağaza ve Showroom Aydınlatması](https://ledlamba.com/feed/?paged=4#magaza-aydinlatma)
 
-* Ofis Aydınlatması
+* [Ofis Aydınlatması](https://ledlamba.com/feed/?paged=4#ofis-aydinlatma)
 
-* Dış Mekan Aydınlatma
+* [Dış Mekan Aydınlatma](https://ledlamba.com/feed/?paged=4#dis-mekan-aydinlatma)
 
-* Bahçe ve Peyzaj Aydınlatması
+* [Bahçe ve Peyzaj Aydınlatması](https://ledlamba.com/feed/?paged=4#bahce-aydinlatma)
 
-* Otopark ve Site Aydınlatması
+* [Otopark ve Site Aydınlatması](https://ledlamba.com/feed/?paged=4#otopark-aydinlatma)
 
-* Solar Aydınlatma Sistemleri
+* [Solar Aydınlatma Sistemleri](https://ledlamba.com/feed/?paged=4#solar-aydinlatma)
 
-* Sensörlü ve Akıllı Aydınlatma
+* [Sensörlü ve Akıllı Aydınlatma](https://ledlamba.com/feed/?paged=4#sensorlu-aydinlatma)
 
-* Acil Durum Aydınlatması
+* [Acil Durum Aydınlatması](https://ledlamba.com/feed/?paged=4#acil-aydinlatma)
 
-* Tekirdağ LED Aydınlatma Çözümleri
+* [Tekirdağ LED Aydınlatma Çözümleri](https://ledlamba.com/feed/?paged=4#tekirdag-aydinlatma)
 
-* Sık Sorulan Sorular (SSS)
+* [Sık Sorulan Sorular (SSS)](https://ledlamba.com/feed/?paged=4#sss)
 
 ## Genel Aydınlatma Nedir?
 
@@ -61,11 +61,11 @@ Günümüzde aydınlatma projelerinin büyük bölümü LED teknolojisiyle yapı
 
 ## Lümen – Lux – Watt Arasındaki Farklar
 
-* Watt: Elektrik tüketimi
+* **Watt:**  Elektrik tüketimi
 
-* Lümen: Üretilen toplam ışık miktarı
+* **Lümen:**  Üretilen toplam ışık miktarı
 
-* Lux: Işığın yüzeye düşen (hissedilen) aydınlık seviyesi
+* **Lux:**  Işığın yüzeye düşen (hissedilen) aydınlık seviyesi
 
 Bu yüzden profesyonel projelerde “kaç watt?” yerine “kaç lux?” sorulur.
 
@@ -80,7 +80,7 @@ Bu yüzden profesyonel projelerde “kaç watt?” yerine “kaç lux?” sorulu
 
 İç mekân aydınlatması; ev, ofis, mağaza, kafe ve iş yerlerinde kullanılan çözümleri kapsar. Amaç sadece ortamı aydınlatmak değil, doğru atmosferi oluşturmaktır.
 
-Not: İç mekân ve ticari detaylar için ayrıca kapsamlı “İç Mekan & Ticari Aydınlatma” rehberi yayınlanmalıdır.
+*Not:*  İç mekân ve ticari detaylar için ayrıca kapsamlı “İç Mekan & Ticari Aydınlatma” rehberi yayınlanmalıdır.
 
 ## Ev ve Konut Aydınlatması
 
@@ -127,7 +127,7 @@ Acil aydınlatma; elektrik kesintilerinde kaçış yollarını göstermek için 
 Tekirdağ’da sanayi, siteleşme ve ticari alan yoğunluğu yüksek olduğu için sanayi tipi LED, mağaza/showroom ve dış mekân (site-otopark) aydınlatmaları en çok talep gören çözümler arasındadır.
 
 Tekirdağ özelinde daha detaylı bilgi için şu sayfayı da inceleyebilirsin:
-  Tekirdağ LED Aydınlatma
+  [Tekirdağ LED Aydınlatma](https://ledlamba.com/tekirdag-led-aydinlatma-gruplari/)
 
 ## Sık Sorulan Sorular (SSS)
 
@@ -147,7 +147,7 @@ Uygulama açısından lux daha önemlidir çünkü yüzeyde hissedilen aydınlı
 
 Hayır. Panel gücü, batarya kapasitesi ve güneşlenme süresi doğru hesaplanmalıdır.
 
-Devam içerikleri: Bu pillar yazıyı güçlendirmek için “İç Mekan & Ticari Aydınlatma” ve “Dış Mekan & Solar Aydınlatma” rehberleri ayrıca yayınlanmalıdır. Bu sayede Ledlamba.com, Tekirdağ ve Türkiye genelinde daha geniş anahtar kelimelerde kalıcı yükseliş alır.
+**Devam içerikleri:**  Bu pillar yazıyı güçlendirmek için “İç Mekan & Ticari Aydınlatma” ve “Dış Mekan & Solar Aydınlatma” rehberleri ayrıca yayınlanmalıdır. Bu sayede Ledlamba.com, Tekirdağ ve Türkiye genelinde daha geniş anahtar kelimelerde kalıcı yükseliş alır.
 
 ## Aydınlatma Planlaması Nasıl Yapılmalı?
 
@@ -218,13 +218,13 @@ Gerçek tasarruf için:
 
 ## Aydınlatma Hakkında Yanlış Bilinenler
 
-* “Daha fazla watt daha fazla ışık verir” → Yanlış
+* **“Daha fazla watt daha fazla ışık verir”**  → Yanlış
 
-* “Her LED tasarrufludur” → Yanlış
+* **“Her LED tasarrufludur”**  → Yanlış
 
-* “Soğuk beyaz daha güçlüdür” → Yanlış
+* **“Soğuk beyaz daha güçlüdür”**  → Yanlış
 
-* “Tek tip aydınlatma yeterlidir” → Yanlış
+* **“Tek tip aydınlatma yeterlidir”**  → Yanlış
 
 Bu yanlışlar, hem enerji kaybına hem de kullanıcı memnuniyetsizliğine yol açar.
 
@@ -400,7 +400,7 @@ Lux hesaplaması, profesyonel aydınlatma projelerinin temelini oluşturur. Sade
 
 Basit bir lux hesabında şu formül kullanılır:
 
-Toplam Lümen / Alan (m²) = Ortalama Lux
+**Toplam Lümen / Alan (m²) = Ortalama Lux**
 
 Örneğin 20 m² bir ofiste 500 lux hedefleniyorsa, toplamda yaklaşık 10.000 lümen ışık gereklidir. Bu değer, armatür sayısı ve yerleşimine göre dağıtılır.
 
@@ -410,11 +410,11 @@ Tavan yüksekliği arttıkça ihtiyaç duyulan lümen miktarı da artar. Bu nede
 
 Işık açısı, üretilen ışığın ne kadar geniş bir alana yayıldığını belirler. Yanlış açı seçimi, ışık kaybına ve düzensiz aydınlatmaya yol açar.
 
-* 15°–30°: Vurgu ve vitrin aydınlatması
+* **15°–30°:**  Vurgu ve vitrin aydınlatması
 
-* 36°–60°: Genel iç mekân aydınlatması
+* **36°–60°:**  Genel iç mekân aydınlatması
 
-* 90° ve üzeri: Geniş alanlar, depo ve otoparklar
+* **90° ve üzeri:**  Geniş alanlar, depo ve otoparklar
 
 Dar açılı bir armatür geniş alanda kullanıldığında yetersiz aydınlatma oluşur. Geniş açılı bir ürün ise vurgu gereken alanlarda etkisini kaybeder.
 
@@ -486,11 +486,11 @@ Modern aydınlatma yaklaşımında tek tip ışık yerine senaryo bazlı ve katm
 
 Katmanlı aydınlatma üç ana gruptan oluşur:
 
-* Genel aydınlatma: Mekânın tamamını dengeli şekilde aydınlatır
+* **Genel aydınlatma:**  Mekânın tamamını dengeli şekilde aydınlatır
 
-* Görev aydınlatması: Çalışma, okuma, üretim gibi odak gerektiren alanları destekler
+* **Görev aydınlatması:**  Çalışma, okuma, üretim gibi odak gerektiren alanları destekler
 
-* Vurgu aydınlatması: Mimari detayları ve objeleri ön plana çıkarır
+* **Vurgu aydınlatması:**  Mimari detayları ve objeleri ön plana çıkarır
 
 Bu katmanlar doğru oranlarda kullanıldığında hem enerji verimliliği artar hem de mekânın algısı güçlenir.
 

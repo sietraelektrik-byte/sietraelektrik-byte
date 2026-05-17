@@ -17,4 +17,4 @@ canonical: "https://ledlamba.com/magaza-aydinlatma-nedir/"
 
 Tablo: Mağaza bölümlerine göre ideal Lux ve Kelvin değerleri.
 
-Mağaza aydınlatması, bir satış alanının ürünleri doğru şekilde sergilemesini, müşterinin mağaza içinde rahatça dolaşmasını ve satın alma kararının olumlu yönde etkilenmesini sağlayan en önemli unsurlardan biridir. Doğru planlanmış bir mağaza aydınlatması, yalnızca mekânı aydınlatmaz; aynı zamanda ürün algısını güçlendirir, markanın kurumsal kimliğini destekler ve satış performansını artırır.
+Mağaza aydınlatması, bir satış alanının  **ürünleri doğru şekilde sergilemesini** , müşterinin mağaza içinde rahatça dolaşmasını ve satın alma kararının olumlu yönde etkilenmesini sağlayan en önemli unsurlardan biridir. Doğru planlanmış bir mağaza aydınlatması, yalnızca mekânı aydınlatmaz; aynı zamanda  **ürün algısını güçlendirir** , markanın kurumsal kimliğini destekler ve satış performansını artırır.

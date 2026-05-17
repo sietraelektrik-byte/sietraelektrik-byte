@@ -16,83 +16,83 @@ Aydınlatma teknolojileri, son on yılda insanlık tarihinin en hızlı değişi
 
 Bir lambanın verimliliğini anlamak için önce elektriği nasıl ışığa çevirdiğine bakmak gerekir.
 
-* Floresan Teknolojisi: Bir cam tüp içindeki cıva buharının elektrikle uyarılması prensibiyle çalışır. Bu süreçte ciddi bir direnç oluşur ve enerjinin yaklaşık %60-70’i ısıya dönüşür. Yani floresan lamba aslında ışık veren küçük bir ısıtıcıdır.
+* **Floresan Teknolojisi:**  Bir cam tüp içindeki cıva buharının elektrikle uyarılması prensibiyle çalışır. Bu süreçte ciddi bir direnç oluşur ve enerjinin yaklaşık  **%60-70’i ısıya**  dönüşür. Yani floresan lamba aslında ışık veren küçük bir ısıtıcıdır.
 
-* LED (Işık Yayan Diyot): Elektrik akımı bir yarı iletken çipten geçerken doğrudan foton (ışık) üretir. Isınma minimum düzeydedir; enerjinin %90’ından fazlası doğrudan ışığa dönüşür.
+* **LED (Işık Yayan Diyot):**  Elektrik akımı bir yarı iletken çipten geçerken doğrudan foton (ışık) üretir. Isınma minimum düzeydedir; enerjinin  **%90’ından fazlası**  doğrudan ışığa dönüşür.
 
 ## 2. Enerji Tüketimi ve Fatura Analizi
 
 2026 yılı elektrik birim fiyatları (yaklaşık 3,11 TL/kWh – 3,92 TL/kWh) göz önüne alındığında, aradaki fark sadece birkaç kuruş değil, yüzlerce liradır.
 
-Örnek Senaryo: Bir ofiste kullanılan 10 adet standart 60×60 floresan armatür ile LED panel karşılaştırması:
+**Örnek Senaryo:**  Bir ofiste kullanılan 10 adet standart 60×60 floresan armatür ile LED panel karşılaştırması:
 
-* Floresan Sistem: 4 adet 18W floresan + Balast kaybı = Armatür başına 80W. Toplam 800W.
+* **Floresan Sistem:**  4 adet 18W floresan + Balast kaybı = Armatür başına 80W. Toplam 800W.
 
-* LED Sistem: Armatür başına 36W. Toplam 360W.
+* **LED Sistem:**  Armatür başına 36W. Toplam 360W.
 
-* Sonuç: Günde 10 saat çalışan bu ofis, LED’e geçerek aydınlatma giderini %55 oranında kalıcı olarak düşürür.
+* **Sonuç:**  Günde 10 saat çalışan bu ofis, LED’e geçerek aydınlatma giderini  **%55 oranında**  kalıcı olarak düşürür.
 
 ## 3. Ömür ve Bakım Maliyetleri (Amortisman)
 
 “LED lambalar pahalı” algısı, uzun vadeli hesap yapılmadığında ortaya çıkan bir yanılgıdır.
 
-* Floresan Ömrü: Ortalama 8.000 saattir. Ancak bu süre, lambanın kaç kez açılıp kapandığına bağlıdır. Sık açıp kapama elektrotları aşındırır ve lambanın erkenden “kararmasına” neden olur.
+* **Floresan Ömrü:**  Ortalama 8.000 saattir. Ancak bu süre, lambanın kaç kez açılıp kapandığına bağlıdır. Sık açıp kapama elektrotları aşındırır ve lambanın erkenden “kararmasına” neden olur.
 
-* LED Ömrü: 30.000 ile 50.000 saat arasındadır. Açıp kapama döngüsü LED ömrünü etkilemez.
+* **LED Ömrü:**  30.000 ile 50.000 saat arasındadır. Açıp kapama döngüsü LED ömrünü etkilemez.
 
-Ekonomik Analiz: 50.000 saatlik bir çalışma süresinde en az 5-6 kez floresan değiştirmeniz gerekirken, tek bir kaliteli Sietra LED panel aynı süreyi sorunsuz tamamlar. İşçilik ve lamba satın alma maliyeti eklendiğinde LED, floresandan 3 kat daha ucuza gelir.
+**Ekonomik Analiz:**  50.000 saatlik bir çalışma süresinde en az 5-6 kez floresan değiştirmeniz gerekirken, tek bir kaliteli  **Sietra LED**  panel aynı süreyi sorunsuz tamamlar. İşçilik ve lamba satın alma maliyeti eklendiğinde LED, floresandan 3 kat daha ucuza gelir.
 
 ## 4. Işık Kalitesi ve Göz Sağlığı
 
 Işığın sadece “parlak” olması yetmez; konforlu ve sağlıklı olması gerekir.
 
-* Flicker (Titreşim) Sorunu: Floresanlar saniyede 50-60 kez gözle görülmeyen bir hızla yanıp söner. Bu durum insan beyninde yorgunluk, odaklanma sorunu ve migren tetiklenmesine yol açar.
+* **Flicker (Titreşim) Sorunu:**  Floresanlar saniyede 50-60 kez gözle görülmeyen bir hızla yanıp söner. Bu durum insan beyninde yorgunluk, odaklanma sorunu ve migren tetiklenmesine yol açar.
 
-* Renk Geri Verimi (CRI): Floresanlar renkleri soluk ve yapay gösterirken; LED’ler güneş ışığına en yakın renk kalitesini sunar. Bu, özellikle tekstil mağazaları, mutfaklar ve çalışma odaları için kritiktir.
+* **Renk Geri Verimi (CRI):**  Floresanlar renkleri soluk ve yapay gösterirken; LED’ler güneş ışığına en yakın renk kalitesini sunar. Bu, özellikle tekstil mağazaları, mutfaklar ve çalışma odaları için kritiktir.
 
 ## 5. Çevresel Etki ve Güvenlik: Cıva Tehlikesi
 
-Floresanların en büyük karanlık yüzü içerdiği cıva gazıdır.
+Floresanların en büyük karanlık yüzü içerdiği  **cıva gazıdır** .
 
-* Zehirlenme Riski: Bir floresan kırıldığında ortama yayılan cıva buharı solunum yoluyla vücuda girer. Atık haline geldiğinde ise toprağı ve suyu zehirler.
+* **Zehirlenme Riski:**  Bir floresan kırıldığında ortama yayılan cıva buharı solunum yoluyla vücuda girer. Atık haline geldiğinde ise toprağı ve suyu zehirler.
 
-* LED Güvenliği: Tamamen katı hal teknolojisidir. Gaz içermez, camı kırılsa bile zehirleme riski yoktur. Geri dönüştürülebilir malzemelerden üretilir.
+* **LED Güvenliği:**  Tamamen katı hal teknolojisidir. Gaz içermez, camı kırılsa bile zehirleme riski yoktur. Geri dönüştürülebilir malzemelerden üretilir.
 
 ## 6. Sık Sorulan Sorular (Detaylı Tasarruf Analizi)
 
-* Eski armatürü çöpe mi atmalıyım? Hayır, Sietra LED tüpler kullanarak balastı iptal edip eski kasanızı LED’e çevirebilirsiniz.
+* **Eski armatürü çöpe mi atmalıyım?**  Hayır, Sietra LED tüpler kullanarak balastı iptal edip eski kasanızı LED’e çevirebilirsiniz.
 
-* LED’ler neden kışın daha iyi yanar? Floresanlar gazlı olduğu için soğukta ateşlenmesi zordur. LED’ler ise yarı iletken yapısı sayesinde soğukta daha verimli ışık verir.
+* **LED’ler neden kışın daha iyi yanar?**  Floresanlar gazlı olduğu için soğukta ateşlenmesi zordur. LED’ler ise yarı iletken yapısı sayesinde soğukta daha verimli ışık verir.
 
-* Tasarruflu (CFL) ampullerden farkı nedir? CFL’ler aslında “kıvrılmış floresan”dır. LED’ler CFL’lerden bile %40 daha az yakar.
+* **Tasarruflu (CFL) ampullerden farkı nedir?**  CFL’ler aslında “kıvrılmış floresan”dır. LED’ler CFL’lerden bile %40 daha az yakar.
 
-* Banyoda hangisi daha dayanıklı? Nemli ortamlarda IP korumalı LED armatürler, floresanların starter ve balast arızalarına göre çok daha uzun ömürlüdür.
+* **Banyoda hangisi daha dayanıklı?**  Nemli ortamlarda IP korumalı LED armatürler, floresanların starter ve balast arızalarına göre çok daha uzun ömürlüdür.
 
-* Ders çalışırken hangisi tercih edilmeli? Titreşimsiz (Flicker-free) LED’ler, odaklanmayı artırdığı için eğitim alanlarında tek seçenektir.
+* **Ders çalışırken hangisi tercih edilmeli?**  Titreşimsiz (Flicker-free) LED’ler, odaklanmayı artırdığı için eğitim alanlarında tek seçenektir.
 
-* LED panel 2-3 yılda söner mi? Kalitesiz çiplerde bu risk vardır, ancak soğutma bloğu güçlü Sietra ürünleri 10 yıla kadar performans sunar.
+* **LED panel 2-3 yılda söner mi?**  Kalitesiz çiplerde bu risk vardır, ancak soğutma bloğu güçlü Sietra ürünleri 10 yıla kadar performans sunar.
 
-* Yüksek tavanlı fabrikalarda hangisi daha kârlı? Yüksek tavanlı yerlerde lamba değiştirmek zordur (vinç gerekir). LED’in uzun ömrü bakım maliyetini sıfıra indirir.
+* **Yüksek tavanlı fabrikalarda hangisi daha kârlı?**  Yüksek tavanlı yerlerde lamba değiştirmek zordur (vinç gerekir). LED’in uzun ömrü bakım maliyetini sıfıra indirir.
 
-* Floresan neden uğultu yapar? İçindeki manyetik balast eski dükkanlarda duyulan o meşhur “zırr” sesini çıkarır. LED tamamen sessizdir.
+* **Floresan neden uğultu yapar?**  İçindeki manyetik balast eski dükkanlarda duyulan o meşhur “zırr” sesini çıkarır. LED tamamen sessizdir.
 
-* LED’in dimmer (ışık kısma) özelliği var mı? Evet, “Dimmable LED” modelleriyle ışık miktarını dilediğiniz gibi ayarlayabilirsiniz.
+* **LED’in dimmer (ışık kısma) özelliği var mı?**  Evet, “Dimmable LED” modelleriyle ışık miktarını dilediğiniz gibi ayarlayabilirsiniz.
 
-* Bitki yetiştirmede LED kullanılır mı? Evet, bitkilerin ihtiyacı olan spesifik dalga boylarını (Full Spectrum) sadece LED üretebilir.
+* **Bitki yetiştirmede LED kullanılır mı?**  Evet, bitkilerin ihtiyacı olan spesifik dalga boylarını (Full Spectrum) sadece LED üretebilir.
 
 ## 7. Sonuç: Yarının Teknolojisi Bugünün Tasarrufu
 
 1000 kelimelik bu teknik analizimizin özeti şudur: Floresan, 20. yüzyılın başarılı bir teknolojisiydi; ancak 21. yüzyılın enerji krizinde ve çevre bilincinde artık bir yük haline gelmiştir.
 
-Neden LED’e Geçmelisiniz?
+**Neden LED’e Geçmelisiniz?**
 
-* Anında %50+ enerji tasarrufu sağlar.
+* Anında  **%50+ enerji tasarrufu**  sağlar.
 
-* Bakım ve değişim zahmetini bitirir.
+* **Bakım ve değişim**  zahmetini bitirir.
 
-* Göz sağlığınızı korur ve daha kaliteli bir ışık sunar.
+* **Göz sağlığınızı**  korur ve daha kaliteli bir ışık sunar.
 
-* Karbon ayak izinizi azaltarak çevreye dost bir adım atmanızı sağlar.
+* **Karbon ayak izinizi**  azaltarak çevreye dost bir adım atmanızı sağlar.
 
 Sietra Elektrik Malzemeleri olarak, aydınlatma dönüşümünüzde en yüksek lümenli ve en verimli LED çözüml
 
@@ -100,30 +100,30 @@ Sietra Elektrik Malzemeleri olarak, aydınlatma dönüşümünüzde en yüksek l
 
 ### Diğer Rehber Yazılarımızı da Okuyabilirsiniz
 
-* LED Aydınlatma Nedir? Kullanım Alanları ve Avantajları
+* [LED Aydınlatma Nedir? Kullanım Alanları ve Avantajları](https://ledlamba.com/led-aydinlatma/)
 
-* Işığın Aydınlatmadaki Evrimi ve LED Teknolojisi
+* [Işığın Aydınlatmadaki Evrimi ve LED Teknolojisi](https://ledlamba.com/isigin-aydinlatmadaki-evrimi/)
 
-* Enerji Tasarrufu Sağlayan Aydınlatma Ürünleri Nelerdir?
+* [Enerji Tasarrufu Sağlayan Aydınlatma Ürünleri Nelerdir?](https://ledlamba.com/enerji-tasarrufu-saglayan-aydinlatma-urunleri-nelerdir/)
 
-* LED mi Floresan mı? Hangisi Gerçekten Daha Tasarruflu?
+* [LED mi Floresan mı? Hangisi Gerçekten Daha Tasarruflu?](https://ledlamba.com/led-mi-floresan-mi-hangisi-gercekten-daha-tasarruflu/)
 
-* Elektrik Tasarrufu Gerçekten İşe Yarar mı?
+* [Elektrik Tasarrufu Gerçekten İşe Yarar mı?](https://ledlamba.com/elektrik-tasarrufu-gercekten-ise-yarar-mi/)
 
-* Elektrik Faturasında En Çok Ne Yakar?
+* [Elektrik Faturasında En Çok Ne Yakar?](https://ledlamba.com/elektrik-faturasinda-en-cok-ne-yakar/)
 
-* Ayda Ne Kadar Elektrik Normaldir? (2026 Rehberi)
+* [Ayda Ne Kadar Elektrik Normaldir? (2026 Rehberi)](https://ledlamba.com/ayda-ne-kadar-elektrik-normaldir-2026-mesken-tuketim-standartlari/)
 
-* Evde Elektrik Tasarrufu İçin Ne Yapılmalı?
+* [Evde Elektrik Tasarrufu İçin Ne Yapılmalı?](https://ledlamba.com/evde-elektrik-tasarrufu-icin-ne-yapilmali-2026-tasarruf-rehberi/)
 
-* Elektrik Faturası Neden Bu Kadar Yüksek Geliyor?
+* [Elektrik Faturası Neden Bu Kadar Yüksek Geliyor?](https://ledlamba.com/elektrik-faturasi-neden-bu-kadar-yuksek-geliyor/)
 
-* Elektrik Faturası Nasıl Düşürülür?
+* [Elektrik Faturası Nasıl Düşürülür?](https://ledlamba.com/elektrik-faturasi-nasil-dusurulur/)
 
-* LED Armatürlerde Isı Yönetimi ve Ömür İlişkisi
+* [LED Armatürlerde Isı Yönetimi ve Ömür İlişkisi](https://ledlamba.com/led-armaturlerde-isi-yonetimi-omru-belirleyen-kritik-faktor/)
 
-* Güneş Enerjili Lambalar ile Aydınlatma ve Tasarruf
+* [Güneş Enerjili Lambalar ile Aydınlatma ve Tasarruf](https://ledlamba.com/gunes-enerjili-lambalar/)
 
-* LED Projektör Kaç Watt, Kaç Metrekare Aydınlatır?
+* [LED Projektör Kaç Watt, Kaç Metrekare Aydınlatır?](https://ledlamba.com/led-projektor-kac-watt-kac-metrekare-aydinlatir/)
 
-* Kaç Watt LED Projektör Kaç Metrekare Aydınlatır?
+* [Kaç Watt LED Projektör Kaç Metrekare Aydınlatır?](https://ledlamba.com/kac-watt-led-projektor-kac-metrekare-aydinlatir/)

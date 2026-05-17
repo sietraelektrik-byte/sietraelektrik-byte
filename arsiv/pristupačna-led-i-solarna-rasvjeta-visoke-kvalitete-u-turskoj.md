@@ -10,9 +10,7 @@ canonical: "https://ledlamba.com/pristupacna-led-i-solarna-rasvjeta-visoke-kvali
 
 Sietra Elektrik Aydınlatma je renomirana kompanija iz Turske,
       specijalizirana za
-
-      LED rasvjetu i solarna rasvjetna tijela
-      ,
+      [LED rasvjetu i solarna rasvjetna tijela](https://ledlamba.com),
       uključujući solarne lampe,
       ulična rasvjetna tijela
       i energetski efikasne sisteme osvjetljenja.
@@ -111,7 +109,7 @@ Svi proizvodi Sietra Elektrik Aydınlatma
       što klijentima pruža dodatnu sigurnost
       i povjerenje.
 
-Sietra Elektrik Aydınlatma –
+**Sietra Elektrik Aydınlatma –
       pouzdan partner za povoljna LED
       i solarna rasvjetna rješenja
-      iz Turske za Bosnu i Hercegovinu i Balkan.
+      iz Turske za Bosnu i Hercegovinu i Balkan.**

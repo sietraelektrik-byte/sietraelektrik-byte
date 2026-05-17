@@ -30,13 +30,13 @@ Accent Lighting – Dolap içleri, vitrinler ve mimari detayları öne çıkarı
 
 ### Renk Sıcaklığı Seçimi
 
-* 3000K (Sıcak Beyaz): Yemek sunum alanları için idealdir. Gıdaların iştah açıcı görünmesini sağlar.
+* **3000K (Sıcak Beyaz):**  Yemek sunum alanları için idealdir. Gıdaların iştah açıcı görünmesini sağlar.
 
-* 4000K (Doğal Beyaz): Tezgah ve çalışma alanları için idealdir. Renk gerçekliği yüksektir.
+* **4000K (Doğal Beyaz):**  Tezgah ve çalışma alanları için idealdir. Renk gerçekliği yüksektir.
 
-* 2700K: Akşam yemekleri için uygundur ancak çalışma alanlarında yetersiz kalabilir.
+* **2700K:**  Akşam yemekleri için uygundur ancak çalışma alanlarında yetersiz kalabilir.
 
-* 5000K+ (Gün Işığı): Detaylı işler için kullanılabilir ancak genel kullanımda soğuk his verebilir.
+* **5000K+ (Gün Işığı):**  Detaylı işler için kullanılabilir ancak genel kullanımda soğuk his verebilir.
 
 ## 💡 2026 Teknolojileri
 
@@ -58,13 +58,13 @@ Accent Lighting – Dolap içleri, vitrinler ve mimari detayları öne çıkarı
 
 ### Öne Çıkan Teknolojiler
 
-OLED (Organik LED): Ultra ince panel yapısı sayesinde dolap kapaklarına entegre edilebilir.
+**OLED (Organik LED):**  Ultra ince panel yapısı sayesinde dolap kapaklarına entegre edilebilir.
 
-COB (Chip on Board): Yüksek yoğunluklu tek nokta ışık kaynağı, mükemmel odaklanma sağlar.
+**COB (Chip on Board):**  Yüksek yoğunluklu tek nokta ışık kaynağı, mükemmel odaklanma sağlar.
 
-UV-C Entegre: Hijyen odaklı mutfaklarda yüzey dezenfeksiyonu sağlar.
+**UV-C Entegre:**  Hijyen odaklı mutfaklarda yüzey dezenfeksiyonu sağlar.
 
-Li-Fi: Işık hızında internet bağlantısı sunar.
+**Li-Fi:**  Işık hızında internet bağlantısı sunar.
 
 ## 📊 Karşılaştırma Tabloları
 
@@ -72,52 +72,52 @@ Li-Fi: Işık hızında internet bağlantısı sunar.
 
 | Özellik | LED Spot | LED Panel | Lineer LED | Halojen | Floresan |
 | --- | --- | --- | --- | --- | --- |
-| Enerji Verimliliği | ★★★★★ | ★★★★★ | ★★★★★ | ★★☆☆☆ | ★★★☆☆ |
-| Ömür (Saat) | 50.000 | 50.000 | 50.000 | 2.000 | 15.000 |
-| Renk Gerçekliği (CRI) | 90+ | 80+ | 90+ | 100 | 80 |
-| Isınma Süresi | Anında | Anında | Anında | Anında | 1-2 dk |
-| Kısılabilirlik | Evet | Seçenekli | Evet | Evet | Zor |
-| Isı Emisyonu | Düşük | Çok Düşük | Düşük | Yüksek | Orta |
-| 2026 Maliyeti | Orta | Düşük | Orta | Yüksek | Düşük |
+| **Enerji Verimliliği** | ★★★★★ | ★★★★★ | ★★★★★ | ★★☆☆☆ | ★★★☆☆ |
+| **Ömür (Saat)** | 50.000 | 50.000 | 50.000 | 2.000 | 15.000 |
+| **Renk Gerçekliği (CRI)** | 90+ | 80+ | 90+ | 100 | 80 |
+| **Isınma Süresi** | Anında | Anında | Anında | Anında | 1-2 dk |
+| **Kısılabilirlik** | Evet | Seçenekli | Evet | Evet | Zor |
+| **Isı Emisyonu** | Düşük | Çok Düşük | Düşük | Yüksek | Orta |
+| **2026 Maliyeti** | Orta | Düşük | Orta | Yüksek | Düşük |
 
 ### Tablo 2: Renk Sıcaklığı Kullanım Alanları
 
 | Renk Sıcaklığı | Kullanım Alanı | Psikolojik Etki | Enerji Tüketimi | Önerilen Lüks |
 | --- | --- | --- | --- | --- |
-| 2700K | Yemek masası, dinlenme köşesi | Rahatlatıcı, samimi | Düşük | 150-200 |
-| 3000K | Genel mutfak, dolap içleri | Sıcak, davetkar | Düşük | 300-400 |
-| 4000K | Tezgah, ocak, lavabo | Canlandırıcı, odaklayıcı | Orta | 500-750 |
-| 5000K | Detay çalışma, hamur işleri | Uyarıcı, net | Orta | 750-1000 |
-| Tunable White | Tüm alanlar (akıllı sistem) | Değişken | Kontrollü | Ayarlanabilir |
+| **2700K** | Yemek masası, dinlenme köşesi | Rahatlatıcı, samimi | Düşük | 150-200 |
+| **3000K** | Genel mutfak, dolap içleri | Sıcak, davetkar | Düşük | 300-400 |
+| **4000K** | Tezgah, ocak, lavabo | Canlandırıcı, odaklayıcı | Orta | 500-750 |
+| **5000K** | Detay çalışma, hamur işleri | Uyarıcı, net | Orta | 750-1000 |
+| **Tunable White** | Tüm alanlar (akıllı sistem) | Değişken | Kontrollü | Ayarlanabilir |
 
 ### Tablo 3: Aydınlatma Katmanları ve Özellikleri
 
 | Katman | Amaç | Konumlandırma | Teknik Özellikler | 2026 Trendi |
 | --- | --- | --- | --- | --- |
-| Genel | Temel görüş | Tavan, ortada | 300-500 lüks, 120° açı | Akıllı sensörler |
-| Görev | Güvenli çalışma | Tezgah üstü, 60-75cm yükseklik | 500+ lüks, CRI>90 | Hareket sensörlü |
-| Dekoratif | Atmosfer | Niş, raflar, vitrin | Renkli LED, dimmer | RGB+Tunable |
-| Acil | Kesinti anı | Dolap içleri, çıkış yolu | Bataryalı, 3 saat | Entegre UPS |
+| **Genel** | Temel görüş | Tavan, ortada | 300-500 lüks, 120° açı | Akıllı sensörler |
+| **Görev** | Güvenli çalışma | Tezgah üstü, 60-75cm yükseklik | 500+ lüks, CRI>90 | Hareket sensörlü |
+| **Dekoratif** | Atmosfer | Niş, raflar, vitrin | Renkli LED, dimmer | RGB+Tunable |
+| **Acil** | Kesinti anı | Dolap içleri, çıkış yolu | Bataryalı, 3 saat | Entegre UPS |
 
 ### Tablo 4: LED Şerit Teknolojileri
 
 | LED Tipi | Parlaklık (lm/m) | Güç Tüketimi (W/m) | Kullanım Ömrü | En İyi Kullanım | Fiyat Aralığı (2026) |
 | --- | --- | --- | --- | --- | --- |
-| 3528 | 300-500 | 4.8 | 30.000 saat | Dolap içi, dekoratif | ₺50-100/m |
-| 2835 | 1000-1500 | 14.4 | 50.000 saat | Tezgah altı, genel | ₺100-200/m |
-| 5050 | 1200-1800 | 14.4 | 50.000 saat | RGB uygulamaları | ₺150-250/m |
-| COB LED | 2000+ | 15-20 | 50.000 saat | Yüksek lüks gereksinimi | ₺300-500/m |
-| OLED Panel | 5000 (total) | 20-40 | 40.000 saat | Dolap kapakları | ₺1000-3000/adet |
+| **3528** | 300-500 | 4.8 | 30.000 saat | Dolap içi, dekoratif | ₺50-100/m |
+| **2835** | 1000-1500 | 14.4 | 50.000 saat | Tezgah altı, genel | ₺100-200/m |
+| **5050** | 1200-1800 | 14.4 | 50.000 saat | RGB uygulamaları | ₺150-250/m |
+| **COB LED** | 2000+ | 15-20 | 50.000 saat | Yüksek lüks gereksinimi | ₺300-500/m |
+| **OLED Panel** | 5000 (total) | 20-40 | 40.000 saat | Dolap kapakları | ₺1000-3000/adet |
 
 ### Tablo 5: Akıllı Aydınlatma Protokolleri
 
 | Protokol | Kurulum Kolaylığı | Genişletilebilirlik | Uygulama Desteği | Fiyat | Güvenilirlik |
 | --- | --- | --- | --- | --- | --- |
-| Wi-Fi | ★★★★★ | ★★★★☆ | ★★★★★ | Düşük | ★★★☆☆ |
-| Zigbee | ★★★☆☆ | ★★★★★ | ★★★★☆ | Orta | ★★★★☆ |
-| Bluetooth Mesh | ★★★★☆ | ★★★★☆ | ★★★★☆ | Düşük | ★★★☆☆ |
-| Thread/Matter | ★★★☆☆ | ★★★★★ | ★★★☆☆ | Orta | ★★★★★ |
-| Kablolu DALI | ★★☆☆☆ | ★★★★★ | ★★★★★ | Yüksek | ★★★★★ |
+| **Wi-Fi** | ★★★★★ | ★★★★☆ | ★★★★★ | Düşük | ★★★☆☆ |
+| **Zigbee** | ★★★☆☆ | ★★★★★ | ★★★★☆ | Orta | ★★★★☆ |
+| **Bluetooth Mesh** | ★★★★☆ | ★★★★☆ | ★★★★☆ | Düşük | ★★★☆☆ |
+| **Thread/Matter** | ★★★☆☆ | ★★★★★ | ★★★☆☆ | Orta | ★★★★★ |
+| **Kablolu DALI** | ★★☆☆☆ | ★★★★★ | ★★★★★ | Yüksek | ★★★★★ |
 
 ## ❓ Sıkça Sorulan Sorular (20 Soru)
 
@@ -177,25 +177,25 @@ Köşe dolapları, cam vitrinler ve çekmeceler için sensörlü LED’ler planl
 
 19. Aydınlatma ile mutfak boyutları görsel olarak nasıl manipüle edilir?
 
-* Dar mutfaklar: Yan duvarlara yatay LED şeritler (derinlik artışı)
+* **Dar mutfaklar:**  Yan duvarlara yatay LED şeritler (derinlik artışı)
 
-* Alçak tavanlar: Yukarı yansıtmalı aydınlatma (yükseklik artışı)
+* **Alçak tavanlar:**  Yukarı yansıtmalı aydınlatma (yükseklik artışı)
 
-* Küçük mutfaklar: Ayna arkası LED ve açık renkli yüzeyler (genişlik artışı)
+* **Küçük mutfaklar:**  Ayna arkası LED ve açık renkli yüzeyler (genişlik artışı)
 
-* Büyük mutfaklar: Bölgesel aydınlatma ile samimiyet (intimacy) yaratma
+* **Büyük mutfaklar:**  Bölgesel aydınlatma ile samimiyet (intimacy) yaratma
 
 20. 2026 yılında mutfak aydınlatmasında gelecek trendler nelerdir?
 
-* Li-Fi entegrasyonu: Işık üzerinden internet
+* **Li-Fi entegrasyonu:**  Işık üzerinden internet
 
-* Biyodinamik aydınlatma: Günlük ritme uygun otomatik renk değişimi
+* **Biyodinamik aydınlatma:**  Günlük ritme uygun otomatik renk değişimi
 
-* Holografik kontroller: Dokunmatik olmayan arayüzler
+* **Holografik kontroller:**  Dokunmatik olmayan arayüzler
 
-* Enerji hasatlama: Piezoelektrik zeminlerden aydınlatmaya enerji
+* **Enerji hasatlama:**  Piezoelektrik zeminlerden aydınlatmaya enerji
 
-* Kişiselleştirilmiş spektrumlar: Bireysel biyolojik saatlere göre optimize edilmiş ışık
+* **Kişiselleştirilmiş spektrumlar:**  Bireysel biyolojik saatlere göre optimize edilmiş ışık
 
 ## ✅ Uygulama Adımları ve Kontrol Listesi
 
@@ -257,37 +257,37 @@ Teknik detaylar, güncel teknolojiler ve profesyonel çözümler
 
 ### Yazar Hakkında
 
-Bu içerik Müslim Sevindik tarafından hazırlanmıştır.
+Bu içerik  **Müslim Sevindik**  tarafından hazırlanmıştır.
 Elektrik ve LED aydınlatma sistemleri üzerine çalışan yazar, mutfak aydınlatması,
 iç mekan ışık planlaması, enerji verimliliği ve modern aydınlatma çözümleri üzerine
 araştırmalar yapmaktadır.
 
 Yazarın sektörel makalelerine
-Energy Central profilinden
+[Energy Central profilinden](https://www.energycentral.com/member/QYZQf5E2VJ)
 ve teknik yazılarına
-Medium sayfasından
+[Medium sayfasından](https://medium.com/@muslimsevindik)
 ulaşabilirsiniz.
 
 Daha fazla aydınlatma rehberi için
-LED aydınlatma blogu
+[LED aydınlatma blogu](https://ledlamba.com/)
 sayfasını ziyaret edebilirsiniz.
 
 #### Faydalı Linkler
 
-* LED aydınlatma ürünleri
+* [LED aydınlatma ürünleri](https://ledlamba.com/urun-kategori/led-aydinlatma/)
 
-* LED panel ürünleri
+* [LED panel ürünleri](https://ledlamba.com/urun-kategori/led-panel/)
 
-* LED projektör seçenekleri
+* [LED projektör seçenekleri](https://ledlamba.com/urun-kategori/led-projektor/)
 
-* Faydalı bilgiler ve aydınlatma rehberleri
+* [Faydalı bilgiler ve aydınlatma rehberleri](https://ledlamba.com/faydali-bilgiler/)
 
 #### Diğer Aydınlatma Rehberleri
 
-* Salon aydınlatma rehberi
+* [Salon aydınlatma rehberi](https://ledlamba.com/salon-aydinlatma/)
 
-* Dekoratif aydınlatma fikirleri
+* [Dekoratif aydınlatma fikirleri](https://ledlamba.com/dekoratif-aydinlatma/)
 
-* Gizli aydınlatma nasıl yapılır?
+* [Gizli aydınlatma nasıl yapılır?](https://ledlamba.com/gizli-aydinlatma/)
 
-* Bahçe aydınlatma nasıl yapılır?
+* [Bahçe aydınlatma nasıl yapılır?](https://ledlamba.com/bahce-aydinlatma-nasil-yapilir/)

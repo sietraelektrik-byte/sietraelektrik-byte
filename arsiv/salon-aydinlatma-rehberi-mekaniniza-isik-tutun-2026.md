@@ -10,7 +10,7 @@ Salon Aydınlatma Rehberi: Doğru Işık Nasıl Seçilir?
 
 ## Salon Aydınlatma Rehberi: Doğru Işık Nasıl Seçilir?
 
-Giriş: Neden Salon Aydınlatması Önemli?
+ **Giriş: Neden Salon Aydınlatması Önemli?** 
 
 Salon aydınlatma planlaması, evin en çok zaman geçirilen ve misafirlerin ağırlandığı alanında hem konforu hem estetiği doğrudan etkiler. Doğru aydınlatma planlaması sadece görüşü iyileştirmekle kalmaz, mekanın atmosferini, genişlik algısını ve estetik değerini kökten değiştirebilir. 2026 yılında aydınlatma trendleri, teknolojik gelişmeler ve biophilic (doğa-odaklı) tasarım anlayışlarıyla birlikte ev yaşamını dönüştürüyor.
 
@@ -22,11 +22,11 @@ Bu rehberde, salon aydınlatmasının temel prensiplerinden, katmanlı aydınlat
 
 Modern salon aydınlatmasının altın kuralı katmanlı aydınlatmadır. Tek bir ışık kaynağı yerine, farklı işlevleri olan birden fazla ışık düzeyi kullanılarak mekanda çok boyutlu bir deneyim yaratılır. Üç temel katman vardır:
 
-* Ortam (Genel) Aydınlatma: Tüm mekana eşit dağılmış, günlük yaşamın temel ihtiyaçlarını karşılayan ışık düzeyi. Tavan lambaları, avizeler, gömme spotlar veya LED aydınlatma ürünleri kullanılır.
+* **Ortam (Genel) Aydınlatma:**  Tüm mekana eşit dağılmış, günlük yaşamın temel ihtiyaçlarını karşılayan ışık düzeyi. Tavan lambaları, avizeler, gömme spotlar veya [LED aydınlatma ürünleri](https://ledlamba.com/urun-kategori/led-aydinlatma/) kullanılır.
 
-* Görev (Fonksiyonel) Aydınlatma: Okuma, yazma veya el işi gibi belirli aktiviteler için odaklanmış ışık. Lambaderler, masa lambaları ve tezgah altı LED’ler bu kategoridedir.
+* **Görev (Fonksiyonel) Aydınlatma:**  Okuma, yazma veya el işi gibi belirli aktiviteler için odaklanmış ışık. Lambaderler, masa lambaları ve tezgah altı LED’ler bu kategoridedir.
 
-* Vurgu (Aksan) Aydınlatma: Dekoratif unsurları, mimari detayları veya sanat eserlerini öne çıkaran dramatik ışık. Raylı spotlar, duvar aplikleri ve gizli LED şeritler kullanılır.
+* **Vurgu (Aksan) Aydınlatma:**  Dekoratif unsurları, mimari detayları veya sanat eserlerini öne çıkaran dramatik ışık. Raylı spotlar, duvar aplikleri ve gizli LED şeritler kullanılır.
 
 ### 1.2 Doğal Işığın Rolü
 
@@ -36,21 +36,21 @@ Modern salon aydınlatmasının altın kuralı katmanlı aydınlatmadır. Tek bi
 
 Işığın rengi mekanın ruhunu belirler:
 
-* 2700K-3000K (Sıcak Beyaz): Sarımsı tonlarıyla rahatlatıcı ve samimi atmosfer yaratır. Oturma odaları ve dinlenme alanları için idealdir.
+* **2700K-3000K (Sıcak Beyaz):**  Sarımsı tonlarıyla rahatlatıcı ve samimi atmosfer yaratır. Oturma odaları ve dinlenme alanları için idealdir.
 
-* 3500K-4500K (Nötr Beyaz): Gün ışığına yakın, göz yormayan dengeli ışık. Çok amaçlı salonlar için uygundur.
+* **3500K-4500K (Nötr Beyaz):**  Gün ışığına yakın, göz yormayan dengeli ışık. Çok amaçlı salonlar için uygundur.
 
-* 5000K-6500K (Soğuk Beyaz): Maviye çalan tonlarıyla enerji verir ancak evde sınırlı kullanılmalıdır.
+* **5000K-6500K (Soğuk Beyaz):**  Maviye çalan tonlarıyla enerji verir ancak evde sınırlı kullanılmalıdır.
 
 ## 2. Salon Aydınlatma Türleri ve Uygulamaları
 
 ### 2.1 Tavan Aydınlatmaları
 
-Avizeler ve Sarkıtlar: Salonun merkezî odak noktası olarak görev yapar. 2026’te geometrik formlar, organik şekiller ve doğal malzemeler (ahşap, bambu, boncuk işçiliği) trend. Tavan yüksekliği düşük odalarda yatay avizeler, yüksek tavanlarda ise uzun sarkıtlar tercih edilir.
+**Avizeler ve Sarkıtlar:**  Salonun merkezî odak noktası olarak görev yapar. 2026’te geometrik formlar, organik şekiller ve doğal malzemeler (ahşap, bambu, boncuk işçiliği) trend. Tavan yüksekliği düşük odalarda yatay avizeler, yüksek tavanlarda ise uzun sarkıtlar tercih edilir.
 
-Gömme Spotlar: Minimalist ve modern görünüm sağlar. Hareketli başlıklı modeller vurgu aydınlatması için esneklik sunar. Dimmer özellikli modeller atmosfer kontrolü sağlar.
+**Gömme Spotlar:**  Minimalist ve modern görünüm sağlar. Hareketli başlıklı modeller vurgu aydınlatması için esneklik sunar. Dimmer özellikli modeller atmosfer kontrolü sağlar.
 
-LED Paneller: Homojen, göz yormayan yaygın ışık sağlar. Özellikle düşük tavanlı salonlarda tercih edilir.
+**LED Paneller:**  Homojen, göz yormayan yaygın ışık sağlar. Özellikle düşük tavanlı salonlarda tercih edilir.
 
 ### 2.2 Duvar ve Aplik Aydınlatmaları
 
@@ -58,11 +58,11 @@ Duvar aplikleri, hem dekoratif hem de fonksiyoneldir. Tablo üzerine yönlendiri
 
 ### 2.3 Yer ve Mobilya Aydınlatmaları
 
-Lambaderler: Okuma köşeleri için vazgeçilmez. Ayarlanabilir başlıklı modeller ışığı kitap sayfalarına doğru yönlendirirken göz yorgunluğunu azaltır.
+**Lambaderler:**  Okuma köşeleri için vazgeçilmez. Ayarlanabilir başlıklı modeller ışığı kitap sayfalarına doğru yönlendirirken göz yorgunluğunu azaltır.
 
-Masa Lambaları: Yan sehpalarda ambiyans ışığı olarak kullanılır. 2026’te kablosuz ve şarj edilebilir modeller esneklik sunuyor.
+**Masa Lambaları:**  Yan sehpalarda ambiyans ışığı olarak kullanılır. 2026’te kablosuz ve şarj edilebilir modeller esneklik sunuyor.
 
-Zemin Aydınlatması: Gizli zemin LED’leri gece yön bulmayı kolaylaştırır ve dramatik bir etki yaratır.
+**Zemin Aydınlatması:**  Gizli zemin LED’leri gece yön bulmayı kolaylaştırır ve dramatik bir etki yaratır.
 
 ### 2.4 Akıllı Aydınlatma Sistemleri
 
@@ -76,13 +76,13 @@ Zemin Aydınlatması: Gizli zemin LED’leri gece yön bulmayı kolaylaştırır
 
 ### 3.2 Aktivite Bazlı Planlama
 
-* TV izleme alanı: Yumuşak, dolaylı ışık. Ekran yansımasını önlemek için arkadan aydınlatma.
+* **TV izleme alanı:**  Yumuşak, dolaylı ışık. Ekran yansımasını önlemek için arkadan aydınlatma.
 
-* Okuma köşesi: 400-500 lumen arası yoğun, yönlendirilebilir ışık.
+* **Okuma köşesi:**  400-500 lumen arası yoğun, yönlendirilebilir ışık.
 
-* Konuk ağırlama: Dimmer kontrollü, sıcak tonlu (2700K) ortam ışığı.
+* **Konuk ağırlama:**  Dimmer kontrollü, sıcak tonlu (2700K) ortam ışığı.
 
-* Yemek alanı (varsa): Avize veya sarkıt ile bölgesel vurgu.
+* **Yemek alanı (varsa):**  Avize veya sarkıt ile bölgesel vurgu.
 
 ### 3.3 Işık Seviyesi Hesaplamaları
 
@@ -130,7 +130,7 @@ Tavan pervazlarına, mobilya içlerine veya duvar oyuklarına gizlenen LED şeri
 
 ## Sonuç
 
-Salon aydınlatması, teknik bilgi, estetik anlayış ve kişisel ihtiyaçların dengelenmesini gerektiren multidisipliner bir tasarım alanıdır. Katmanlı aydınlatma prensibi, doğal ışık optimizasyonu ve akıllı teknoloji entegrasyonu ile hem fonksiyonel hem de atmosferik bir yaşam alanı yaratmak mümkündür. İlgili ürünleri incelerken LED aydınlatma çözümleri ve daha güçlü uygulamalar için LED projektör seçenekleri de fikir verebilir. Ayrıca ışık gücü hesabı için LED projektör kaç m² aydınlatır rehberi de yararlı olabilir. Unutmayın ki iyi aydınlatma görülmez, hissedilir; göz yormaz, rahatlatır ve mekanı sizin kişisel tarzınızı yansıtan bir deneyim alanına dönüştürür.
+Salon aydınlatması, teknik bilgi, estetik anlayış ve kişisel ihtiyaçların dengelenmesini gerektiren multidisipliner bir tasarım alanıdır. Katmanlı aydınlatma prensibi, doğal ışık optimizasyonu ve akıllı teknoloji entegrasyonu ile hem fonksiyonel hem de atmosferik bir yaşam alanı yaratmak mümkündür. İlgili ürünleri incelerken [LED aydınlatma çözümleri](https://ledlamba.com/urun-kategori/led-aydinlatma/) ve daha güçlü uygulamalar için [LED projektör seçenekleri](https://ledlamba.com/urun-kategori/led-projektor/) de fikir verebilir. Ayrıca ışık gücü hesabı için [LED projektör kaç m² aydınlatır](https://ledlamba.com/led-projektor-kac-m%c2%b2-aydinlatir/) rehberi de yararlı olabilir. Unutmayın ki iyi aydınlatma görülmez, hissedilir; göz yormaz, rahatlatır ve mekanı sizin kişisel tarzınızı yansıtan bir deneyim alanına dönüştürür.
 
 ## Sıkça Sorulan Sorular (SSS)
 
@@ -272,26 +272,26 @@ Maliyetler 20-30m² salon için ortalama değerlerdir, kurulum hariç.
 
 ### Yazar Hakkında
 
-Bu içerik Müslim Sevindik tarafından hazırlanmıştır.
+Bu içerik  **Müslim Sevindik**  tarafından hazırlanmıştır.
 Elektrik ve LED aydınlatma sistemleri üzerine çalışan yazar, enerji verimliliği,
 akıllı aydınlatma teknolojileri ve modern aydınlatma çözümleri üzerine
 araştırmalar yapmaktadır.
 
 Yazarın sektörel makalelerine 
-Energy Central profilinden 
+[Energy Central profilinden](https://www.energycentral.com/member/QYZQf5E2VJ) 
 ve teknik yazılarına 
-Medium sayfasından 
+[Medium sayfasından](https://medium.com/@muslimsevindik) 
 ulaşabilirsiniz.
 
 Daha fazla aydınlatma rehberi için 
-LED aydınlatma blogu sayfasını ziyaret edebilirsiniz.
+[LED aydınlatma blogu](https://ledlamba.com/) sayfasını ziyaret edebilirsiniz.
 
 #### İlgili Aydınlatma Rehberleri
 
-* Mutfak aydınlatma rehberi
+* [Mutfak aydınlatma rehberi](https://ledlamba.com/mutfak-aydinlatma/)
 
-* Dekoratif aydınlatma fikirleri
+* [Dekoratif aydınlatma fikirleri](https://ledlamba.com/dekoratif-aydinlatma/)
 
-* Gizli aydınlatma nasıl yapılır
+* [Gizli aydınlatma nasıl yapılır](https://ledlamba.com/gizli-aydinlatma/)
 
-* Bahçe aydınlatma nasıl yapılır?
+* [Bahçe aydınlatma nasıl yapılır?](https://ledlamba.com/bahce-aydinlatma-nasil-yapilir/)

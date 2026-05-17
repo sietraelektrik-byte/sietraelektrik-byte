@@ -6,12 +6,12 @@ canonical: "https://ledlamba.com/watt-mi-lumen-mi-dogru-aydinlatma-nasil-olculur
 
 # Watt mı Lumen mi? Doğru Aydınlatma Nasıl Ölçülür? (Lux Hesaplarıyla Net Rehber)
 
-Kısa Özet: Aydınlatmada doğru ölçüm yalnızca watt değerine bakılarak yapılmaz. Gerçek performans; lumen (ışık miktarı), lux (aydınlatma seviyesi), alan büyüklüğü ve kullanım amacının birlikte değerlendirilmesiyle belirlenir. Bu rehberde watt–lumen farkını, lux hesaplarını ve doğru aydınlatma seçimini net örneklerle bulacaksınız.
+**Kısa Özet:**  Aydınlatmada doğru ölçüm yalnızca watt değerine bakılarak yapılmaz. Gerçek performans; lumen (ışık miktarı), lux (aydınlatma seviyesi), alan büyüklüğü ve kullanım amacının birlikte değerlendirilmesiyle belirlenir. Bu rehberde watt–lumen farkını, lux hesaplarını ve doğru aydınlatma seçimini net örneklerle bulacaksınız.
 
-Ana kaynak: Aydınlatma teknolojilerinin evrimini ve LED sistemlerinin temelini anlatan kapsamlı rehber için
-Işığın Aydınlatmadaki Evrimi sayfasına göz atabilirsiniz.
+**Ana kaynak:**  Aydınlatma teknolojilerinin evrimini ve LED sistemlerinin temelini anlatan kapsamlı rehber için
+[Işığın Aydınlatmadaki Evrimi](https://ledlamba.com/isigin-aydinlatmadaki-evrimi/) sayfasına göz atabilirsiniz.
 
-Bu rehberde:
+**Bu rehberde:**
 
 * Watt, lumen ve lux kavramlarının farkı
 
@@ -37,33 +37,33 @@ Lumen, bir ışık kaynağının ürettiği toplam ışık miktarını ifade ede
 
 ## Lux Nedir? Alan Başına Aydınlatma Seviyesi
 
-Lux, bir alanın ne kadar aydınlatıldığını gösterir ve 1 m² alana düşen lumen miktarıdır. Doğru aydınlatma hesabı yapılırken asıl kritik değer lux’tür.
+Lux, bir alanın ne kadar aydınlatıldığını gösterir ve  **1 m² alana düşen lumen**  miktarıdır. Doğru aydınlatma hesabı yapılırken asıl kritik değer lux’tür.
 
 Basit formül:
 
-Lux = Toplam Lumen / Alan (m²)
+**Lux = Toplam Lumen / Alan (m²)**
 
 Bu nedenle doğru ürün seçimi için alan büyüklüğü mutlaka hesaba katılmalıdır.
 
 ## Hangi Alan İçin Kaç Lux Gerekir?
 
-* Ev – oturma odası: 100–200 lux
+* **Ev – oturma odası:**  100–200 lux
 
-* Ofis – çalışma alanı: 300–500 lux
+* **Ofis – çalışma alanı:**  300–500 lux
 
-* Mağaza – satış alanı: 400–700 lux
+* **Mağaza – satış alanı:**  400–700 lux
 
-* Depo – genel alan: 150–300 lux
+* **Depo – genel alan:**  150–300 lux
 
-* Hassas iş alanları: 750 lux ve üzeri
+* **Hassas iş alanları:**  750 lux ve üzeri
 
 ## Örnek Hesaplama: Ofis Aydınlatması
 
 Örnek: 40 m² bir ofiste hedef aydınlatma seviyesi 400 lux olsun.
 
-* Gerekli toplam lumen = 40 × 400 = 16.000 lumen
+* Gerekli toplam lumen = 40 × 400 =  **16.000 lumen**
 
-* Her biri 3200 lumen olan LED panellerden 5 adet gerekir
+* Her biri 3200 lumen olan LED panellerden  **5 adet**  gerekir
 
 Bu hesap yapılmadan yalnızca “kaç watt olsun?” diye ürün seçmek, ya yetersiz ya da gereksiz fazla aydınlatmaya yol açar.
 
@@ -77,7 +77,7 @@ Bu hesap yapılmadan yalnızca “kaç watt olsun?” diye ürün seçmek, ya ye
 
 * Tüm alanlar için tek tip aydınlatma kullanmak
 
-LED panel ve farklı LED ürün gruplarını incelemek için LED aydınlatma sayfasına göz atabilirsiniz.
+LED panel ve farklı LED ürün gruplarını incelemek için [LED aydınlatma](https://ledlamba.com/led-aydinlatma/) sayfasına göz atabilirsiniz.
 
 ## Sık Sorulan Sorular
 
@@ -101,4 +101,4 @@ Bu tamamen kullanım alanına bağlıdır. Genel aydınlatma için panel, vurgu 
 
 Doğru aydınlatma seçimi; watt, lumen ve lux değerlerinin birlikte değerlendirilmesini gerektirir. Özellikle LED ürünlerde “düşük watt, yüksek ışık” iddiası ancak teknik verilerle doğrulanabiliyorsa anlamlıdır.
 
-Bir sonraki adım: Hub sayfandaki “Watt mı lumen mi?” satırını bu yazıya bağladıktan sonra, IP sınıfları rehberi ile otorite zincirini güçlendirebilirsin.
+**Bir sonraki adım:**  Hub sayfandaki “Watt mı lumen mi?” satırını bu yazıya bağladıktan sonra, IP sınıfları rehberi ile otorite zincirini güçlendirebilirsin.

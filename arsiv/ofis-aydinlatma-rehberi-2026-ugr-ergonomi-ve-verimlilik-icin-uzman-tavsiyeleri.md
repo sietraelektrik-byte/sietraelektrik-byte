@@ -10,7 +10,7 @@ Ofis Aydınlatma Rehberi 2026 | UGR, Ergonomi ve Verimlilik | LED Lamba
 
 # Ofis Aydınlatma Rehberi 2026: UGR, Ergonomi ve Verimlilik İçin Uzman Tavsiyeleri
 
-Modern ofislerde aydınlatma sadece "görme" değil, verimlilik, sağlık ve enerji yönetimi demektir. 25 yıllık saha tecrübesiyle hazırlanan bu rehberde; UGR<19, lux seviyeleri, renk sıcaklığı, flicker free teknolojisi ve ROI hesaplamalarını detaylıca ele alıyoruz.
+Modern ofislerde aydınlatma sadece "görme" değil,  **verimlilik, sağlık ve enerji yönetimi**  demektir. 25 yıllık saha tecrübesiyle hazırlanan bu rehberde; UGR<19, lux seviyeleri, renk sıcaklığı, flicker free teknolojisi ve ROI hesaplamalarını detaylıca ele alıyoruz.
 
 %40
 Verimlilik Artışı
@@ -26,24 +26,24 @@ Standart Gereksinim
 
 ## 1. Giriş: Neden Ofis Aydınlatması Kritik?
 
-Ofislerde çalışanlar günün en az 8 saatini yapay aydınlatma altında geçirir. Yanlış aydınlatma, sadece görme rahatsızlığı değil; verimlilik kaybı, iş kazaları ve sağlık sorunları demektir. Dünya Sağlık Örgütü verilerine göre, ofis çalışanlarının %64'ü göz yorgunluğu (astenopi) şikayeti yaşamaktadır.
+Ofislerde çalışanlar günün  **en az 8 saatini**  yapay aydınlatma altında geçirir. Yanlış aydınlatma, sadece görme rahatsızlığı değil; [verimlilik kaybı, iş kazaları ve sağlık sorunları](https://ledlamba.com/faydali-bilgiler/led-aydinlatma-hesaplama-araclari-lumen-watt-luks-ugr-2026/) demektir. Dünya Sağlık Örgütü verilerine göre, ofis çalışanlarının  **%64'ü**  göz yorgunluğu (astenopi) şikayeti yaşamaktadır.
 
-💡 Kritik Bilgi: Doğru aydınlatma tasarımı ile verimlilik %15-40 artırılabilir, iş kazaları %30 azaltılabilir ve personel devamsızlığı %10 düşürülebilir.
+ **💡 Kritik Bilgi:**  Doğru aydınlatma tasarımı ile verimlilik  **%15-40 artırılabilir** , iş kazaları  **%30 azaltılabilir**  ve personel devamsızlığı  **%10 düşürülebilir** .
 
-Modern ofis aydınlatması üç temel prensibe dayanır:
-
-✓
-Görsel Konfor: UGR<19, yeterli lux, doğal renk sıcaklığı (4000K)
+Modern ofis aydınlatması  **üç temel prensibe**  dayanır:
 
 ✓
-Biyolojik Etki: Sirkadiyen ritim desteği, flicker free teknoloji
+ **Görsel Konfor:**  UGR<19, yeterli lux, doğal renk sıcaklığı (4000K)
 
 ✓
-Enerji Verimliliği: 100+ lm/W verimlilik, akıllı kontrol, günışığı optimizasyonu
+ **Biyolojik Etki:**  Sirkadiyen ritim desteği, flicker free teknoloji
+
+✓
+ **Enerji Verimliliği:**  100+ lm/W verimlilik, akıllı kontrol, günışığı optimizasyonu
 
 ## 2. Ofis Aydınlatma Standartları ve Yönetmelikler
 
-Türkiye'de ofis aydınlatması TS EN 12464-1 standardına göre yapılmalıdır. Bu standart, iç mekan aydınlatma gereksinimlerini tanımlar ve Avrupa Birliği ile uyumludur.
+Türkiye'de ofis aydınlatması  **TS EN 12464-1**  standardına göre yapılmalıdır. Bu standart, iç mekan aydınlatma gereksinimlerini tanımlar ve Avrupa Birliği ile uyumludur.
 
 | Alan Tipi | Minimum Lux (E) | UGR Sınırı | Renk Sıcaklığı (K) | CRI (Ra) |
 | --- | --- | --- | --- | --- |
@@ -55,25 +55,25 @@ Türkiye'de ofis aydınlatması TS EN 12464-1 standardına göre yapılmalıdır
 | Koridor, geçiş alanları | 100 | 25 | 3000 | ≥80 |
 | Arşiv, depo | 200 | 25 | 4000 | ≥80 |
 
-⚠️ Yasal Uyarı: İş Sağlığı ve Güvenliği yönetmeliğine göre, işverenler çalışanlara güvenli ve sağlıklı çalışma ortamı sağlamak zorundadır. Yetersiz aydınlatma, iş kazası ve meslek hastalığı sorumluluğu doğurabilir.
+ **⚠️ Yasal Uyarı:**  İş Sağlığı ve Güvenliği yönetmeliğine göre, işverenler çalışanlara  **güvenli ve sağlıklı çalışma ortamı**  sağlamak zorundadır. Yetersiz aydınlatma, iş kazası ve meslek hastalığı sorumluluğu doğurabilir.
 
 ## 3. UGR Nedir? Ofislerde UGR<19 Şartı
 
-UGR (Unified Glare Rating), birleşik kamaşma indeksidir. Gözün ışık kaynağına bakarken yaşadığı rahatsızlığı 10-30 arası bir sayı ile ifade eder. UGR<19, ofislerde bilgisayar ekranı başında çalışanlar için standartlarda zorunlu sınırdır.
+**UGR (Unified Glare Rating)** , birleşik kamaşma indeksidir. Gözün ışık kaynağına bakarken yaşadığı rahatsızlığı 10-30 arası bir sayı ile ifade eder.  **UGR<19** , ofislerde bilgisayar ekranı başında çalışanlar için standartlarda  **zorunlu**  sınırdır.
 
 ### UGR Hesaplama Formülü
 
-UGR = 8 log [ (0,25 / Lb) × Σ (L² × Ω / P²) ]
+UGR = 8 log [(0,25 / Lb) × Σ (L² × Ω / P²)]
 
 Burada:
 
-* Lb: Arka plan parlaklığı (cd/m²)
+* **Lb:**  Arka plan parlaklığı (cd/m²)
 
-* L: Işık kaynağı parlaklığı (cd/m²)
+* **L:**  Işık kaynağı parlaklığı (cd/m²)
 
-* Ω: Işık kaynağının gözle görülen solid açısı (steradyan)
+* **Ω:**  Işık kaynağının gözle görülen solid açısı (steradyan)
 
-* P: Göz pozisyonunun ışık kaynağı merkezine göre pozisyon indeksi
+* **P:**  Göz pozisyonunun ışık kaynağı merkezine göre pozisyon indeksi
 
 UGR < 16 (Mükemmel)
 
@@ -129,7 +129,7 @@ Eski tip armatürler, yanlış pozisyonlama. Göz yorgunluğu, baş ağrısı, v
 
 * Yasal sorumluluk
 
-🔍 UGR<19 Sağlama Yöntemleri:
+ **🔍 UGR<19 Sağlama Yöntemleri:** 
 
 * Mikro prizma difüzör veya louver kullanımı
 
@@ -141,22 +141,22 @@ Eski tip armatürler, yanlış pozisyonlama. Göz yorgunluğu, baş ağrısı, v
 
 ## 4. Renk Sıcaklığı Seçimi: 3000K vs 4000K vs 5000K
 
-Renk sıcaklığı (Correlated Color Temperature - CCT), ışığın tonunu belirler ve Kelvin (K) birimi ile ölçülür. Ofislerde seçim, verimlilik, konfor ve biyolojik ritim üzerinde kritik etkiye sahiptir.
+Renk sıcaklığı (Correlated Color Temperature - CCT), ışığın tonunu belirler ve  **Kelvin (K)**  birimi ile ölçülür. Ofislerde seçim,  **verimlilik, konfor ve biyolojik ritim**  üzerinde kritik etkiye sahiptir.
 
 | Özellik | 3000K (Sıcak Beyaz) | 4000K (Doğal Beyaz) ⭐ | 5000K-6500K (Soğuk Beyaz) |
 | --- | --- | --- | --- |
-| Görünüm | Sarımsı, gün batımı | Nötr, gün ortası | Mavimsi, gökyüzü |
-| Psikolojik Etki | Rahatlatıcı ama uykulu | Dengeli, odaklı | Enerjik ama gergin |
-| Verimlilik | %10-15 düşük | Optimum | Yüksek ama yorucu |
-| Ofis Uygunluğu | Koridor, dinlenme | Genel ofis, çalışma | Beyin fırtınası, depo |
-| Mavi Işık Riski | Minimum | Güvenli | Yüksek (8+ saat riskli) |
-| CRI Etkisi | Renkler soluk | Doğal renkler | Canlı renkler |
+| **Görünüm** | Sarımsı, gün batımı | Nötr, gün ortası | Mavimsi, gökyüzü |
+| **Psikolojik Etki** | Rahatlatıcı ama uykulu | Dengeli, odaklı | Enerjik ama gergin |
+| **Verimlilik** | %10-15 düşük | Optimum | Yüksek ama yorucu |
+| **Ofis Uygunluğu** | Koridor, dinlenme | Genel ofis, çalışma | Beyin fırtınası, depo |
+| **Mavi Işık Riski** | Minimum | Güvenli | Yüksek (8+ saat riskli) |
+| **CRI Etkisi** | Renkler soluk | Doğal renkler | Canlı renkler |
 
-✅ Öneri: Genel ofis alanlarında 4000K (doğal beyaz) tercih edin. Beyin fırtınası odaları için 5000K kullanılabilir ancak 8 saatten uzun maruziyetten kaçının. Enerji tasarrufu ve konfor için 4000K optimum dengedir.
+ **✅ Öneri:**  Genel ofis alanlarında  **4000K (doğal beyaz)**  tercih edin. Beyin fırtınası odaları için 5000K kullanılabilir ancak 8 saatten uzun maruziyetten kaçının. [Enerji tasarrufu](https://ledlamba.com/faydali-bilgiler/led-mi-floresan-mi-hangisi-gercekten-daha-tasarruflu/) ve konfor için 4000K optimum dengedir.
 
 ## 5. Lux Seviyeleri: Görev Bazlı Aydınlatma
 
-Lux (lx), bir yüzeye düşen ışık miktarını ölçer. 1 lux = 1 lumen/m². Ofislerde "ne kadar çok ışık o kadar iyi" yaklaşımı yanlıştır; görev bazlı optimum seviye hedeflenmelidir.
+**Lux (lx)** , bir yüzeye düşen ışık miktarını ölçer. 1 lux = 1 lumen/m². Ofislerde "ne kadar çok ışık o kadar iyi" yaklaşımı yanlıştır;  **görev bazlı optimum seviye**  hedeflenmelidir.
 
 | Çalışma Tipi | Minimum Lux | Önerilen Lux | Notlar |
 | --- | --- | --- | --- |
@@ -168,11 +168,11 @@ Lux (lx), bir yüzeye düşen ışık miktarını ölçer. 1 lux = 1 lumen/m². 
 | Toplantı (genel) | 300 | 300-500 | Dimmer kontrolü |
 | Toplantı (sunum/video) | 100 | 100-150 | Ekran kontrastı için düşük |
 
-💡 Hesaplama İpucu: Lüks hesaplama aracımız ile oda boyutlarınıza göre gerekli lumen değerini ve armatür sayısını hızlıca hesaplayabilirsiniz.
+ **💡 Hesaplama İpucu:**  [Lüks hesaplama aracımız](https://ledlamba.com/faydali-bilgiler/led-aydinlatma-hesaplama-araclari-lumen-watt-luks-ugr-2026/) ile oda boyutlarınıza göre gerekli lumen değerini ve armatür sayısını hızlıca hesaplayabilirsiniz.
 
 ## 6. Flicker (Titreme) ve Göz Sağlığı
 
-Flicker, LED'in hızlı açılıp kapanması sonucu oluşan, gözle görünmeyen ancak beyin tarafından algılanan titremedir. Yüksek flicker oranı, baş ağrısı, göz yorgunluğu, epilepsi riski ve hatta migren tetikleyicisidir.
+**Flicker** , LED'in hızlı açılıp kapanması sonucu oluşan, gözle görünmeyen ancak beyin tarafından algılanan titremedir. Yüksek flicker oranı,  **baş ağrısı, göz yorgunluğu, epilepsi riski**  ve hatta migren tetikleyicisidir.
 
 Flicker Free (%0-5)
 
@@ -208,13 +208,13 @@ Ucuz LED'ler, trafo tipi sürücüler
 
 * ✗ Verimlilik düşüklüğü
 
-⚠️ Test Etme: Telefon kamerası ile LED'e bakın. Ekranda dalgalı çizgiler (banding) görüyorsanız flicker yüksektir. Flicker free ürünlerde ekran düzgün görünür.
+ **⚠️ Test Etme:**  Telefon kamerası ile LED'e bakın. Ekranda dalgalı çizgiler (banding) görüyorsanız flicker yüksektir. Flicker free ürünlerde ekran düzgün görünür.
 
-LED sürücü (driver) kalitesi, flicker oranını belirleyen en kritik faktördür. Mean Well, Philips, Osram gibi markalı sürücüler flicker free garantisi verir.
+[LED sürücü (driver) kalitesi](https://ledlamba.com/faydali-bilgiler/led-surucu-driver-nedir-led-omrunu-ve-performansini-neden-belirler/), flicker oranını belirleyen en kritik faktördür. Mean Well, Philips, Osram gibi markalı sürücüler flicker free garantisi verir.
 
 ## 7. CRI (Ra): Renk Gerçekliği Neden Önemli?
 
-CRI (Color Rendering Index) veya Türkçe adıyla Ra (Renk Gerçekleme İndeksi), ışık kaynağının renkleri ne kadar doğal gösterdiğini ölçer. Güneş ışığı CRI=100 kabul edilir.
+**CRI (Color Rendering Index)**  veya Türkçe adıyla  **Ra (Renk Gerçekleme İndeksi)** , ışık kaynağının renkleri ne kadar doğal gösterdiğini ölçer. Güneş ışığı CRI=100 kabul edilir.
 
 | CRI Değeri | Kalite | Kullanım Alanı | Ofis Uygunluğu |
 | --- | --- | --- | --- |
@@ -224,15 +224,15 @@ CRI (Color Rendering Index) veya Türkçe adıyla Ra (Renk Gerçekleme İndeksi)
 | Ra 90-95 | Mükemmel | Tasarım, moda, kalite kontrol | Premium ofis |
 | Ra 95+ | Süper | Müze, galeri, tıbbi | Lüks ofis |
 
-✅ Ofis Önerisi: Minimum CRI>80 şarttır. Tasarım, moda veya kalite kontrol ofislerinde CRI>90 tercih edilmelidir. Yüksek CRI, renk kafa karışıklığını ve hatalı değerlendirmeleri önler.
+ **✅ Ofis Önerisi:**  Minimum  **CRI>80**  şarttır. Tasarım, moda veya kalite kontrol ofislerinde  **CRI>90**  tercih edilmelidir. Yüksek CRI, renk kafa karışıklığını ve hatalı değerlendirmeleri önler.
 
 ## 8. Ofis Aydınlatma Ürünleri: LED Panel vs Lineer LED
 
-Modern ofislerde iki ana ürün grubu öne çıkar: LED paneller (60x60 veya 120x30) ve lineer LED'ler (süpürge tipi). Seçim tavan tipine, estetik beklentiye ve bütçeye bağlıdır.
+Modern ofislerde iki ana ürün grubu öne çıkar:  **LED paneller**  (60x60 veya 120x30) ve  **lineer LED'ler**  (süpürge tipi). Seçim tavan tipine, estetik beklentiye ve bütçeye bağlıdır.
 
 LED Panel (60x60 / 120x30)
 
-Asma tavan (alçıpan) için ideal
+**Asma tavan (alçıpan) için ideal**
 
 #### ✓ Avantajlar
 
@@ -256,7 +256,7 @@ Asma tavan (alçıpan) için ideal
 
 Lineer LED (Süpürge)
 
-Betonarme veya yüksek tavan için
+**Betonarme veya yüksek tavan için**
 
 #### ✓ Avantajlar
 
@@ -280,46 +280,46 @@ Betonarme veya yüksek tavan için
 
 | Kriter | LED Panel | Lineer LED |
 | --- | --- | --- |
-| Montaj | Kolay (kendi kendine) | Zor (elektrikçi gerekir) |
-| Tavan Tipi | Asma tavan | Her tavan |
-| Verimlilik (lm/W) | 100-130 | 110-140 |
-| UGR Kontrolü | Kolay (<19) | Orta (difüzör seçimi önemli) |
-| Akıllı Kontrol | Sınırlı | Tam entegrasyon |
-| Bakım | Tüm panel değişir | Modül değişir |
-| Estetik | Geleneksel | Modern |
-| Maliyet (ilk) | Düşük | Yüksek |
+| **Montaj** | Kolay (kendi kendine) | Zor (elektrikçi gerekir) |
+| **Tavan Tipi** | Asma tavan | Her tavan |
+| **Verimlilik (lm/W)** | 100-130 | 110-140 |
+| **UGR Kontrolü** | Kolay (<19) | Orta (difüzör seçimi önemli) |
+| **Akıllı Kontrol** | Sınırlı | Tam entegrasyon |
+| **Bakım** | Tüm panel değişir | Modül değişir |
+| **Estetik** | Geleneksel | Modern |
+| **Maliyet (ilk)** | Düşük | Yüksek |
 
-💡 Seçim Tavsiyesi: Asma tavan ve bütçe kısıtlıysa LED panel; betonarme tavan, modern tasarım ve akıllı ofis hedefleniyorsa lineer LED tercih edin. LED panel hesaplama rehberimiz için tıklayın.
+ **💡 Seçim Tavsiyesi:**  Asma tavan ve bütçe kısıtlıysa  **LED panel** ; betonarme tavan, modern tasarım ve akıllı ofis hedefleniyorsa  **lineer LED**  tercih edin. LED panel hesaplama rehberimiz için tıklayın.
 
 ## 9. Ekran Başı Çalışanlar İçin Aydınlatma
 
-Bilgisayar ekranı başında çalışanlar için aydınlatma, en kritik ve en sık hatalı uygulanan alandır. Yanlış aydınlatma Computer Vision Syndrome (CVS) riskini artırır.
+Bilgisayar ekranı başında çalışanlar için aydınlatma,  **en kritik ve en sık hatalı**  uygulanan alandır. Yanlış aydınlatma  **Computer Vision Syndrome (CVS)**  riskini artırır.
 
-⚠️ CVS Belirtileri: Göz kuruluğu, bulanık görme, baş ağrısı, boyun ağrısı, ışığa hassasiyet. Türkiye'de ofis çalışanlarının %70'i CVS belirtileri yaşamaktadır.
+ **⚠️ CVS Belirtileri:**  Göz kuruluğu, bulanık görme, baş ağrısı, boyun ağrısı, ışığa hassasiyet. Türkiye'de ofis çalışanlarının  **%70'i**  CVS belirtileri yaşamaktadır.
 
 ### Ekran Başı Aydınlatma Kuralları
 
 ✓
-Bias Lighting: Ekran arkasına 6500K LED şerit ekleyin. Kontrastı artırır, göz yorgunluğunu %40 azaltır.
+ **Bias Lighting:**  Ekran arkasına 6500K LED şerit ekleyin. Kontrastı artırır, göz yorgunluğunu %40 azaltır.
 
 ✓
-Lux Seviyesi: 200-300 lux (genel ofisten düşük). Yüksek lux + ekran parlaklığı = glare.
+ **Lux Seviyesi:**  200-300 lux (genel ofisten düşük). Yüksek lux + ekran parlaklığı = glare.
 
 ✓
-Pozisyon: Ekran pencereye 90 derece (yan taraf) konumlandırılmalı. Arka veya ön pozisyon parlama yaratır.
+ **Pozisyon:**  Ekran pencereye  **90 derece**  (yan taraf) konumlandırılmalı. Arka veya ön pozisyon parlama yaratır.
 
 ✓
-Asimetrik Armatür: Ekran üzerine düşen ışığı minimize eden asimetrik optikli armatürler kullanın.
+ **Asimetrik Armatür:**  Ekran üzerine düşen ışığı minimize eden asimetrik optikli armatürler kullanın.
 
 ✓
-Masa Lambası: Ayarlanabilir kol ve dimmer özellikli görev aydınlatması. Göz seviyesinden yüksekte konumlandırın.
+ **Masa Lambası:**  Ayarlanabilir kol ve dimmer özellikli görev aydınlatması. Göz seviyesinden yüksekte konumlandırın.
 
 ✓
-20-20-20 Kuralı: Her 20 dakikada 20 saniye, 20 metre uzağa bakın. Aydınlatma tek başına yeterli değildir.
+ **20-20-20 Kuralı:**  Her 20 dakikada 20 saniye, 20 metre uzağa bakın. Aydınlatma tek başına yeterli değildir.
 
 ## 10. Toplantı Odası ve Ortak Alan Aydınlatması
 
-Toplantı odaları çok fonksiyonlu olduğundan (sunum, beyin fırtınası, video konferans, yemek), zonal aydınlatma ve dimmer kontrolü şarttır.
+Toplantı odaları  **çok fonksiyonlu**  olduğundan (sunum, beyin fırtınası, video konferans, yemek),  **zonal aydınlatma ve dimmer kontrolü**  şarttır.
 
 | Mod | Lux | Renk Sıcaklığı | Amaç |
 | --- | --- | --- | --- |
@@ -329,11 +329,11 @@ Toplantı odaları çok fonksiyonlu olduğundan (sunum, beyin fırtınası, vide
 | Beyin Fırtınası | 500-750 | 5000K | Yaratıcılık, enerji |
 | Dinlenme | 150-200 | 3000K | Rahatlama, informal görüşme |
 
-💡 Video Konferans İpucu: Yüz aydınlatması simetrik olmalı (tek taraflı ışık gölgeli görüntü yaratır). Arka plan karanlık değil, yumuşak aydınlatılmış olmalı. Ring light veya masaüstü LED panel kullanılabilir.
+ **💡 Video Konferans İpucu:**  Yüz aydınlatması  **simetrik**  olmalı (tek taraflı ışık gölgeli görüntü yaratır). Arka plan karanlık değil, yumuşak aydınlatılmış olmalı.  **Ring light**  veya masaüstü LED panel kullanılabilir.
 
 ## 11. Akıllı Ofis Aydınlatması ve Sensörler
 
-Akıllı aydınlatma sistemleri, %30-60 enerji tasarrufu sağlar ve kullanıcı konforunu artırır.
+[Akıllı aydınlatma sistemleri](https://ledlamba.com/faydali-bilgiler/sensorlu-lambalar-ve-akilli-aydinlatma-teknolojileri-muhendislik-rehberi/), %30-60 enerji tasarrufu sağlar ve kullanıcı konforunu artırır.
 
 Hareket Sensörü (PIR)
 
@@ -365,17 +365,17 @@ Mesai saatlerine göre otomatik
 
 * ✓ %10-15 tasarruf
 
-✅ DALI / KNX Entegrasyonu: Profesyonel akıllı ofislerde DALI (Digital Addressable Lighting Interface) veya KNX protokolleri kullanılır. Her armatür bireysel kontrol edilir, raporlama yapılır ve BMS (Bina Yönetim Sistemi) ile entegre çalışır.
+ **✅ DALI / KNX Entegrasyonu:**  Profesyonel akıllı ofislerde  **DALI (Digital Addressable Lighting Interface)**  veya  **KNX**  protokolleri kullanılır. Her armatür bireysel kontrol edilir, raporlama yapılır ve BMS (Bina Yönetim Sistemi) ile entegre çalışır.
 
 ## 12. Ofis Aydınlatma Hesaplaması ve DIALux
 
-Profesyonel projelerde DIALux evo (ücretsiz) veya DIALux Pro kullanılır. Temel hesaplama mantığı:
+Profesyonel projelerde  **DIALux evo**  (ücretsiz) veya  **DIALux Pro**  kullanılır. Temel hesaplama mantığı:
 
-Formül: Gerekli Lumen = Hedef Lux × Alan (m²) / (Verimlilik × Bakım Faktörü)
-Örnek: 50m² ofis, 300 lux hedef, 120 lm/W verimlilik, 0.8 bakım faktörü
-    Gerekli Lumen = 300 × 50 / (120 × 0.8) = 15.625 lumen (≈ 40W LED panel 2 adet)
+ **Formül:**  Gerekli Lumen = Hedef Lux × Alan (m²) / (Verimlilik × Bakım Faktörü)
+ **Örnek:**  50m² ofis, 300 lux hedef, 120 lm/W verimlilik, 0.8 bakım faktörü
+    Gerekli Lumen = 300 × 50 / (120 × 0.8) =  **15.625 lumen**  (≈ 40W LED panel 2 adet)
 
-Gerilim düşümü hesabı ve kablo kesiti seçimi için elektrik hesaplamalarını da yapmayı unutmayın.
+[Gerilim düşümü hesabı](https://ledlamba.com/faydali-bilgiler/gerilim-dusumu-hesabi-nasil-yapilir-ucretsiz-hesaplama-araci/) ve kablo kesiti seçimi için elektrik hesaplamalarını da yapmayı unutmayın.
 
 ## 13. Sık Yapılan Hatalar ve Çözümleri
 
@@ -390,7 +390,7 @@ Gerilim düşümü hesabı ve kablo kesiti seçimi için elektrik hesaplamaları
 
 ## 14. ROI ve Enerji Tasarrufu Hesaplama
 
-Floresan veya metal halidenden LED'e dönüşümde ROI 1.5-3 yıl arasındadır.
+Floresan veya metal halidenden LED'e dönüşümde  **ROI 1.5-3 yıl**  arasındadır.
 
 | Parametre | Eski Sistem (Floresan) | Yeni Sistem (LED) |
 | --- | --- | --- |
@@ -398,12 +398,12 @@ Floresan veya metal halidenden LED'e dönüşümde ROI 1.5-3 yıl arasındadır.
 | Yıllık Tüketim (10 saat/gün) | 14.600 kWh | 5.840 kWh |
 | Yıllık Maliyet (2 TL/kWh) | 29.200 TL | 11.680 TL |
 | Bakım (yıllık) | 3.000 TL (balast, tüp) | 0 TL |
-| Toplam Yıllık | 32.200 TL | 11.680 TL |
-| Yıllık Tasarruf | 20.520 TL |
-| Yatırım Maliyeti | 40.000 TL (100 adet × 400 TL) |
-| Geri Ödeme Süresi | 23 ay (≈ 2 yıl) |
+| **Toplam Yıllık** | **32.200 TL** | **11.680 TL** |
+| **Yıllık Tasarruf** | 20.520 TL |
+| **Yatırım Maliyeti** | 40.000 TL (100 adet × 400 TL) |
+| **Geri Ödeme Süresi** | 23 ay (≈ 2 yıl) |
 
-✅ 10 Yıllık Toplam Tasarruf: 205.200 TL - 40.000 TL = 165.200 TL net kazanç (ampul değişim maliyeti hariç). Akıllı kontrol eklenirse tasarruf %40'a çıkar.
+ **✅ 10 Yıllık Toplam Tasarruf:**  205.200 TL - 40.000 TL =  **165.200 TL net kazanç**  (ampul değişim maliyeti hariç). Akıllı kontrol eklenirse tasarruf %40'a çıkar.
 
 ## 15. Uygulama Öncesi Kontrol Listesi
 
@@ -441,7 +441,7 @@ Garanti süresi (min 3 yıl) ve sertifikalar (CE/TSE) kontrol edildi
 
 Tekirdağ ve çevresindeki ofis projeleriniz için ücretsiz keşif, hesaplama ve fiyat teklifi alın.
 
-Hemen Teklif Alın
+[Hemen Teklif Alın](https://ledlamba.com/iletisim/)
 
 * Tekirdağ'da yerinde keşif hizmetimiz bulunmaktadır.
 
@@ -545,9 +545,9 @@ Entegre sistemler: 1) HVAC + aydınlatma (klimalı LED panel), 2) Yangın algıl
 
 ### 📚 İlgili İçerikler
 
-LED Aydınlatma Hesaplama Araçları (Lümen-Watt-Lüks)
-Gerilim Düşümü Hesabı ve Kablo Seçimi
-Sensörlü Lambalar ve Akıllı Aydınlatma
+[LED Aydınlatma Hesaplama Araçları (Lümen-Watt-Lüks)](https://ledlamba.com/faydali-bilgiler/led-aydinlatma-hesaplama-araclari-lumen-watt-luks-ugr-2026/)
+[Gerilim Düşümü Hesabı ve Kablo Seçimi](https://ledlamba.com/faydali-bilgiler/gerilim-dusumu-hesabi-nasil-yapilir-ucretsiz-hesaplama-araci/)
+[Sensörlü Lambalar ve Akıllı Aydınlatma](https://ledlamba.com/faydali-bilgiler/sensorlu-lambalar-ve-akilli-aydinlatma-teknolojileri-muhendislik-rehberi/)
         LED Panel Kaç m² Aydınlatır?
-        LED Sürücü (Driver) Nedir?
-Watt mı Lumen mi? Doğru Ölçüm Rehberi
+        [LED Sürücü (Driver) Nedir?](https://ledlamba.com/faydali-bilgiler/led-surucu-driver-nedir-led-omrunu-ve-performansini-neden-belirler/)
+[Watt mı Lumen mi? Doğru Ölçüm Rehberi](https://ledlamba.com/faydali-bilgiler/watt-mi-lumen-mi-dogru-aydinlatma-nasil-olculur-lux-hesaplariyla-net-rehber/)

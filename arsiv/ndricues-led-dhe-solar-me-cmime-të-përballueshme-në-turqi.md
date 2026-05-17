@@ -130,7 +130,7 @@ Qëllimi ynë është ndërtimi i bashkëpunimeve afatgjata
       bazuar në cilësi, transparencë
       dhe çmime konkurruese.
 
-Sietra Elektrik Aydınlatma –
+**Sietra Elektrik Aydınlatma –
       partner i besueshëm për ndriçues LED
       dhe solar me çmime të përballueshme
-      nga Turqia për Shqipërinë dhe Ballkanin.
+      nga Turqia për Shqipërinë dhe Ballkanin.**

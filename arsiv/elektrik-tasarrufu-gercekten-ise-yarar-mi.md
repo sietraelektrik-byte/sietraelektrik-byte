@@ -14,35 +14,35 @@ Bu rehberde, tasarrufun faturanız üzerindeki etkisini sadece tavsiyelerle değ
 
 ## 1. Tasarruf vs. İhmal: Rakamların Gücü
 
-Birçok kişi, küçük tasarruf adımlarının faturada sadece 10-20 TL fark yaratacağını düşünür. Ancak 2026 yılındaki kademeli tarife sistemi, tasarrufu bir tercih olmaktan çıkarıp bir zorunluluk haline getirmiştir.
+Birçok kişi, küçük tasarruf adımlarının faturada sadece 10-20 TL fark yaratacağını düşünür. Ancak 2026 yılındaki  **kademeli tarife sistemi** , tasarrufu bir tercih olmaktan çıkarıp bir zorunluluk haline getirmiştir.
 
 ### Kademeli Tarife Mantığı: Neden 1 kWh Bile Değerli?
 
-Aylık 240 kWh sınırını aşmak, o eşikten sonra tükettiğiniz her birimin fiyatının anında %50 artması demektir.
+Aylık  **240 kWh**  sınırını aşmak, o eşikten sonra tükettiğiniz her birimin fiyatının anında  **%50 artması**  demektir.
 
-* Durum A: 239 kWh tükettiniz. (Düşük kademeden ödediniz).
+* **Durum A:**  239 kWh tükettiniz. (Düşük kademeden ödediniz).
 
-* Durum B: Sadece 2 kWh daha fazla tükettiniz ve 241 kWh oldu. Artık o fazladan gelen her birim en yüksek fiyattan hesaplanır.
+* **Durum B:**  Sadece 2 kWh daha fazla tükettiniz ve 241 kWh oldu. Artık o fazladan gelen her birim en yüksek fiyattan hesaplanır.
 
-Matematiksel Gerçek: Tasarruf sadece kullanılan enerjiyi azaltmaz, sizi “pahalı tarifeden” koruyarak faturanızı geometrik olarak düşürür.
+**Matematiksel Gerçek:**  Tasarruf sadece kullanılan enerjiyi azaltmaz, sizi  **“pahalı tarifeden”**  koruyarak faturanızı geometrik olarak düşürür.
 
 ## 2. Teknoloji Değişiminin Reel Etkisi: Akkor vs. LED
 
 “Altı üstü bir ampul” dediğiniz şey, aslında faturanızın %15’ini temsil eder.
 
-Sonuç: Sadece ampul değiştirerek her yıl orta segment bir cep telefonu parası kadar tasarruf etmek “gerçekten işe yarıyor” demektir.
+**Sonuç:**  Sadece ampul değiştirerek her yıl orta segment bir cep telefonu parası kadar tasarruf etmek  **“gerçekten işe yarıyor”**  demektir.
 
 ## 3. Vampir Gücü: Siz Uyurken Cebinizden Ne Gidiyor?
 
-Bekleme modu (stand-by), elektrik tasarrufunun “plasebo” etkisi sanılan ama en gerçek kalemlerinden biridir. Televizyon, modem, mikrodalga saat ekranı ve uydu alıcıları toplamda evde sürekli 25-40 Watt arası bir yük oluşturur.
+Bekleme modu (stand-by), elektrik tasarrufunun “plasebo” etkisi sanılan ama en gerçek kalemlerinden biridir. Televizyon, modem, mikrodalga saat ekranı ve uydu alıcıları toplamda evde sürekli  **25-40 Watt**  arası bir yük oluşturur.
 
-* Hesap: 35W x 24 saat x 30 gün = 25,2 kWh.
+* **Hesap:**  35W x 24 saat x 30 gün =  **25,2 kWh.**
 
 * bu miktar, tek başına bir buzdolabının aylık tüketimine yakındır. Hiç kullanmadığınız bir “hayalet” için her ay para ödemek yerine bir düğmeli priz kullanmak kesinlikle işe yarar.
 
 ## 4. Gerçek Bir Vaka Analizi (Case Study): 4 Kişilik Aile
 
-Önceki Durum:
+**Önceki Durum:**
 
 * Evde 15 eski ampul var.
 
@@ -50,9 +50,9 @@ Bekleme modu (stand-by), elektrik tasarrufunun “plasebo” etkisi sanılan ama
 
 * Çamaşırlar hep 60 derecede yıkanıyor.
 
-* Fatura: 380 kWh (Yüksek kademe sınırını çoktan aşmış).
+* **Fatura:**  380 kWh (Yüksek kademe sınırını çoktan aşmış).
 
-Sonraki Durum (Tasarruf Uygulandı):
+**Sonraki Durum (Tasarruf Uygulandı):**
 
 * Tüm ampuller LED yapıldı (-60 kWh).
 
@@ -60,48 +60,48 @@ Sonraki Durum (Tasarruf Uygulandı):
 
 * Çamaşırlar 30 derecede, bulaşıklar Eko modda yıkandı (-20 kWh).
 
-* Yeni Fatura: 275 kWh.
+* **Yeni Fatura:**  275 kWh.
 
-Fark: Sadece basit alışkanlıklarla fatura 105 kWh düştü. Kademeli tarife avantajıyla birlikte ödenen tutar %40 azaldı.
+**Fark:**  Sadece basit alışkanlıklarla fatura  **105 kWh**  düştü. Kademeli tarife avantajıyla birlikte ödenen tutar  **%40 azaldı.**
 
 ## 5. Sık Sorulan Sorular (Tasarruf Hakkında Şüpheler)
 
-* Fişi çekmek gerçekten fark yaratır mı? Evet, özellikle transformatör içeren eski cihazlar ve modemler ayda 10-15 TL “boşta” enerji harcar.
+* **Fişi çekmek gerçekten fark yaratır mı?**  Evet, özellikle transformatör içeren eski cihazlar ve modemler ayda 10-15 TL “boşta” enerji harcar.
 
-* Klimayı aç-kapat yapmak mı tasarruflu, sürekli açık kalması mı? Inverter klimaları hedef sıcaklığa ulaştıktan sonra kapatmak yerine derecesini artırmak (25-26°C) daha tasarrufludur.
+* **Klimayı aç-kapat yapmak mı tasarruflu, sürekli açık kalması mı?**  Inverter klimaları hedef sıcaklığa ulaştıktan sonra kapatmak yerine derecesini artırmak (25-26°C) daha tasarrufludur.
 
-* Güneş paneli taktırmak mantıklı mı? 2026 enerji maliyetleriyle, bir güneş paneli sistemi kendini 4 yılda amorti etmektedir. Sonrası bedava enerjidir.
+* **Güneş paneli taktırmak mantıklı mı?**  2026 enerji maliyetleriyle, bir güneş paneli sistemi kendini 4 yılda amorti etmektedir. Sonrası bedava enerjidir.
 
-* Bulaşıkları elde yıkamak daha mı ucuz? Hayır! Bulaşık makinesi suyu kendi ısıtır ve çok az su kullanır. Elde yıkarken harcanan sıcak suyun maliyeti çok daha yüksektir.
+* **Bulaşıkları elde yıkamak daha mı ucuz?**  Hayır! Bulaşık makinesi suyu kendi ısıtır ve çok az su kullanır. Elde yıkarken harcanan sıcak suyun maliyeti çok daha yüksektir.
 
-* Gece çamaşır yıkamak hâlâ mantıklı mı? Sadece “Çok Zamanlı Tarife”ye geçtiyseniz mantıklıdır. Tek zamanlı tarifedeyseniz bir şey değişmez.
+* **Gece çamaşır yıkamak hâlâ mantıklı mı?**  Sadece “Çok Zamanlı Tarife”ye geçtiyseniz mantıklıdır. Tek zamanlı tarifedeyseniz bir şey değişmez.
 
-* Ütü yaparken tasarruf olur mu? Ütü bitmeden 5 dakika önce fişi çekin; tabandaki ısı son parçayı ütülemeye yetecektir.
+* **Ütü yaparken tasarruf olur mu?**  Ütü bitmeden 5 dakika önce fişi çekin; tabandaki ısı son parçayı ütülemeye yetecektir.
 
-* Eski buzdolabını tamir ettirmek mi, yenisini almak mı? 10 yılı aşmışsa, tamir etmek yerine yeni bir A+++ (yeni etiket C) almak, enerji farkıyla 3 yılda kendini öder.
+* **Eski buzdolabını tamir ettirmek mi, yenisini almak mı?**  10 yılı aşmışsa, tamir etmek yerine yeni bir A+++ (yeni etiket C) almak, enerji farkıyla 3 yılda kendini öder.
 
-* Elektrik faturasında indirim almak mümkün mü? Bazı özel tedarikçiler yıllık yüksek tüketim yapanlara (serbest tüketici) indirimli birim fiyat sunabilir.
+* **Elektrik faturasında indirim almak mümkün mü?**  Bazı özel tedarikçiler yıllık yüksek tüketim yapanlara (serbest tüketici) indirimli birim fiyat sunabilir.
 
-* LED ampulün fiyatı tasarrufundan çok değil mi? Hayır, bir LED ampul 3-4 ayda kendi maliyetini çıkarır ve 5-10 yıl boyunca kâr ettirir.
+* **LED ampulün fiyatı tasarrufundan çok değil mi?**  Hayır, bir LED ampul 3-4 ayda kendi maliyetini çıkarır ve 5-10 yıl boyunca kâr ettirir.
 
-* Tasarruf için her şeyi kapatmak hayat kalitesini düşürmez mi? Hayır, tasarruf “kullanmamak” değil, “verimli kullanmaktır”. Işığı kısmak yerine LED kullanmak konforu bozmaz.
+* **Tasarruf için her şeyi kapatmak hayat kalitesini düşürmez mi?**  Hayır, tasarruf “kullanmamak” değil, “verimli kullanmaktır”. Işığı kısmak yerine LED kullanmak konforu bozmaz.
 
 ## 6. Sonuç: Tasarruf Bir “Züğürt Tesellisi” Değildir
 
 Elektrik tasarrufu, bireysel bazda bütçenizi korurken, ülke bazında dışa bağımlılığı azaltır. 2026 yılında elektrik fiyatları bu seviyedeyken, tasarruf yapmamak her ay cebinizden bir miktar parayı sokağa atmakla eşdeğerdir.
 
-Kısacası: Evet, tasarruf kesinlikle işe yarar.
+**Kısacası:**  Evet, tasarruf  **kesinlikle işe yarar.**
 
 ### 📊 Karşılaştırmalı Tasarruf Tablosu
 
 ### Elektrik Tasarrufu ile İlgili Diğer Rehber Yazılarımız
 
-* LED mi Floresan mı? Hangisi Gerçekten Daha Tasarruflu?
+* [LED mi Floresan mı? Hangisi Gerçekten Daha Tasarruflu?](https://ledlamba.com/led-mi-floresan-mi-hangisi-gercekten-daha-tasarruflu/)
 
-* Ayda Ne Kadar Elektrik Normaldir? (2026 Rehberi)
+* [Ayda Ne Kadar Elektrik Normaldir? (2026 Rehberi)](https://ledlamba.com/ayda-ne-kadar-elektrik-normaldir-2026-mesken-tuketim-standartlari/)
 
-* Elektrik Faturasında En Çok Ne Yakar?
+* [Elektrik Faturasında En Çok Ne Yakar?](https://ledlamba.com/elektrik-faturasinda-en-cok-ne-yakar/)
 
-* Evde Elektrik Tasarrufu İçin Ne Yapılmalı?
+* [Evde Elektrik Tasarrufu İçin Ne Yapılmalı?](https://ledlamba.com/evde-elektrik-tasarrufu-icin-ne-yapilmali-2026-tasarruf-rehberi/)
 
-* Elektrik Faturası Nasıl Düşürülür?
+* [Elektrik Faturası Nasıl Düşürülür?](https://ledlamba.com/elektrik-faturasi-nasil-dusurulur/)

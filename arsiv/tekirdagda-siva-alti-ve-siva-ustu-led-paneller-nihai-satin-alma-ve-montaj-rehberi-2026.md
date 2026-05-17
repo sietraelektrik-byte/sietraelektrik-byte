@@ -8,47 +8,47 @@ canonical: "https://ledlamba.com/tekirdagda-siva-alti-ve-siva-ustu-led-paneller-
 
 Alçıpan tavan için sıva altı panel ve beton tavan için sıva üstü panel uygulama örneği.
 
-Tekirdağ’ın dinamik yapısı, Süleymanpaşa’daki modern konutlardan Çorlu ve Çerkezköy’ün endüstriyel tesislerine kadar farklı aydınlatma ihtiyaçları doğuruyor. LED Lamba olarak, bölgenin bu çeşitliliğine hitap eden sıva altı ve sıva üstü LED panel çözümlerimizle hem estetik hem de fonksiyonel aydınlatma sağlıyoruz. Bu kapsamlı rehberde, LED panel neden çabuk bozulur sorusundan başlayarak, doğru ürün seçiminden profesyonel montaja kadar tüm süreci ele alacağız.
+Tekirdağ’ın dinamik yapısı, Süleymanpaşa’daki modern konutlardan Çorlu ve Çerkezköy’ün endüstriyel tesislerine kadar farklı aydınlatma ihtiyaçları doğuruyor. [LED Lamba](https://ledlamba.com) olarak, bölgenin bu çeşitliliğine hitap eden sıva altı ve sıva üstü LED panel çözümlerimizle hem estetik hem de fonksiyonel aydınlatma sağlıyoruz. Bu kapsamlı rehberde, [LED panel neden çabuk bozulur](https://ledlamba.com/led-panel-neden-cabuk-bozulur/) sorusundan başlayarak, doğru ürün seçiminden profesyonel montaja kadar tüm süreci ele alacağız.
 
 ## ​1. Sıva Altı ve Sıva Üstü LED Panel Teknik Karşılaştırması
 
 ### ​Montaj ve Görünüm Farkları
 
-​Sıva altı LED paneller, tavan veya duvar yüzeyi ile tamamen aynı hizada kalacak şekilde monte edilir. Bu montaj tekniği, özellikle Süleymanpaşa ve Marmara Ereğlisi’ndeki yeni nesil konut projelerinde tercih edilen kesintisiz, minimalist bir görünüm sunar. Montaj için önceden açılmış bir boşluğa (recess) ihtiyaç duyarlar ve bu nedenle yapının erken planlama aşamalarında karar verilmesi gerekir.
+​ **Sıva altı LED paneller** , tavan veya duvar yüzeyi ile tamamen aynı hizada kalacak şekilde monte edilir. Bu montaj tekniği, özellikle Süleymanpaşa ve Marmara Ereğlisi’ndeki yeni nesil konut projelerinde tercih edilen kesintisiz, minimalist bir görünüm sunar. Montaj için önceden açılmış bir boşluğa (recess) ihtiyaç duyarlar ve bu nedenle yapının erken planlama aşamalarında karar verilmesi gerekir.
 
-​Sıva üstü LED paneller ise mevcut yüzeyin üzerine direkt olarak monte edilir. Çorlu’daki endüstriyel tesislerde veya Muratlı’daki eski yapılarda renovasyon çalışmaları için ideal çözümdür. Kurulumu daha hızlı ve daha az invaziftir. LED armatürlerde ısı yönetimi her iki montaj tipinde de kritik öneme sahiptir, ancak sıva üstü modellerde hava sirkülasyonu genellikle daha iyidir.
+​ **Sıva üstü LED paneller**  ise mevcut yüzeyin üzerine direkt olarak monte edilir. Çorlu’daki endüstriyel tesislerde veya Muratlı’daki eski yapılarda renovasyon çalışmaları için ideal çözümdür. Kurulumu daha hızlı ve daha az invaziftir. [LED armatürlerde ısı yönetimi](https://ledlamba.com/led-armaturlerde-isi-yonetimi/) her iki montaj tipinde de kritik öneme sahiptir, ancak sıva üstü modellerde hava sirkülasyonu genellikle daha iyidir.
 
 ### ​Tekirdağ İklim Koşullarına Uygunluk
 
 ​Tekirdağ’ın karakteristik nemli Karadeniz iklimi ve yaz aylarındaki yüksek sıcaklıklar, LED panel seçiminde dikkat edilmesi gereken ek faktörler getirir. Panelin IP (Ingress Protection) koruma sınıfı, özellikle neme karşı dayanımı belirler. IP20, IP44, IP65 nerede kullanılmalı rehberimizde detaylandırdığımız gibi, standart iç mekan kuru ortamlar için IP20 yeterliyken, Tekirdağ’ın nemli kıyı kesimlerindeki banyo veya kapalı balkonlar için en az IP44 tercih edilmelidir.
 
-​Özellikle Çerkezköy Organize Sanayi Bölgesi gibi alanlarda, havadaki kimyasal partiküller de dikkate alınmalıdır. Endüstriyel ortamlarda kullanılacak LED panellerin, korozyona dayanıklı malzemelerden üretilmiş olması ömrünü önemli ölçüde uzatacaktır. LED Lamba olarak bölgenin iklimsel ve çevresel koşullarını analiz ederek, her mekan için en uygun IP sınıfına sahip ürünleri öneriyoruz.
+​Özellikle Çerkezköy Organize Sanayi Bölgesi gibi alanlarda, havadaki kimyasal partiküller de dikkate alınmalıdır. Endüstriyel ortamlarda kullanılacak LED panellerin, korozyona dayanıklı malzemelerden üretilmiş olması ömrünü önemli ölçüde uzatacaktır. [LED Lamba](https://ledlamba.com) olarak bölgenin iklimsel ve çevresel koşullarını analiz ederek, her mekan için en uygun IP sınıfına sahip ürünleri öneriyoruz.
 
 ## ​2. Tekirdağ’da Doğru LED Panel Seçim Kriterleri
 
 ### ​Mekan Tipine Göre Seçim
 
-* ​Konut Projeleri (Süleymanpaşa, Marmara Ereğlisi): Sıva altı LED paneller, modern ve ferah bir görünüm için idealdir. 3000K-4000K arası sıcaklıkta ışık, konforlu bir atmosfer yaratır. İnce profilli (slim) modeller, düşük tavanlı dairelerde bile ferahlık hissini korur.
+* ​ **Konut Projeleri (Süleymanpaşa, Marmara Ereğlisi):**  Sıva altı LED paneller, modern ve ferah bir görünüm için idealdir. 3000K-4000K arası sıcaklıkta ışık, konforlu bir atmosfer yaratır. İnce profilli (slim) modeller, düşük tavanlı dairelerde bile ferahlık hissini korur.
 
-* ​Ofis ve Ticari Alanlar (Çorlu Merkez): Yüksek aydınlık seviyesi (500 lüks ve üzeri) ve renksel geriverim indeksi (CRI > 80) gereklidir. 4000K-6000K arası nötr veya soğuk beyaz ışık, konsantrasyonu artırır. Elektrik faturası nasıl düşürülür sorusunun cevabı için ofislerde enerji verimliliği yüksek (lm/W değeri yüksek) paneller tercih edilmelidir.
+* ​ **Ofis ve Ticari Alanlar (Çorlu Merkez):**  Yüksek aydınlık seviyesi (500 lüks ve üzeri) ve renksel geriverim indeksi (CRI > 80) gereklidir. 4000K-6000K arası nötr veya soğuk beyaz ışık, konsantrasyonu artırır. [Elektrik faturası nasıl düşürülür](https://ledlamba.com/elektrik-faturasi-nasil-dusurulur/) sorusunun cevabı için ofislerde enerji verimliliği yüksek (lm/W değeri yüksek) paneller tercih edilmelidir.
 
-* ​Endüstriyel Tesisler (Çerkezköy OSB): Dayanıklılık, yüksek aydınlatma şiddeti ve düşük bakım maliyeti önceliklidir. Sıva üstü montajlı, yüksek IP korumalı (IP65) ve yüksek sıcaklığa dayanıklı paneller tercih edilmelidir. LED mi floresan mı karşılaştırmamızda da altını çizdiğimiz gibi, bu tür zorlu ortamlarda LED’in uzun ömrü ve düşük enerji tüketimi toplam sahip olma maliyetini önemli ölçüde düşürür.
+* ​ **Endüstriyel Tesisler (Çerkezköy OSB):**  Dayanıklılık, yüksek aydınlatma şiddeti ve düşük bakım maliyeti önceliklidir. Sıva üstü montajlı, yüksek IP korumalı (IP65) ve yüksek sıcaklığa dayanıklı paneller tercih edilmelidir. [LED mi floresan mı](https://ledlamba.com/led-mi-floresan-mi/) karşılaştırmamızda da altını çizdiğimiz gibi, bu tür zorlu ortamlarda LED’in uzun ömrü ve düşük enerji tüketimi toplam sahip olma maliyetini önemli ölçüde düşürür.
 
 ### ​Teknik Özelliklerin Değerlendirilmesi
 
-* ​Lümen Değeri ve Verimlilik: Aydınlatmanın parlaklığını lümen (lm) cinsinden ölçeriz. Tekirdağ’daki bir ofis için gereken lümeni hesaplarken: Alan (m^2) \times Gerekli Lüks (lx) = Toplam Lümen. Örneğin 20 m^2 bir ofis (500 lx) için 10,000 lm gerekir.
+* ​ **Lümen Değeri ve Verimlilik:**  Aydınlatmanın parlaklığını lümen (lm) cinsinden ölçeriz. Tekirdağ’daki bir ofis için gereken lümeni hesaplarken: Alan (m^2) \times Gerekli Lüks (lx) = Toplam Lümen. Örneğin 20 m^2 bir ofis (500 lx) için 10,000 lm gerekir.
 
-* ​Renk Sıcaklığı (Kelvin): 2700K-3000K sıcak beyaz, 4000K-4500K nötr beyaz, 5000K-6500K soğuk beyaz etki yaratır.
+* ​ **Renk Sıcaklığı (Kelvin):**  2700K-3000K sıcak beyaz, 4000K-4500K nötr beyaz, 5000K-6500K soğuk beyaz etki yaratır.
 
-* ​Renksel Geriverim İndeksi (CRI): Işığın renkleri doğru gösterme yeteneğidir. CRI > 80 değeri, mağazalar veya showroom’lar için kritiktir.
+* ​ **Renksel Geriverim İndeksi (CRI):**  Işığın renkleri doğru gösterme yeteneğidir. CRI > 80 değeri, mağazalar veya showroom’lar için kritiktir.
 
-* ​Ömür ve Bakım: Kaliteli bir LED panel, 50,000 saate kadar ömür sunar. LED sürücü (driver) nedir makalemizde vurguladığımız gibi, ömrü belirleyen en önemli bileşen sürücüdür.
+* ​ **Ömür ve Bakım:**  Kaliteli bir LED panel, 50,000 saate kadar ömür sunar. [LED sürücü (driver) nedir](https://ledlamba.com/led-surucu-driver-nedir/) makalemizde vurguladığımız gibi, ömrü belirleyen en önemli bileşen sürücüdür.
 
 ## ​3. Enerji Tasarrufu ve Maliyet Analizi
 
 ​Tekirdağ’da hem konut hem de işletme elektrik faturalarında aydınlatmanın payı oldukça yüksektir. Elektrik faturasında en çok ne yakar sorusunun cevaplarından biri de eski aydınlatma sistemleridir.
 
-​Geleneksel Aydınlatma Maliyeti:
+​ **Geleneksel Aydınlatma Maliyeti:**
 
 * ​40W floresan armatür \times 10 adet = 400W
 
@@ -56,9 +56,9 @@ Tekirdağ’ın dinamik yapısı, Süleymanpaşa’daki modern konutlardan Çorl
 
 * ​Aylık tüketim: 120 kWh
 
-* ​Maliyet (~2.5 TL/kWh): 300 TL/ay
+* ​Maliyet (~2.5 TL/kWh):  **300 TL/ay**
 
-​LED Panel Aydınlatma Maliyeti:
+​ **LED Panel Aydınlatma Maliyeti:**
 
 * ​20W LED panel \times 10 adet = 200W (Aynı aydınlık için)
 
@@ -66,47 +66,47 @@ Tekirdağ’ın dinamik yapısı, Süleymanpaşa’daki modern konutlardan Çorl
 
 * ​Aylık tüketim: 60 kWh
 
-* ​Maliyet: 150 TL/ay
+* ​Maliyet:  **150 TL/ay**
 
-​Net Tasarruf: Aylık 150 TL, yıllık 1.800 TL. Evde elektrik tasarrufu için ne yapılmalı rehberimizde de belirttiğimiz gibi, LED aydınlatmaya geçiş en etkili adımlardan biridir.
+​ **Net Tasarruf:**  Aylık 150 TL, yıllık 1.800 TL. [Evde elektrik tasarrufu için ne yapılmalı](https://ledlamba.com/evde-elektrik-tasarrufu-icin-ne-yapilmali/) rehberimizde de belirttiğimiz gibi, LED aydınlatmaya geçiş en etkili adımlardan biridir.
 
 ## ​4. Montaj Süreci ve Tekirdağ’daki Uygulama Detayları
 
 ### ​Sıva Altı LED Panel Montajı (Yapı Aşamasında)
 
-* ​Planlama ve Niş Açma: Tavan kaplaması yapılmadan önce, panele uygun standart ölçülerde nişler hazırlanır. Elektrik tesisatı bu aşamada planlanmalıdır.
+* ​ **Planlama ve Niş Açma:**  Tavan kaplaması yapılmadan önce, panele uygun standart ölçülerde nişler hazırlanır. Elektrik tesisatı bu aşamada planlanmalıdır.
 
-* ​Kablo Çekme ve Sürücü Yeri: LED panel sürücüleri, panele yakın ancak ısıdan etkilenmeyecek, ulaşılabilir bir yere monte edilmelidir. LED armatürlerde ısı yönetimi kuralı burada da geçerlidir.
+* ​ **Kablo Çekme ve Sürücü Yeri:**  LED panel sürücüleri, panele yakın ancak ısıdan etkilenmeyecek, ulaşılabilir bir yere monte edilmelidir. [LED armatürlerde ısı yönetimi](https://ledlamba.com/led-armaturlerde-isi-yonetimi/) kuralı burada da geçerlidir.
 
-* ​Panel Yerleştirme ve Sabitleme: Paneller, tavan kaplaması tamamlandıktan sonra yaylı klips sistemleri ile nişlere yerleştirilir.
+* ​ **Panel Yerleştirme ve Sabitleme:**  Paneller, tavan kaplaması tamamlandıktan sonra yaylı klips sistemleri ile nişlere yerleştirilir.
 
 ### ​Sıva Üstü LED Panel Montajı (Renovasyon)
 
-* ​Yüzey Kontrolü ve Hazırlık: Montaj yapılacak yüzeyin düz ve sağlam olması gerekir.
+* ​ **Yüzey Kontrolü ve Hazırlık:**  Montaj yapılacak yüzeyin düz ve sağlam olması gerekir.
 
-* ​Sabitleme Noktalarının İşaretlenmesi: Panelin arka plakası duvara tutturulur. Su terazisi ile tam düz bir şekilde işaretleme yapılmalıdır.
+* ​ **Sabitleme Noktalarının İşaretlenmesi:**  Panelin arka plakası duvara tutturulur. Su terazisi ile tam düz bir şekilde işaretleme yapılmalıdır.
 
-* ​Elektrik Bağlantısı: Mevcut elektrik hattına bağlantı yapılır. Bağlantılar, Tekirdağ’daki elektrik yönetmeliklerine uygun şekilde yalıtılmalıdır.
+* ​ **Elektrik Bağlantısı:**  Mevcut elektrik hattına bağlantı yapılır. Bağlantılar, Tekirdağ’daki elektrik yönetmeliklerine uygun şekilde yalıtılmalıdır.
 
-* ​Panelin Takılması: Panel, arka plakaya manyetik veya mekanik bir kilit sistemi ile sabitlenir.
+* ​ **Panelin Takılması:**  Panel, arka plakaya manyetik veya mekanik bir kilit sistemi ile sabitlenir.
 
 ## ​5. Bakım, Sorun Giderme ve Ömür Uzatma İpuçları
 
-* ​Toz ve Kir Birikimi: Sanayi bölgelerinde toz birikimi aydınlatma verimini \%20’ye kadar düşürebilir. Yılda bir kez yumuşak, kuru bir bezle silinmelidir.
+* ​ **Toz ve Kir Birikimi:**  Sanayi bölgelerinde toz birikimi aydınlatma verimini \%20’ye kadar düşürebilir. Yılda bir kez yumuşak, kuru bir bezle silinmelidir.
 
-* ​Sürücü Kontrolü: Arıza durumunda ilk kontrol edilmesi gereken bileşen sürücüdür. LED panel neden çabuk bozulur sorusunun en yaygın cevabı, kalitesiz sürücülerdir.
+* ​ **Sürücü Kontrolü:**  Arıza durumunda ilk kontrol edilmesi gereken bileşen sürücüdür. [LED panel neden çabuk bozulur](https://ledlamba.com/led-panel-neden-cabuk-bozulur/) sorusunun en yaygın cevabı, kalitesiz sürücülerdir.
 
-* ​Titreşimden Kaçınma: Özellikle Çorlu gibi sanayi bölgelerinde, panellerin titreşimden etkilenmeyeceği sağlam yapılara montajı önemlidir.
+* ​ **Titreşimden Kaçınma:**  Özellikle Çorlu gibi sanayi bölgelerinde, panellerin titreşimden etkilenmeyeceği sağlam yapılara montajı önemlidir.
 
 ## ​6. Tekirdağ’da Geleceğe Hazır Aydınlatma: Akıllı Sistem Entegrasyonu
 
 ​Modern LED paneller, akıllı bina sistemlerinin bir parçası haline geliyor. Tekirdağ’daki yeni projelerde DALI veya WiFi/Bluetooth kontrollü panellere talep artmaktadır. Bu sistemler; uzaktan kontrol, enerji izleme, senaryo üretme ve doğal ışıkla uyum gibi avantajlar sağlar.
 
-​LED Lamba olarak, Tekirdağ’ın geleceğini şekillendiren bu akıllı aydınlatma teknolojilerini müşterilerimizle buluşturuyoruz.
+​[LED Lamba](https://ledlamba.com) olarak, Tekirdağ’ın geleceğini şekillendiren bu akıllı aydınlatma teknolojilerini müşterilerimizle buluşturuyoruz.
 
 ### ​Sonuç: Tekirdağ İçin Doğru LED Panel Yatırımı
 
-​İster Süleymanpaşa’da yeni bir daire, ister Çerkezköy’de bir fabrika sahibi olun, LED panel seçimi uzun vadeli bir yatırımdır. LED Lamba ekibi olarak, Tekirdağ ve çevresinde ihtiyacınıza uygun çözümler sunmak için buradayız. Işığın aydınlatmadaki evrimi yolculuğunda bir sonraki adımınızı birlikte atalım
+​İster Süleymanpaşa’da yeni bir daire, ister Çerkezköy’de bir fabrika sahibi olun, LED panel seçimi uzun vadeli bir yatırımdır. [LED Lamba](https://ledlamba.com) ekibi olarak, Tekirdağ ve çevresinde ihtiyacınıza uygun çözümler sunmak için buradayız. [Işığın aydınlatmadaki evrimi](https://ledlamba.com/isigin-aydinlatmadaki-evrimi/) yolculuğunda bir sonraki adımınızı birlikte atalım
 
 Tekirdağ LED Paneller Hakkında Sıkça Sorulan Sorular
 
@@ -124,9 +124,9 @@ Tekirdağ LED Paneller Hakkında Sıkça Sorulan Sorular
 
 ## Sıva Altı mı Sıva Üstü mü? Hızlı Özet
 
-Sıva altı LED panel, tavan içerisine gömme monte edilen ve yüzeyle aynı hizada duran modern aydınlatma çözümüdür. Estetik ve minimalist bir görünüm sağlar.
+**Sıva altı LED panel** , tavan içerisine gömme monte edilen ve yüzeyle aynı hizada duran modern aydınlatma çözümüdür. Estetik ve minimalist bir görünüm sağlar.
 
-Sıva üstü LED panel, mevcut tavan veya duvar yüzeyine monte edilir. Kurulumu daha hızlıdır ve tadilat projelerinde daha pratik bir çözümdür.
+**Sıva üstü LED panel** , mevcut tavan veya duvar yüzeyine monte edilir. Kurulumu daha hızlıdır ve tadilat projelerinde daha pratik bir çözümdür.
 
 ## Sıva Altı ve Sıva Üstü LED Panel Karşılaştırması
 
@@ -145,32 +145,32 @@ LED panel seçiminde montaj tipi, kullanım alanı ve gerekli aydınlatma seviye
 
 LED aydınlatma teknolojisini daha iyi anlamak ve teknik detaylara hakim olmak için aşağıdaki uzman rehberlerimizi inceleyebilirsiniz:
 
-                💡 LED Sürücü (Driver) Nedir?
+[💡 LED Sürücü (Driver) Nedir?](https://ledlamba.com/led-surucu-driver-nedir/)
 
 LED armatürlerin ömrünü belirleyen sabit akım ve voltaj sürücülerinin farkları.
 
-                🛡️ IP Sınıfları Nedir? (IP20, IP44, IP65, IP68)
+[🛡️ IP Sınıfları Nedir? (IP20, IP44, IP65, IP68)](https://ledlamba.com/ip-siniflari-ip20-ip44-ip65-nerede-kullanilmali-aydinlatma-icin-dogru-ip-rehberi/)
 
 İç ve dış mekanda doğru sızdırmazlık sınıfı seçimi için rehber.
 
-                ⚠️ LED Panel Neden Bozulur?
+[⚠️ LED Panel Neden Bozulur?](https://ledlamba.com/led-panel-neden-cabuk-bozulur-gercek-sebepler-ve-kalici-cozumler/)
 
 Panel arızalarının gerçek nedenleri: Isı, sürücü hataları ve kalitesiz bileşenler.
 
-                🏠 Alçıpan ve Tavan LED Spot Seçim Rehberi
+[🏠 Alçıpan ve Tavan LED Spot Seçim Rehberi](https://ledlamba.com/alcipan-led-spot-gun-isigi-led-spot-ve-tavan-led-spot-rehberi/)
 
 Ev aydınlatmasında doğru spot açısı ve ışık rengi nasıl belirlenir?
 
-                📊 LED mi Floresan mı? Tasarruf Analizi
+[📊 LED mi Floresan mı? Tasarruf Analizi](https://ledlamba.com/led-mi-floresan-mi/)
 
 Enerji tüketimi ve maliyet açısından aydınlatma teknolojilerinin karşılaştırması.
 
-                📱 Akıllı Aydınlatma Sistemleri ve Sensörler
+[📱 Akıllı Aydınlatma Sistemleri ve Sensörler](https://ledlamba.com/akilli-aydinlatma-sistemleri/)
 
 Otomasyonun enerji tasarrufuna gerçek etkisi ve 2026 Türkiye verileri.
 
-                🌡️ LED Armatürlerde Isı Yönetimi
+[🌡️ LED Armatürlerde Isı Yönetimi](https://ledlamba.com/led-armaturlerde-isi-yonetimi/)
 
 LED çiplerin ömrünü korumak için termal yönetimin önemi.
 
-Bu teknik rehberler, aydınlatma projelerinizde en doğru kararı vermeniz için Sietra Elektrik tecrübesiyle hazırlanmıştır.
+Bu teknik rehberler, aydınlatma projelerinizde en doğru kararı vermeniz için  **Sietra Elektrik**  tecrübesiyle hazırlanmıştır.

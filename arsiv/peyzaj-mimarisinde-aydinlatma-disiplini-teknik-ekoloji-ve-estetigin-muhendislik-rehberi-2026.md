@@ -36,11 +36,11 @@ canonical: "https://ledlamba.com/peyzaj-mimarisinde-aydinlatma/"
 
 ​Her peyzaj unsuru farklı bir optik yaklaşım gerektirir:
 
-* ​Yürüme Yolları: Asimetrik lensler kullanılarak ışık sadece yola yönlendirilmelidir.
+* ​ **Yürüme Yolları:**  Asimetrik lensler kullanılarak ışık sadece yola yönlendirilmelidir.
 
-* ​Ağaç Vurgulama: Ağacın boyuna ve yaprak yoğunluğuna göre 15° dar veya 60° geniş açılı lensler seçilmelidir.
+* ​ **Ağaç Vurgulama:**  Ağacın boyuna ve yaprak yoğunluğuna göre 15° dar veya 60° geniş açılı lensler seçilmelidir.
 
-* ​Duvar Boyama (Wall Washer): Cephe detaylarını belirginleştirmek için lineer optikler kullanılmalıdır.
+* ​ **Duvar Boyama (Wall Washer):**  Cephe detaylarını belirginleştirmek için lineer optikler kullanılmalıdır.
 
 ### ​3. Bölüm: Işığın Rengi ve Biyolojik Etkiler (Kelvin ve CRI)
 
@@ -80,9 +80,9 @@ canonical: "https://ledlamba.com/peyzaj-mimarisinde-aydinlatma/"
 
 ### ​Sonuç: Geleceğin Peyzaj Aydınlatma Vizyonu
 
-​Peyzaj aydınlatması, mühendislik verileriyle estetik vizyonun kusursuz birleşimidir. Doğru planlanmış bir proje; mülk değerini artırır, güvenliği sağlar ve doğaya saygılı bir yaşam alanı sunar. Sietra Elektrik olarak bizler, her projenin kendine has bir “ışık dili” olduğuna inanıyor ve bu dili mühendislik standartlarıyla (Lümen verimliliği, doğru optik ve yüksek malzeme kalitesi) kuruyoruz.
+​Peyzaj aydınlatması, mühendislik verileriyle estetik vizyonun kusursuz birleşimidir. Doğru planlanmış bir proje; mülk değerini artırır, güvenliği sağlar ve doğaya saygılı bir yaşam alanı sunar.  **Sietra Elektrik**  olarak bizler, her projenin kendine has bir “ışık dili” olduğuna inanıyor ve bu dili mühendislik standartlarıyla (Lümen verimliliği, doğru optik ve yüksek malzeme kalitesi) kuruyoruz.
 
-​Projelerinizde profesyonel destek, teknik dökümantasyon ve verimlilik hesaplamaları için her zaman ledlamba.com üzerinden bizimle iletişime geçebilirsiniz.
+​Projelerinizde profesyonel destek, teknik dökümantasyon ve verimlilik hesaplamaları için her zaman  **[ledlamba.com](https://ledlamba.com/urun-kategori/wallwasher-led/)**  üzerinden bizimle iletişime geçebilirsiniz.
 
 ## Sıkça Sorulan Sorular (Teknik Rehber)
 
@@ -170,22 +170,22 @@ Bahçe tasarımı ve bitkilendirme planı yapılırken altyapıyla birlikte plan
 
 #### 🛒 Ürün Kategorilerimiz
 
-* → Wallwasher LED Sistemleri
+* [→ Wallwasher LED Sistemleri](https://ledlamba.com/urun-kategori/wallwasher-led/)
 
-* → Solar Bahçe Armatürleri
+* [→ Solar Bahçe Armatürleri](https://ledlamba.com/urun-kategori/led-solar-bahce-armaturleri/)
 
-* → Profesyonel Havuz Aydınlatma
+* [→ Profesyonel Havuz Aydınlatma](https://ledlamba.com/urun-kategori/havuz-armaturleri/)
 
 #### 📖 Teknik İncelemeler
 
-* → Solar Aydınlatma Rehberi
+* [→ Solar Aydınlatma Rehberi](https://ledlamba.com/solar-gunes-enerjili-aydinlatma-armaturleri/)
 
-* → Bahçe Aydınlatma Uygulama Kılavuzu
+* [→ Bahçe Aydınlatma Uygulama Kılavuzu](https://ledlamba.com/bahce-aydinlatma-nasil-yapilir/)
 
-        Teknik dökümantasyon ve projeleriniz için Sietra Elektrik mühendislik birimiyle iletişime geçebilirsiniz.
+        Teknik dökümantasyon ve projeleriniz için  **Sietra Elektrik**  mühendislik birimiyle iletişime geçebilirsiniz.
 
-* International Dark-Sky Association – Işık Kirliliği ve Ekolojik Etkiler Rehberi
+* [International Dark-Sky Association – Işık Kirliliği ve Ekolojik Etkiler Rehberi](https://darksky.org/resources/what-is-light-pollution/)
 
-* IEC (International Electrotechnical Commission) – IP Koruma Sınıfı Standartları
+* [IEC (International Electrotechnical Commission) – IP Koruma Sınıfı Standartları](https://www.iec.ch/ip-ratings)
 
-* U.S. Department of Energy – LED Aydınlatma ve Enerji Verimliliği Parametreleri
+* [U.S. Department of Energy – LED Aydınlatma ve Enerji Verimliliği Parametreleri](https://www.energy.gov/energysaver/led-lighting)

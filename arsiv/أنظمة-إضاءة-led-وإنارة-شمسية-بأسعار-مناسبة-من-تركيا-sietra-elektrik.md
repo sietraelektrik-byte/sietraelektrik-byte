@@ -6,7 +6,7 @@ canonical: "https://ledlamba.com/led-lighting-turkey-syria/"
 
 # أنظمة إضاءة LED وإنارة شمسية بأسعار مناسبة من تركيا | Sietra Elektrik
 
-أنظمة إضاءة LED وإنارة شمسية بأسعار مناسبة من تركيا
+**أنظمة إضاءة LED وإنارة شمسية بأسعار مناسبة من تركيا**
 
 كشافات إنارة شوارع بالطاقة الشمسية (مزودة بحساس حركة وريموت كنترول)
 
@@ -14,9 +14,7 @@ canonical: "https://ledlamba.com/led-lighting-turkey-syria/"
 
 شركة Sietra Elektrik Aydınlatma هي شركة تركية متخصصة في
       تصنيع وتوريد
-
-      أنظمة الإضاءة LED والإنارة الشمسية
-
+      [أنظمة الإضاءة LED والإنارة الشمسية](https://ledlamba.com)
       بجودة عالية وأسعار تنافسية.
       يقع مقرنا الرئيسي في مدينة تكيرداغ – تركيا،
       ونقدم حلول إضاءة احترافية
@@ -49,9 +47,7 @@ Sietra Elektrik Aydınlatma هي شركة رائدة في مجال
       وتكاليف الإنتاج التنافسية.
 
 تعتمد
-
-      Sietra Elektrik Aydınlatma
-
+      [Sietra Elektrik Aydınlatma](https://ledlamba.com)
       على رقابة كاملة على جميع مراحل الإنتاج،
       مما يضمن ثبات الأداء،
       كفاءة عالية،
@@ -62,9 +58,7 @@ Sietra Elektrik Aydınlatma هي شركة رائدة في مجال
 ### كشافات LED
 
 نوفر مجموعة واسعة من
-
-      كشافات LED
-
+      [كشافات LED](https://ledlamba.com/urun-kategori/led-aydinlatma/)
       المناسبة للمصانع،
       المستودعات،
       مواقع البناء،
@@ -76,9 +70,7 @@ Sietra Elektrik Aydınlatma هي شركة رائدة في مجال
 ### المصابيح الشمسية وإنارة الشوارع بالطاقة الشمسية
 
 تعتبر
-
-      أنظمة الإنارة الشمسية من تركيا
-
+      [أنظمة الإنارة الشمسية من تركيا](https://ledlamba.com/urun-kategori/led-solar-bahce-armaturleri/)
       حلاً اقتصادياً ومستداماً
       للمناطق التي تعاني من ضعف الشبكة الكهربائية.
       تعتمد منتجاتنا على ألواح شمسية عالية الكفاءة،
@@ -126,9 +118,7 @@ Sietra Elektrik Aydınlatma هي شركة رائدة في مجال
 ## لماذا تختار ledlamba.com؟
 
 موقع
-
-      ledlamba.com
-
+      [ledlamba.com](https://ledlamba.com)
       هو المنصة الرسمية
       لشركة Sietra Elektrik Aydınlatma،
       حيث يمكن للعملاء الاطلاع على
@@ -140,20 +130,18 @@ Sietra Elektrik Aydınlatma هي شركة رائدة في مجال
 ## طلبات الجملة والتصدير
 
 نوفر في
-
-      Sietra Elektrik Aydınlatma
-
+      [Sietra Elektrik Aydınlatma](https://ledlamba.com)
       خيارات التوريد بالجملة،
       التصنيع حسب الطلب،
       وأسعار خاصة للمشاريع،
       التجار وشركات المقاولات.
 
-للاستفسار عن الأسعار،
+**للاستفسار عن الأسعار،
       طلبات التصدير
       والتعاون التجاري،
-      يرجى التواصل معنا مباشرة.
+      يرجى التواصل معنا مباشرة.**
 
-Sietra Elektrik Aydınlatma —
+**Sietra Elektrik Aydınlatma —
       شريككم الموثوق في
       أنظمة الإضاءة LED
-      والإنارة الشمسية من تركيا إلى سوريا.
+      والإنارة الشمسية من تركيا إلى سوريا.**

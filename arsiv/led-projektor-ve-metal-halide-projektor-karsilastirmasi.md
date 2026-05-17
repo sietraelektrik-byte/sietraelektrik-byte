@@ -8,11 +8,11 @@ canonical: "https://ledlamba.com/led-projektor-ve-metal-halide-projektor-karsila
 
 # LED Projektör ve Metal Halide Projektör Karşılaştırması
 
-Hangisi Daha Avantajlı?
+**Hangisi Daha Avantajlı?**
 
-Açık alan aydınlatmalarında en çok tercih edilen iki sistem LED projektörler ve metal halide projektörlerdir.Peki hangisi daha tasarruflu, daha uzun ömürlü ve işletmeler için daha mantıklı?
+Açık alan aydınlatmalarında en çok tercih edilen iki sistem  **LED projektörler**  ve  **metal halide projektörlerdir** .Peki hangisi daha tasarruflu, daha uzun ömürlü ve işletmeler için daha mantıklı?
 
-Bu yazıda iki aydınlatma türünü net ve sade şekilde karşılaştırıyoruz.
+Bu yazıda iki aydınlatma türünü  **net ve sade şekilde**  karşılaştırıyoruz.
 
 ## 🔦 Metal Halide Projektör Nedir?
 
@@ -48,11 +48,11 @@ LED projektörler, yarı iletken LED teknolojisiyle çalışan, modern ve enerji
 
 Örnek:
 
-* 400W Metal Halide Projektör
+* **400W Metal Halide Projektör**
 
-* 150W LED Projektör (aynı ışık gücü)
+* **150W LED Projektör**  (aynı ışık gücü)
 
-👉 LED projektör ile %60–70 elektrik tasarrufu sağlanır.👉 1 yıl içinde yatırım maliyeti kendini amorti eder.
+👉 LED projektör ile  **%60–70 elektrik tasarrufu**  sağlanır.👉 1 yıl içinde yatırım maliyeti kendini amorti eder.
 
 ## 🔧 Bakım ve İşletme Maliyeti
 
@@ -72,7 +72,7 @@ LED projektörlerde:
 
 * Yıllarca bakım gerekmez
 
-Bu da işletmeler için ciddi zaman ve para kazancı demektir.
+Bu da işletmeler için  **ciddi zaman ve para kazancı**  demektir.
 
 ## 🌱 Çevresel Etki
 
@@ -88,7 +88,7 @@ Metal halide sistemler ise çevreye zararlı gazlar ve maddeler içerir.
 
 ## ✅ Hangisini Tercih Etmeliyim?
 
-Aşağıdaki durumlarda LED projektör kesinlikle önerilir:
+**Aşağıdaki durumlarda LED projektör kesinlikle önerilir:**
 
 * Fabrika ve depo aydınlatmaları
 
@@ -100,16 +100,16 @@ Aşağıdaki durumlarda LED projektör kesinlikle önerilir:
 
 * Uzun süreli kullanım gerektiren alanlar
 
-👉 Metal halide projektörler artık teknolojik olarak geride kalmıştır.
+👉 Metal halide projektörler artık  **teknolojik olarak geride kalmıştır** .
 
 ## 🏁 Sonuç
 
 LED projektörler;✔ Daha az elektrik harcar✔ Daha uzun ömürlüdür✔ Bakım maliyeti yoktur✔ Çevre dostudur
 
-Bu nedenle günümüzde metal halide projektörlerin yerini tamamen LED projektörler almıştır.
+Bu nedenle günümüzde  **metal halide projektörlerin yerini tamamen LED projektörler almıştır** .
 
 ### 🔎 Sietra Elektrik’ten Profesyonel Destek
 
 Alanınıza uygun LED projektör seçimi ve montajı için bizimle iletişime geçebilirsiniz.
 
-📞 0532 247 12 80📍 Süleymanpaşa / Tekirdağ
+📞  **0532 247 12 80** 📍 Süleymanpaşa / Tekirdağ

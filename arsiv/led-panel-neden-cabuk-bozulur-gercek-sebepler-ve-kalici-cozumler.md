@@ -6,12 +6,12 @@ canonical: "https://ledlamba.com/led-panel-neden-cabuk-bozulur-gercek-sebepler-v
 
 # LED Panel Neden Çabuk Bozulur? (Gerçek Sebepler ve Kalıcı Çözümler)
 
-Kısa Özet: LED panel arızalarının büyük kısmı “panel kötü” olduğu için değil; sürücü (driver) kalitesi, ısı yönetimi, doğru montaj ve şebeke koşulları gibi kritik detaylar ihmal edildiği için ortaya çıkar. Bu rehberde erken bozulmanın gerçek nedenlerini, sahada görülen hataları ve kalıcı çözüm adımlarını bulacaksınız.
+**Kısa Özet:**  LED panel arızalarının büyük kısmı “panel kötü” olduğu için değil; sürücü (driver) kalitesi, ısı yönetimi, doğru montaj ve şebeke koşulları gibi kritik detaylar ihmal edildiği için ortaya çıkar. Bu rehberde erken bozulmanın gerçek nedenlerini, sahada görülen hataları ve kalıcı çözüm adımlarını bulacaksınız.
 
-Ana kaynak: LED teknolojisinin temellerini ve aydınlatma evrimini anlatan kapsamlı rehber için
-Işığın Aydınlatmadaki Evrimi sayfasına göz atabilirsiniz.
+**Ana kaynak:**  LED teknolojisinin temellerini ve aydınlatma evrimini anlatan kapsamlı rehber için
+[Işığın Aydınlatmadaki Evrimi](https://ledlamba.com/isigin-aydinlatmadaki-evrimi/) sayfasına göz atabilirsiniz.
 
-Bu rehberde:
+**Bu rehberde:**
 
 * LED panelin erken bozulmasının 7 ana nedeni
 
@@ -35,67 +35,67 @@ Bu yüzden bir LED panel bozulduğunda “panel kötü” demeden önce, arızay
 
 LED panelin en zayıf halkası çoğu zaman sürücüdür. Ucuz veya düşük kaliteli sürücüler; ısıya dayanım, akım regülasyonu ve komponent kalitesi bakımından zayıf olur. Bu da titreşim (flicker), ani sönme, geç yanma veya tamamen arıza gibi sonuçlar doğurabilir.
 
-Belirti: Panel bazen yanar bazen yanmaz, ışık dalgalanır, bir süre sonra tamamen kapanır.
+**Belirti:**  Panel bazen yanar bazen yanmaz, ışık dalgalanır, bir süre sonra tamamen kapanır.
 
 ### 2) Yetersiz Isı Yönetimi (Termal Sorunlar)
 
 LED teknolojisi verimli olsa da tamamen “ısı üretmiyor” değildir. Isı, doğru şekilde dağıtılamazsa LED çip ve sürücü daha hızlı yaşlanır. Özellikle asma tavan içinde hava sirkülasyonu yoksa veya panelin arka kısmı “nefes alamıyorsa” ömür düşer.
 
-Belirti: İlk başta normal çalışır, zamanla ışık şiddeti azalır veya arızalar sıklaşır.
+**Belirti:**  İlk başta normal çalışır, zamanla ışık şiddeti azalır veya arızalar sıklaşır.
 
 ### 3) Hatalı Montaj ve Sıkıştırma
 
 Panelin kasasını yamultacak kadar sıkıştırma, yanlış askı ekipmanı, sürücünün panel üzerine sıkışması veya kabloların zorlanması, kısa sürede mekanik hasar ve temas problemleri oluşturabilir.
 
-Belirti: Dokununca yanıp sönme, titreşim, bağlantı gevşekliği.
+**Belirti:**  Dokununca yanıp sönme, titreşim, bağlantı gevşekliği.
 
 ### 4) Şebeke Dalgalanması ve Kalitesiz Elektrik Hattı
 
 Voltaj dalgalanmaları, gevşek nötr bağlantısı veya ani pikler LED sürücülerini zorlar. Bazı bölgelerde veya bazı binalarda şebeke kalitesi zayıf olduğu için aynı panel farklı yerde sorunsuz çalışırken, problemli hatta sürekli arıza verir.
 
-Belirti: Aynı ortamda birden fazla panel kısa sürede arızalanır; sürücüler sık yanar.
+**Belirti:**  Aynı ortamda birden fazla panel kısa sürede arızalanır; sürücüler sık yanar.
 
 ### 5) Uygun Olmayan Kullanım Alanı (Nem/Toz/Isı)
 
 İç mekân panelini nemli ortamda (ör. buhar, yoğun nem) kullanmak; sürücüyü, bağlantıları ve metal aksamı olumsuz etkiler. Tozlu veya aşırı sıcak ortamlarda da ısı yönetimi daha kritik hale gelir.
 
-Belirti: Korozyon izleri, bağlantılarda oksitlenme, düzensiz çalışma.
+**Belirti:**  Korozyon izleri, bağlantılarda oksitlenme, düzensiz çalışma.
 
 ### 6) Düşük Kaliteli LED Çip / Fosfor Katmanı
 
 Her LED çip aynı değildir. Düşük kalite çiplerde lumen düşüşü (ışık zayıflaması) daha hızlı olur. Ayrıca renk kararsızlığı veya “sararma” gibi sorunlar görülebilir.
 
-Belirti: Panel çalışır ama ışık zayıflar; renk tonu zamanla değişir.
+**Belirti:**  Panel çalışır ama ışık zayıflar; renk tonu zamanla değişir.
 
 ### 7) Yanlış Seçim: Watt/Lumen ve Sürücü Yükü Uyuşmazlığı
 
 Kağıt üstünde yüksek lümen yazıp sürücüyü sınırda çalıştıran ürünlerde, sürücü sürekli yüksek stres altında kalır. Bu durum erken arızayı tetikler. “Aynı watt, daha fazla ışık” iddiası her zaman gerçekçi değildir.
 
-Belirti: İlk aylar iyi, sonra sürekli arıza veya performans düşüşü.
+**Belirti:**  İlk aylar iyi, sonra sürekli arıza veya performans düşüşü.
 
 ## Sahada En Sık Görülen 4 Hata
 
-* Ucuz sürücü: İlk yatırım düşük, toplam maliyet yüksek olur.
+* **Ucuz sürücü:**  İlk yatırım düşük, toplam maliyet yüksek olur.
 
-* Asma tavanda havasız montaj: Isı birikir, ömür düşer.
+* **Asma tavanda havasız montaj:**  Isı birikir, ömür düşer.
 
-* Tek hatta çok yük: Voltaj dalgalanması artabilir.
+* **Tek hatta çok yük:**  Voltaj dalgalanması artabilir.
 
-* “Watt yeter” yaklaşımı: Lumen ve lux hesabı yapılmaz.
+* **“Watt yeter” yaklaşımı:**  Lumen ve lux hesabı yapılmaz.
 
 ## LED Panel Seçerken Hızlı Kontrol Listesi
 
-* Sürücü bilgisi: Marka/model belirtiliyor mu? Garanti var mı?
+* **Sürücü bilgisi:**  Marka/model belirtiliyor mu? Garanti var mı?
 
-* Flicker: Titreşim düşük mü? (özellikle ofis/okul için)
+* **Flicker:**  Titreşim düşük mü? (özellikle ofis/okul için)
 
-* Gövde ve ısı: Arka yüzey ısı dağıtımına uygun mu?
+* **Gövde ve ısı:**  Arka yüzey ısı dağıtımına uygun mu?
 
-* Ortam koşulu: Nem/toz varsa uygun koruma sınıfı seçildi mi?
+* **Ortam koşulu:**  Nem/toz varsa uygun koruma sınıfı seçildi mi?
 
-* Gerçek ışık: Lumen değeri ve kullanım alanı uyumlu mu?
+* **Gerçek ışık:**  Lumen değeri ve kullanım alanı uyumlu mu?
 
-LED panel ve farklı LED ürün gruplarını incelemek için LED aydınlatma sayfasına da göz atabilirsiniz.
+LED panel ve farklı LED ürün gruplarını incelemek için [LED aydınlatma](https://ledlamba.com/led-aydinlatma/) sayfasına da göz atabilirsiniz.
 
 ## Sık Sorulan Sorular
 
