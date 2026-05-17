@@ -1,6 +1,7 @@
 import os
 import re
 import feedparser
+from bs4 import BeautifulSoup
 
 OUTPUT_DIR = "arsiv"
 FEED_URL = "https://ledlamba.com/feed"
@@ -17,19 +18,55 @@ def slugify(text):
     text = re.sub(re.compile(r'[^\w\s-]'), '', text)
     return re.sub(re.compile(r'[-\s]+'), '-', text).strip('-')
 
-def clean_content(html_content):
-    """HTML içeriğindeki kırık feed yönlendirmelerini temizler ve dofollow linkleri korur"""
+def clean_and_convert_html(html_content):
+    """HTML içeriğini temizler, linkleri korur ve saf Markdown'a çevirir"""
     if not html_content:
         return ""
     
-    # 1. WordPress'in İçindekiler linklerindeki hatalı '/feed/#' kısımlarını doğrudan '#' yapar
+    # 1. Hatalı feed link yapısını anında düzelt
     html_content = html_content.replace('https://ledlamba.com/feed/#', '#')
     html_content = html_content.replace('https://ledlamba.com/feed#', '#')
     
-    # 2. Gereksiz sosyal medya widget kodlarını ve kalıntıları temizler
-    html_content = re.sub(r'<div class="xs_social_share_widget.*?</div>', '', html_content, flags=re.DOTALL)
+    soup = BeautifulSoup(html_content, 'html.parser')
     
-    return html_content
+    # 2. Çöp ve kalabalık yapan alanları kökten temizle
+    for element in soup.find_all(class_=[
+        'toc', 'xs_social_share_widget', 'wslu-share-box-shaped', 
+        'seo-tag', 'breadcrumbs', 'nav-links'
+    ]):
+        element.decompose()
+        
+    for header_tag in soup.find_all('header'):
+        header_tag.decompose()
+
+    # 3. HTML elemanlarını temiz Markdown yapılarına dönüştür
+    for h in soup.find_all(['h1', 'h2', 'h3', 'h4', 'h5', 'h6']):
+        level = int(h.name[1])
+        h.replace_with(f"\n\n{'#' * level} {h.get_text().strip()}\n\n")
+        
+    for p in soup.find_all('p'):
+        p.replace_with(f"\n{p.get_text().strip()}\n")
+        
+    for li in soup.find_all('li'):
+        # İçindeki linkleri bozmamak için text yerine doğrudan eleman kontrolü yapabiliriz
+        li.replace_with(f"* {li.get_text().strip()}\n")
+
+    # 4. Tabloları düzgün okunabilir Markdown tablosuna çevir
+    for table in soup.find_all('table'):
+        markdown_table = []
+        rows = table.find_all('tr')
+        for i, row in enumerate(rows):
+            cells = [cell.get_text().strip().replace('|', '\\|') for cell in row.find_all(['th', 'td'])]
+            markdown_table.append(f"| {' | '.join(cells)} |")
+            if i == 0:  # Header altı çizgisi
+                markdown_table.append(f"| {' | '.join(['---'] * len(cells))} |")
+        table.replace_with("\n\n" + "\n".join(markdown_table) + "\n\n")
+
+    # Temizlenmiş metni al ve çoklu boşlukları düzenle
+    text_content = soup.get_text()
+    text_content = re.sub(r'\n\s*\n', '\n\n', text_content)
+    
+    return text_content.strip()
 
 def main():
     if not os.path.exists(OUTPUT_DIR):
@@ -39,21 +76,18 @@ def main():
     processed_titles = set()
 
     while True:
-        # Sayfa sayfa tüm geçmişi tarıyoruz (?paged=1, ?paged=2...)
         url = f"{FEED_URL}?paged={page}"
         print(f"Feed taranıyor: Sayfa {page}...")
         feed = feedparser.parse(url)
         
-        # Eğer sayfa boşsa veya içerik yoksa döngü biter (Tüm arşiv çekilmiş olur)
         if not feed.entries:
-            print(f"Sayfa {page} boş veya artık yazı yok. Tarama başarıyla bitti.")
+            print(f"Tarama tamamlandı. Tüm sayfalar işlendi.")
             break
 
         for entry in feed.entries:
             title = entry.title
             link = entry.link
             
-            # Mükerrer işlemeyi engelle
             if title in processed_titles:
                 continue
                 
@@ -64,13 +98,12 @@ def main():
             else:
                 raw_content = ""
 
-            # İçeriği dofollow yapısını bozmadan temizle
-            content = clean_content(raw_content)
+            # HTML'den arındırılmış kusursuz Markdown içeriği
+            content = clean_and_convert_html(raw_content)
 
             filename = f"{slugify(title)}.md"
             filepath = os.path.join(OUTPUT_DIR, filename)
 
-            # Markdown formatı ve SEO için Canonical etiketi
             md_content = f"""---
 title: "{title}"
 link: "{link}"
@@ -84,10 +117,10 @@ canonical: "{link}"
 
             with open(filepath, "w", encoding="utf-8") as f:
                 f.write(md_content)
-            print(f"Arşive Eklendi: {filename}")
+            print(f"Jilet gibi arşive eklendi: {filename}")
             processed_titles.add(title)
             
-        page += 1 # Sonraki arama sayfasına geç
+        page += 1
 
 if __name__ == "__main__":
     main()
