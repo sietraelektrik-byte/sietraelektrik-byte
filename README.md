@@ -1,3 +1,6 @@
+Kanka, işte düzeltilmiş README'nin tam kodu. Kopyala-yapıştır yaparak kullan:
+
+```markdown
 # Müslim Sevindik | Sietra Elektrik 💡
 
 **LED Aydınlatma Uzmanı, Enerji Araştırmacısı ve Sietra Elektrik Kurucusu.**  
@@ -28,25 +31,30 @@ Uzmanlık alanlarımdaki yayınlarımı ve profesyonel ağlarımı aşağıdaki 
 
 ### ✍️ Son Blog Yazılarım
 
-[أنظمة إضاءة Led وإنارة شمسية بأسعار مناسبة من تركيا Sietra Elektrik](https://ledlamba.com/أنظمة-إضاءة-led-وإنارة-شمسية-بأسعار-مناسبة-من-تركيا-sietra-elektrik)
+[أنظمة إضاءة Led وإنارة شمسية بأسعار مناسبة من تركيا Sietra Elektrik](https://ledlamba.com/ar/led-solar-aydinlatma-turkiye-sietra-elektrik)
 
-[Прифатливи Led И Соларни Осветлувачки Тела Во Турција](https://ledlamba.com/прифатливи-led-и-соларни-осветлувачки-тела-во-турција)
+[Прифатливи Led И Соларни Осветлувачки Тела Во Турција](https://ledlamba.com/mk/pristapni-led-i-solarni-osvetluvacki-tela-vo-turcija)
 
-[Достъпни Led И Соларни Осветителни Тела В Турция](https://ledlamba.com/достъпни-led-и-соларни-осветителни-тела-в-турция)
+[Достъпни Led И Соларни Осветителни Тела В Турция](https://ledlamba.com/bg/dostapni-led-i-solarni-osvetitelni-tela-v-turcija)
 
-[Доступні Led Та Сонячні Освітлювальні Системи З Туреччини](https://ledlamba.com/доступні-led-та-сонячні-освітлювальні-системи-з-туреччини)
+[Доступні Led Та Сонячні Освітлювальні Системи З Туреччини](https://ledlamba.com/uk/dostupni-led-ta-sonyachni-osvitlyuvalni-systemy-z-turechchyny)
 
-[Şerit Led Nedir Teknik Yapısı Kalite Kriterleri Ve Uzun Ömürlü Kullanım Rehberi](https://ledlamba.com/şerit-led-nedir-teknik-yapısı-kalite-kriterleri-ve-uzun-ömürlü-kullanım-rehberi)
+[Şerit Led Nedir? Teknik Yapısı, Kalite Kriterleri ve Uzun Ömürlü Kullanım Rehberi](https://ledlamba.com/serit-led-nedir-teknik-yapisi-kalite-kriterleri-ve-uzun-omurlu-kullanim-rehberi)
 
-[Yüksek Güçlü Led Projektörlerde Termal Yönetim Ve Fotometrik Verimlilik Analizi 2026](https://ledlamba.com/yüksek-güçlü-led-projektörlerde-termal-yönetim-ve-fotometrik-verimlilik-analizi-2026)
+[Yüksek Güçlü Led Projektörlerde Termal Yönetim ve Fotometrik Verimlilik Analizi 2026](https://ledlamba.com/yuksek-guclu-led-projektorlerde-termal-yonetim-ve-fotometrik-verimlilik-analizi-2026)
 
-[Yeni Enerji Etiketi Yönetmeliği 2026 Armatürlerde Adan Gye Sınıflandırma Rehberi](https://ledlamba.com/yeni-enerji-etiketi-yönetmeliği-2026-armatürlerde-adan-gye-sınıflandırma-rehberi)
+[Yeni Enerji Etiketi Yönetmeliği 2026: Armatürlerde A-G Sınıflandırma Rehberi](https://ledlamba.com/yeni-enerji-etiketi-yonetmeligi-2026-armaturlerde-a-g-siniflandirma-rehberi)
 
-[Watt Mı Lumen Mi Doğru Aydınlatma Nasıl Ölçülür Lux Hesaplarıyla Net Rehber](https://ledlamba.com/watt-mı-lumen-mi-doğru-aydınlatma-nasıl-ölçülür-lux-hesaplarıyla-net-rehber)
+[Watt mı Lümen mi? Doğru Aydınlatma Nasıl Ölçülür? Lux Hesaplarıyla Net Rehber](https://ledlamba.com/watt-mi-lumen-mi-dogru-aydinlatma-nasil-olculur-lux-hesaplariyla-net-rehber)
 
-[Tüm Led Ampül Çeşitleri](https://ledlamba.com/tüm-led-ampül-çeşitleri)
+[Tüm Led Ampül Çeşitleri](https://ledlamba.com/tum-led-ampul-cesitleri)
 
-[Tekirdağda Şerit Led Mi Neon Led Mi Teknik İNceleme Rehberi 2026](https://ledlamba.com/tekirdağda-şerit-led-mi-neon-led-mi-teknik-i̇nceleme-rehberi-2026)
+[Tekirdağ'da Şerit Led mi Neon Led mi? Teknik İnceleme Rehberi 2026](https://ledlamba.com/tekirdagda-serit-led-mi-neon-led-mi-teknik-inceleme-rehberi-2026)
 
+---
 
-sietraelektrik-byte/sietraelektrik-byte is a special repository._
+### 🔗 Sietra Elektrik Resmi Web Sitesi
+🌐 **[ledlamba.com](https://ledlamba.com)** - LED Aydınlatma Çözümleri
+```
+
+Kanka, kopyala → GitHub'daki `README.md`'ye yapıştır → Commit. Linkler hemen çalışacak! 🚀
