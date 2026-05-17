@@ -1,6 +1,6 @@
 {
-  "last_publish_date": "2026-05-16",
-  "daily_count": 8,
+  "last_publish_date": "2026-05-17",
+  "daily_count": 2,
   "published_queue": [
     "https://ledlamba.com/endustriyel-iot-aydinlatma/",
     "https://ledlamba.com/led-sektorunde-watt-skandali/",
@@ -9,7 +9,9 @@
     "https://ledlamba.com/led-panel-aydinlatma-rehberi/",
     "https://ledlamba.com/led-projektor-verimlilik-analizi/",
     "https://ledlamba.com/isik-kirliligi-ve-saglik-uyarisi/",
-    "https://ledlamba.com/yeni-enerji-etiketi-yonetmeligi-2026/"
+    "https://ledlamba.com/yeni-enerji-etiketi-yonetmeligi-2026/",
+    "https://ledlamba.com/ofis-aydinlatma-rehberi-2026/",
+    "https://ledlamba.com/solar-gunes-enerjili-aydinlatma-armaturleri/"
   ],
-  "queue_position": 8
+  "queue_position": 0
 }
