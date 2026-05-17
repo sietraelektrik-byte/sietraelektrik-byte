@@ -29,6 +29,17 @@ Uzmanlık alanlarımdaki yayınlarımı ve profesyonel ağlarımı aşağıdaki 
 ### ✍️ Son 10 Blog Yazım
 
 <!-- START_BLOG -->
+- 📝 [Endüstriyel IoT Aydınlatma ile %30 Enerji Tasarrufu](arsiv/endustriyel-iot-aydinlatma-ile-30-enerji-tasarrufu.md)
+- 📝 [LED Sektöründe “Watt” Skandalı: Etikette 100W Yazıyor, Prizde 30W Çıkıyor!](arsiv/led-sektorunde-watt-skandali-etikette-100w-yaziyor-prizde-30w-cikiyor.md)
+- 📝 [Enerji Lojistiğinde Karar Anı: DC Batarya Depolama mı, Termal Isı Depolama mı?](arsiv/enerji-lojistiginde-karar-ani-dc-batarya-depolama-mi-termal-isi-depolama-mi.md)
+- 📝 [Peyzaj Mimarisinde Aydınlatma Disiplini: Teknik, Ekoloji ve Estetiğin Mühendislik Rehberi 2026](arsiv/peyzaj-mimarisinde-aydinlatma-disiplini-teknik-ekoloji-ve-estetigin-muhendislik-rehberi-2026.md)
+- 📝 [İç Mekan Aydınlatmasında Görsel Konfor ve Optik Verimlilik: LED Panel Teknolojileri 2026](arsiv/ic-mekan-aydinlatmasinda-gorsel-konfor-ve-optik-verimlilik-led-panel-teknolojileri-2026.md)
+- 📝 [Yüksek Güçlü LED Projektörlerde Termal Yönetim ve Fotometrik Verimlilik Analizi 2026](arsiv/yuksek-guclu-led-projektorlerde-termal-yonetim-ve-fotometrik-verimlilik-analizi-2026.md)
+- 📝 [GİZLİ PANDEMİ: Evimizdeki Işıklar Bizi Hasta mı Ediyor?](arsiv/gizli-pandemi-evimizdeki-isiklar-bizi-hasta-mi-ediyor.md)
+- 📝 [Yeni Enerji Etiketi Yönetmeliği (2026): Armatürlerde A’dan G’ye Sınıflandırma Rehberi](arsiv/yeni-enerji-etiketi-yonetmeligi-2026-armaturlerde-adan-gye-siniflandirma-rehberi.md)
+- 📝 [Ofis Aydınlatma Rehberi 2026: UGR, Ergonomi ve Verimlilik İçin Uzman Tavsiyeleri](arsiv/ofis-aydinlatma-rehberi-2026-ugr-ergonomi-ve-verimlilik-icin-uzman-tavsiyeleri.md)
+- 📝 [Solar Güneş Enerjili Aydınlatma Armatürleri Teknolojisi 2026](arsiv/solar-gunes-enerjili-aydinlatma-armaturleri-teknolojisi-2026.md)
+
 <!-- END_BLOG -->
 
 - 🌐 <a href="https://ledlamba.com/ar/led-solar-aydinlatma-turkiye-sietra-elektrik">أنظمة إضاءة Led وإنارة شمسية بأسعار مناسبة من تركيا Sietra Elektrik</a>
