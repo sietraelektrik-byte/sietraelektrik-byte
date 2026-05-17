@@ -1,33 +1,46 @@
 name: Tüm Blog Arşivini Güncelle
 
 on:
-  workflow_dispatch: # Manuel tetiklemek için buton açar
+  workflow_dispatch: # Manuel tetikleme butonu
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Repo üzerinde değişiklik yapabilmesi için Action'a tam yazma yetkisi veriyoruz
+    permissions:
+      contents: write
 
     steps:
       - name: Depoyu Klonla
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Tüm git geçmişini çekerek çakışmaları önler
 
       - name: Python Kur
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
-      - name: Python Bağımlılıklarını Kur (Hata Veren Kısım Burasıydı)
+      - name: Python Bağımlılıklarını Kur
         run: |
           python -m pip install --upgrade pip
           pip install feedparser beautifulsoup4
 
-      - name: Arşivi Güncelle
+      - name: Arşivi ve README'yi Güncelle
         run: python .github/scripts/update_archive.py
 
-      - name: Değişiklikleri Commit Et ve Pushla
+      - name: Değişiklikleri Taahhüt Et ve Güvenli Pushla
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add arsiv/
-          git diff-index --quiet HEAD || git commit -m "chore: blog arşivi saf markdown olarak güncellendi"
-          git push
+          
+          # Tüm değişiklikleri (arsiv/ ve README.md) sahneye ekle
+          git add .
+          
+          # Eğer gerçekten değişen bir şey varsa commit et ve pushla, yoksa hata vermeden geç
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: arşiv ve son 10 blog yazısı otomatik senkronize edildi"
+            git push origin main
+          else
+            print "Herhangi bir değişiklik tespit edilmedi, repo zaten güncel."
+          fi
