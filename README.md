@@ -26,7 +26,7 @@ Uzmanlık alanlarımdaki yayınlarımı ve profesyonel ağlarımı aşağıdaki 
 
 ---
 
-### ✍️ Son Blog Yazılarım
+### ✍️ Son 10 Blog Yazım
 
 - 🌐 <a href="https://ledlamba.com/ar/led-solar-aydinlatma-turkiye-sietra-elektrik">أنظمة إضاءة Led وإنارة شمسية بأسعار مناسبة من تركيا Sietra Elektrik</a>
 - 🌐 <a href="https://ledlamba.com/mk/pristapni-led-i-solarni-osvetluvacki-tela-vo-turcija">Прифатливи Led И Соларни Осветлувачки Тела Во Турција</a>
