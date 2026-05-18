@@ -42,5 +42,5 @@ jobs:
             git commit -m "chore: arşiv ve son 10 blog yazısı otomatik senkronize edildi"
             git push origin main
           else
-            print "Herhangi bir değişiklik tespit edilmedi, repo zaten güncel."
+            echo "Herhangi bir değişiklik tespit edilmedi, repo zaten güncel."
           fi
