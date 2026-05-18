@@ -16,7 +16,7 @@
             justify-content: center;
             align-items: center;
             min-height: 100vh;
-            padding: 20px;
+            padding: 40px 20px;
             box-sizing: border-box;
         }
         .container {
@@ -26,7 +26,7 @@
             border-radius: 16px;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
             border: 1px solid rgba(255, 255, 255, 0.1);
-            max-width: 600px;
+            max-width: 650px;
             backdrop-filter: blur(10px);
             width: 100%;
         }
@@ -41,7 +41,7 @@
             color: #38bdf8;
             letter-spacing: 1px;
         }
-        p {
+        .desc {
             font-size: 16px;
             color: #94a3b8;
             line-height: 1.6;
@@ -58,39 +58,60 @@
             border: 1px solid rgba(56, 189, 248, 0.2);
             margin-bottom: 30px;
         }
-        .links-area {
+        h2 {
+            font-size: 20px;
+            color: #f1f5f9;
+            text-align: left;
+            margin: 20px 0 15px 0;
+            border-left: 4px solid #38bdf8;
+            padding-left: 10px;
+        }
+        /* Blog Yazı Listesi */
+        .blog-list {
+            text-align: left;
             display: flex;
             flex-direction: column;
-            gap: 14px;
-            margin-top: 10px;
+            gap: 10px;
+            margin-bottom: 30px;
         }
-        .btn {
+        .blog-item {
+            display: flex;
+            align-items: center;
+            background: rgba(255, 255, 255, 0.03);
+            padding: 14px;
+            border-radius: 8px;
+            text-decoration: none;
+            color: #cbd5e1;
+            font-weight: 500;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            transition: all 0.2s ease;
+        }
+        .blog-item:hover {
+            background: rgba(56, 189, 248, 0.08);
+            color: #38bdf8;
+            border-color: rgba(56, 189, 248, 0.3);
+            transform: translateX(5px);
+        }
+        .blog-icon {
+            margin-right: 12px;
+            font-size: 18px;
+        }
+        .btn-main {
             display: block;
             background: #2563eb;
             color: #ffffff;
             text-decoration: none;
-            padding: 15px;
+            padding: 14px;
             border-radius: 8px;
             font-weight: 600;
             font-size: 16px;
             transition: all 0.3s ease;
             border: 1px solid rgba(255, 255, 255, 0.1);
+            margin-top: 10px;
         }
-        .btn:hover {
+        .btn-main:hover {
             background: #1d4ed8;
-            transform: translateY(-2px);
             box-shadow: 0 5px 15px rgba(37, 99, 235, 0.4);
-        }
-        .btn-alt {
-            background: rgba(255, 255, 255, 0.05);
-            color: #f1f5f9;
-            border: 1px solid rgba(255, 255, 255, 0.2);
-        }
-        .btn-alt:hover {
-            background: rgba(255, 255, 255, 0.1);
-            color: #38bdf8;
-            border-color: #38bdf8;
-            box-shadow: 0 5px 15px rgba(56, 189, 248, 0.2);
         }
         .footer {
             margin-top: 35px;
@@ -109,14 +130,21 @@
     <div class="container">
         <div class="logo-placeholder">💡</div>
         <h1>Sietra Elektrik</h1>
-        <p>LED Aydınlatma Bloğu; enerji verimliliği yüksek endüstriyel aydınlatma, akıllı otomasyon sistemleri ve sektörel dijital arşiv entegrasyon merkezidir.</p>
+        <p class="desc">LED Aydınlatma Bloğu; enerji verimliliği yüksek endüstriyel aydınlatma, akıllı otomasyon sistemleri ve sektörel dijital arşiv entegrasyon merkezidir.</p>
         
         <span class="badge">Google Verified Security System</span>
 
-        <div class="links-area">
-            <a href="https://github.com/sietraelektrik-byte/sietraelektrik-byte" target="_blank" class="btn">🚀 Son 10 Teknik Makaleyi Oku</a>
-            <a href="https://ledlamba.com" target="_blank" class="btn btn-alt">🌐 Ledlamba.com Ana Kale (Faydalı Bilgiler)</a>
+        <h2>✍️ Arşivden Güncel Teknik Makaleler</h2>
+        <div class="blog-list">
+            <a href="https://github.com/sietraelektrik-byte/sietraelektrik-byte/blob/main/arsiv/100-w-led-projektor-kac-m2-aydinlatir-2026-guncel-kapsamli-rehber.md" target="_blank" class="blog-item">
+                <span class="blog-icon">📝</span> 100W LED Projektör Kaç m² Aydınlatır? (2026 Güncel Kapsamlı Rehber)
+            </a>
+            <a href="https://github.com/sietraelektrik-byte/sietraelektrik-byte/blob/main/arsiv/" target="_blank" class="blog-item">
+                <span class="blog-icon">📂</span> Tüm Arşiv Klasörünü Doğrudan İncele
+            </a>
         </div>
+
+        <a href="https://ledlamba.com" target="_blank" class="btn-main">🌐 Ledlamba.com Ana Kale (Faydalı Bilgiler)</a>
 
         <div class="footer">
             © 2026 Sietra Elektrik. Tüm Hakları Saklıdır.
