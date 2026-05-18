@@ -3,69 +3,170 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sietra Elektrik | LED Aydınlatma Dijital Arşivi</title>
-    <meta name="google-site-verification" content="659704ea" />
+    <title>Sietra Elektrik | Teknik Blog Arşivi</title>
+    <meta name="description" content="Müslim Sevindik - Sietra Elektrik ve LED Aydınlatma teknik makaleler, IoT ve enerji altyapı sistemleri arşivi.">
     <style>
+        :root {
+            --bg-color: #0a192f;
+            --text-color: #e6f1ff;
+            --accent-color: #64ffda;
+            --card-bg: #112240;
+            --border-color: #233554;
+        }
+        * { box-sizing: border-box; }
         body {
-            margin: 0; padding: 0;
-            background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
-            color: #f8fafc;
             font-family: 'Segoe UI', Roboto, sans-serif;
-            display: flex; justify-content: center; align-items: center;
-            min-height: 100vh; padding: 40px 20px; box-sizing: border-box;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            margin: 0;
+            padding: 40px 20px;
         }
-        .container {
-            max-width: 700px; width: 100%;
-            background: rgba(30, 41, 59, 0.7); border-radius: 16px;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            padding: 40px; backdrop-filter: blur(10px); box-sizing: border-box;
-        }
-        .header { text-align: center; margin-bottom: 30px; }
-        .logo { font-size: 48px; margin-bottom: 15px; }
-        h1 { color: #38bdf8; font-size: 28px; margin: 0 0 10px 0; }
-        p.desc { font-size: 16px; color: #94a3b8; line-height: 1.6; margin-bottom: 25px; }
-        .badge {
-            display: inline-block; background: rgba(56, 189, 248, 0.1);
-            color: #38bdf8; padding: 6px 16px; border-radius: 20px;
-            font-size: 13px; font-weight: 600; border: 1px solid rgba(56, 189, 248, 0.2);
-        }
-        h2 { font-size: 20px; color: #f1f5f9; text-align: left; margin: 30px 0 15px 0; border-left: 4px solid #38bdf8; padding-left: 10px; }
-        .blog-list { text-align: left; display: flex; flex-direction: column; gap: 10px; max-height: 500px; overflow-y: auto; padding-right: 5px; }
-        /* Kaydırma çubuğu tasarımı */
-        .blog-list::-webkit-scrollbar { width: 6px; }
-        .blog-list::-webkit-scrollbar-track { background: rgba(255,255,255,0.02); }
-        .blog-list::-webkit-scrollbar-thumb { background: rgba(56, 189, 248, 0.3); border-radius: 4px; }
-        .blog-item {
-            display: flex; align-items: center; background: rgba(255, 255, 255, 0.03);
-            padding: 14px; border-radius: 8px; text-decoration: none; color: #cbd5e1;
-            font-weight: 500; border: 1px solid rgba(255, 255, 255, 0.05); transition: all 0.2s;
-        }
-        .blog-item:hover { background: rgba(56, 189, 248, 0.08); color: #38bdf8; border-color: #38bdf8; transform: translateX(5px); }
-        .blog-icon { margin-right: 12px; font-size: 18px; }
-        .btn-main {
-            display: block; text-align: center; background: #2563eb; color: #ffffff;
-            text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 600; margin-top: 25px;
-        }
-        .btn-main:hover { background: #1d4ed8; }
-        .footer { text-align: center; margin-top: 35px; font-size: 12px; color: #64748b; }
+        .container { max-width: 850px; margin: 0 auto; }
+        header { border-bottom: 1px solid var(--border-color); padding-bottom: 20px; margin-bottom: 40px; }
+        h1 { font-size: 2.2rem; color: #fff; margin-bottom: 10px; }
+        .back-link { color: var(--accent-color); text-decoration: none; font-size: 0.95rem; display: inline-block; margin-bottom: 20px; }
+        .back-link:hover { text-decoration: underline; }
+        .archive-list { list-style: none; padding: 0; margin: 0; }
+        .archive-item { background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 8px; padding: 20px; margin-bottom: 20px; transition: transform 0.2s, border-color 0.2s; }
+        .archive-item:hover { transform: translateY(-2px); border-color: var(--accent-color); }
+        .archive-item h2 { margin: 0 0 10px 0; font-size: 1.4rem; }
+        .archive-item h2 a { color: #fff; text-decoration: none; }
+        .archive-item h2 a:hover { color: var(--accent-color); }
+        .archive-meta { font-size: 0.85rem; color: #8892b0; }
+        .post-content { display: none; }
+        .post-content.active { display: block; }
+        .post-body { font-size: 1.1rem; color: #cdd6f4; }
+        .post-body h1, .post-body h2, .post-body h3 { color: #fff; margin-top: 1.8em; }
+        .post-body p { margin-bottom: 1.5em; }
+        .post-body a { color: var(--accent-color); text-decoration: none; border-bottom: 1px dashed var(--accent-color); }
+        .post-body a:hover { border-bottom-style: solid; }
+        .post-body code { background: #1e1e2e; padding: 2px 6px; border-radius: 4px; font-family: monospace; font-size: 0.95rem; }
+        .post-body pre { background: #1e1e2e; padding: 15px; border-radius: 8px; overflow-x: auto; border: 1px solid var(--border-color); }
+        .post-body pre code { background: none; padding: 0; }
+        .loading { color: var(--accent-color); font-style: italic; }
     </style>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
-    <div class="container">
-        <div class="header">
-            <div class="logo">💡</div>
-            <h1>Sietra Elektrik</h1>
-            <p class="desc">LED Aydınlatma Bloğu; enerji verimliliği yüksek endüstriyel aydınlatma, akıllı otomasyon sistemleri ve sektörel dijital arşiv entegrasyon merkezidir.</p>
-            <span class="badge">Google Verified Security System</span>
-        </div>
 
-        <h2>📚 Dijital Sektörel Arşiv (Tüm Yazılar)</h2>
-        <div class="blog-list">
+<div class="container">
+    <div id="view-list">
+        <header>
+            <a href="../" class="back-link">← Ana Profile Dön</a>
+            <h1>Sietra Elektrik Blog Arşivi</h1>
+            <p>Müslim Sevindik tarafından kaleme alınan teknik rehberler ve sektör analizleri.</p>
+        </header>
+        <ul class="archive-list" id="archive-list">
+            <li class="loading">Arşiv taranıyor ve yazılar çekiliyor...</li>
+        </ul>
+    </div>
+
+    <div id="view-post" class="post-content">
+        <header>
+            <a href="#" class="back-link" onclick="showList(event)">← Arşive Geri Dön</a>
+            <h1 id="post-title">Makale Başlığı</h1>
+            <div class="archive-meta">Yazar: Müslim Sevindik | Sietra Electric | LED Expert</div>
+        </header>
+        <article class="post-body" id="post-body"></article>
+    </div>
 </div>
 
-        <a href="https://ledlamba.com" target="_blank" class="btn-main">🌐 Ledlamba.com Ana Kale (Faydalı Bilgiler)</a>
-        <div class="footer">© 2026 Sietra Elektrik. Tüm Hakları Saklıdır.</div>
-    </div>
+<script>
+    const repoOwner = 'sietraelektrik-byte';
+    const repoName = 'sietraelektrik-byte';
+    const folderPath = 'arsiv';
+
+    window.addEventListener('DOMContentLoaded', () => {
+        const urlParams = new URLSearchParams(window.location.search);
+        const articleParam = urlParams.get('yazi');
+        if (articleParam) { loadArticle(articleParam); } else { loadArchiveList(); }
+    });
+
+    window.addEventListener('popstate', (e) => {
+        if (e.state && e.state.file) { loadArticle(e.state.file, false); } else { loadArchiveList(false); }
+    });
+
+    // 1. Klasörü otomatik tarayıp listeleme fonksiyonu
+    async function loadArchiveList(updateHistory = true) {
+        document.getElementById('view-post').classList.remove('active');
+        document.getElementById('view-list').style.display = 'block';
+        if (updateHistory) { history.pushState(null, '', window.location.pathname); }
+
+        // Liste için Ana Arşiv Canonical Adresi
+        updateCanonical(window.location.origin + window.location.pathname);
+
+        try {
+            const response = await fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folderPath}`);
+            const files = await response.json();
+            const listContainer = document.getElementById('archive-list');
+            listContainer.innerHTML = '';
+
+            const mdFiles = files.filter(f => f.name.endsWith('.md'));
+            if (mdFiles.length === 0) {
+                listContainer.innerHTML = '<li>Arşiv klasöründe henüz .md dosyası bulunamadı.</li>';
+                return;
+            }
+
+            mdFiles.forEach(file => {
+                let cleanTitle = file.name.replace('.md', '').replace(/-/g, ' ');
+                const li = document.createElement('li');
+                li.className = 'archive-item';
+                li.innerHTML = `
+                    <h2><a href="?yazi=${file.name}" onclick="routeToArticle(event, '${file.name}')">${cleanTitle.toUpperCase()}</a></h2>
+                    <div class="archive-meta">Kaynak: /arsiv/${file.name}</div>
+                `;
+                listContainer.appendChild(li);
+            });
+        } catch (error) {
+            document.getElementById('archive-list').innerHTML = '<li>Yazılar yüklenirken bir hata oluştu.</li>';
+        }
+    }
+
+    // 2. Yazıyı çekip anchor linkleri koruyarak ekrana basma fonksiyonu
+    async function loadArticle(fileName, updateHistory = true) {
+        document.getElementById('view-list').style.display = 'none';
+        document.getElementById('view-post').classList.add('active');
+        if (updateHistory) { history.pushState({file: fileName}, '', `?yazi=${fileName}`); }
+
+        // KRİTİK SEO: Her yazı için dinamik Canonical etiketi üretimi
+        const canonicalUrl = `${window.location.origin}${window.location.pathname}?yazi=${fileName}`;
+        updateCanonical(canonicalUrl);
+
+        document.getElementById('post-title').innerText = "Yükleniyor...";
+        try {
+            const response = await fetch(`https://raw.githubusercontent.com/${repoOwner}/${repoName}/main/${folderPath}/${fileName}`);
+            const markdownText = await response.text();
+
+            // Marked.js tüm iç linkleri (anchor tags) bozmadan HTML'e çevirir
+            const htmlResult = marked.parse(markdownText);
+            
+            let displayTitle = fileName.replace('.md', '').replace(/-/g, ' ');
+            const firstLine = markdownText.trim().split('\n')[0];
+            if (firstLine.startsWith('# ')) { displayTitle = firstLine.replace('# ', ''); }
+
+            document.getElementById('post-title').innerText = displayTitle;
+            document.getElementById('post-body').innerHTML = htmlResult;
+            document.title = `${displayTitle} | Sietra Elektrik Arşivi`;
+        } catch (error) {
+            document.getElementById('post-title').innerText = "Hata";
+            document.getElementById('post-body').innerHTML = "<p>Yazı içeriği yüklenemedi.</p>";
+        }
+    }
+
+    function routeToArticle(e, fileName) { e.preventDefault(); loadArticle(fileName); }
+    function showList(e) { e.preventDefault(); document.title = "Sietra Elektrik | Teknik Blog Arşivi"; loadArchiveList(); }
+
+    // CANONICAL ETİKETİNİ DİNAMİK YÖNETEN FONKSİYON
+    function updateCanonical(url) {
+        let canonicalLink = document.querySelector("link[rel='canonical']");
+        if (!canonicalLink) {
+            canonicalLink = document.createElement("link");
+            canonicalLink.setAttribute("rel", "canonical");
+            document.head.appendChild(canonicalLink);
+        }
+        canonicalLink.setAttribute("href", url);
+    }
+</script>
 </body>
 </html>
