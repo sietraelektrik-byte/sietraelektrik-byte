@@ -3,153 +3,69 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sietra Elektrik | LED Aydınlatma Bloğu</title>
+    <title>Sietra Elektrik | LED Aydınlatma Dijital Arşivi</title>
     <meta name="google-site-verification" content="659704ea" />
     <style>
         body {
-            margin: 0;
-            padding: 0;
+            margin: 0; padding: 0;
             background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
             color: #f8fafc;
-            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            padding: 40px 20px;
-            box-sizing: border-box;
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            display: flex; justify-content: center; align-items: center;
+            min-height: 100vh; padding: 40px 20px; box-sizing: border-box;
         }
         .container {
-            text-align: center;
-            padding: 40px;
-            background: rgba(30, 41, 59, 0.7);
-            border-radius: 16px;
+            max-width: 700px; width: 100%;
+            background: rgba(30, 41, 59, 0.7); border-radius: 16px;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
             border: 1px solid rgba(255, 255, 255, 0.1);
-            max-width: 650px;
-            backdrop-filter: blur(10px);
-            width: 100%;
+            padding: 40px; backdrop-filter: blur(10px); box-sizing: border-box;
         }
-        .logo-placeholder {
-            font-size: 48px;
-            margin-bottom: 20px;
-            animation: pulse 2s infinite;
-        }
-        h1 {
-            font-size: 28px;
-            margin: 0 0 15px 0;
-            color: #38bdf8;
-            letter-spacing: 1px;
-        }
-        .desc {
-            font-size: 16px;
-            color: #94a3b8;
-            line-height: 1.6;
-            margin: 0 0 25px 0;
-        }
+        .header { text-align: center; margin-bottom: 30px; }
+        .logo { font-size: 48px; margin-bottom: 15px; }
+        h1 { color: #38bdf8; font-size: 28px; margin: 0 0 10px 0; }
+        p.desc { font-size: 16px; color: #94a3b8; line-height: 1.6; margin-bottom: 25px; }
         .badge {
-            display: inline-block;
-            background: rgba(56, 189, 248, 0.1);
-            color: #38bdf8;
-            padding: 6px 16px;
-            border-radius: 20px;
-            font-size: 13px;
-            font-weight: 600;
-            border: 1px solid rgba(56, 189, 248, 0.2);
-            margin-bottom: 30px;
+            display: inline-block; background: rgba(56, 189, 248, 0.1);
+            color: #38bdf8; padding: 6px 16px; border-radius: 20px;
+            font-size: 13px; font-weight: 600; border: 1px solid rgba(56, 189, 248, 0.2);
         }
-        h2 {
-            font-size: 20px;
-            color: #f1f5f9;
-            text-align: left;
-            margin: 20px 0 15px 0;
-            border-left: 4px solid #38bdf8;
-            padding-left: 10px;
-        }
-        /* Blog Yazı Listesi */
-        .blog-list {
-            text-align: left;
-            display: flex;
-            flex-direction: column;
-            gap: 10px;
-            margin-bottom: 30px;
-        }
+        h2 { font-size: 20px; color: #f1f5f9; text-align: left; margin: 30px 0 15px 0; border-left: 4px solid #38bdf8; padding-left: 10px; }
+        .blog-list { text-align: left; display: flex; flex-direction: column; gap: 10px; max-height: 500px; overflow-y: auto; padding-right: 5px; }
+        /* Kaydırma çubuğu tasarımı */
+        .blog-list::-webkit-scrollbar { width: 6px; }
+        .blog-list::-webkit-scrollbar-track { background: rgba(255,255,255,0.02); }
+        .blog-list::-webkit-scrollbar-thumb { background: rgba(56, 189, 248, 0.3); border-radius: 4px; }
         .blog-item {
-            display: flex;
-            align-items: center;
-            background: rgba(255, 255, 255, 0.03);
-            padding: 14px;
-            border-radius: 8px;
-            text-decoration: none;
-            color: #cbd5e1;
-            font-weight: 500;
-            border: 1px solid rgba(255, 255, 255, 0.05);
-            transition: all 0.2s ease;
+            display: flex; align-items: center; background: rgba(255, 255, 255, 0.03);
+            padding: 14px; border-radius: 8px; text-decoration: none; color: #cbd5e1;
+            font-weight: 500; border: 1px solid rgba(255, 255, 255, 0.05); transition: all 0.2s;
         }
-        .blog-item:hover {
-            background: rgba(56, 189, 248, 0.08);
-            color: #38bdf8;
-            border-color: rgba(56, 189, 248, 0.3);
-            transform: translateX(5px);
-        }
-        .blog-icon {
-            margin-right: 12px;
-            font-size: 18px;
-        }
+        .blog-item:hover { background: rgba(56, 189, 248, 0.08); color: #38bdf8; border-color: #38bdf8; transform: translateX(5px); }
+        .blog-icon { margin-right: 12px; font-size: 18px; }
         .btn-main {
-            display: block;
-            background: #2563eb;
-            color: #ffffff;
-            text-decoration: none;
-            padding: 14px;
-            border-radius: 8px;
-            font-weight: 600;
-            font-size: 16px;
-            transition: all 0.3s ease;
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            margin-top: 10px;
+            display: block; text-align: center; background: #2563eb; color: #ffffff;
+            text-decoration: none; padding: 14px; border-radius: 8px; font-weight: 600; margin-top: 25px;
         }
-        .btn-main:hover {
-            background: #1d4ed8;
-            box-shadow: 0 5px 15px rgba(37, 99, 235, 0.4);
-        }
-        .footer {
-            margin-top: 35px;
-            font-size: 12px;
-            color: #64748b;
-        }
-        @keyframes pulse {
-            0% { transform: scale(1); opacity: 0.8; }
-            50% { transform: scale(1.05); opacity: 1; }
-            100% { transform: scale(1); opacity: 0.8; }
-        }
+        .btn-main:hover { background: #1d4ed8; }
+        .footer { text-align: center; margin-top: 35px; font-size: 12px; color: #64748b; }
     </style>
 </head>
 <body>
-
     <div class="container">
-        <div class="logo-placeholder">💡</div>
-        <h1>Sietra Elektrik</h1>
-        <p class="desc">LED Aydınlatma Bloğu; enerji verimliliği yüksek endüstriyel aydınlatma, akıllı otomasyon sistemleri ve sektörel dijital arşiv entegrasyon merkezidir.</p>
-        
-        <span class="badge">Google Verified Security System</span>
-
-        <h2>✍️ Teknik Makale Arşivi</h2>
-        <div class="blog-list">
-            <a href="https://github.com/sietraelektrik-byte/sietraelektrik-byte/blob/main/arsiv/100-w-led-projektor-kac-m2-aydinlatir-2026-guncel-kapsamli-rehber.md" target="_blank" class="blog-item">
-                <span class="blog-icon">📝</span> 100W LED Projektör Kaç m² Aydınlatır? (2026 Güncel Kapsamlı Rehber)
-            </a>
-            <a href="https://github.com/sietraelektrik-byte/sietraelektrik-byte/blob/main/README.md" target="_blank" class="blog-item">
-                <span class="blog-icon">📚</span> Tüm Son 10 Blog Yazısını ve İçeriklerini Listele
-            </a>
+        <div class="header">
+            <div class="logo">💡</div>
+            <h1>Sietra Elektrik</h1>
+            <p class="desc">LED Aydınlatma Bloğu; enerji verimliliği yüksek endüstriyel aydınlatma, akıllı otomasyon sistemleri ve sektörel dijital arşiv entegrasyon merkezidir.</p>
+            <span class="badge">Google Verified Security System</span>
         </div>
+
+        <h2>📚 Dijital Sektörel Arşiv (Tüm Yazılar)</h2>
+        <div class="blog-list">
+</div>
 
         <a href="https://ledlamba.com" target="_blank" class="btn-main">🌐 Ledlamba.com Ana Kale (Faydalı Bilgiler)</a>
-
-        <div class="footer">
-            © 2026 Sietra Elektrik. Tüm Hakları Saklıdır.
-        </div>
+        <div class="footer">© 2026 Sietra Elektrik. Tüm Hakları Saklıdır.</div>
     </div>
-
 </body>
 </html>
