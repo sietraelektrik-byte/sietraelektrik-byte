@@ -16,7 +16,7 @@
             justify-content: center;
             align-items: center;
             min-height: 100vh;
-            padding: 40px 20px;
+            padding: 20px;
             box-sizing: border-box;
         }
         .container {
@@ -26,7 +26,7 @@
             border-radius: 16px;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
             border: 1px solid rgba(255, 255, 255, 0.1);
-            max-width: 650px;
+            max-width: 600px;
             backdrop-filter: blur(10px);
             width: 100%;
         }
@@ -41,7 +41,7 @@
             color: #38bdf8;
             letter-spacing: 1px;
         }
-        .desc {
+        p {
             font-size: 16px;
             color: #94a3b8;
             line-height: 1.6;
@@ -58,52 +58,39 @@
             border: 1px solid rgba(56, 189, 248, 0.2);
             margin-bottom: 30px;
         }
-        h2 {
-            font-size: 20px;
-            color: #f1f5f9;
-            text-align: left;
-            margin: 20px 0 15px 0;
-            border-left: 4px solid #38bdf8;
-            padding-left: 10px;
-        }
-        /* Dinamik Blog Listesi */
-        .blog-list {
-            text-align: left;
+        .links-area {
             display: flex;
             flex-direction: column;
-            gap: 10px;
-            margin-bottom: 30px;
-            max-height: 400px;
-            overflow-y: auto;
-            padding-right: 5px;
+            gap: 14px;
+            margin-top: 10px;
         }
-        .blog-item {
-            display: flex;
-            align-items: center;
-            background: rgba(255, 255, 255, 0.03);
-            padding: 14px;
-            border-radius: 8px;
+        .btn {
+            display: block;
+            background: #2563eb;
+            color: #ffffff;
             text-decoration: none;
-            color: #cbd5e1;
-            font-weight: 500;
-            border: 1px solid rgba(255, 255, 255, 0.05);
-            transition: all 0.2s ease;
+            padding: 15px;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 16px;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(255, 255, 255, 0.1);
         }
-        .blog-item:hover {
-            background: rgba(56, 189, 248, 0.08);
+        .btn:hover {
+            background: #1d4ed8;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(37, 99, 235, 0.4);
+        }
+        .btn-alt {
+            background: rgba(255, 255, 255, 0.05);
+            color: #f1f5f9;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        .btn-alt:hover {
+            background: rgba(255, 255, 255, 0.1);
             color: #38bdf8;
-            border-color: rgba(56, 189, 248, 0.3);
-            transform: translateX(5px);
-        }
-        .blog-icon {
-            margin-right: 12px;
-            font-size: 18px;
-        }
-        .loading {
-            color: #64748b;
-            font-style: italic;
-            text-align: center;
-            padding: 20px;
+            border-color: #38bdf8;
+            box-shadow: 0 5px 15px rgba(56, 189, 248, 0.2);
         }
         .footer {
             margin-top: 35px;
@@ -122,67 +109,19 @@
     <div class="container">
         <div class="logo-placeholder">💡</div>
         <h1>Sietra Elektrik</h1>
-        <p class="desc">LED Aydınlatma Bloğu; enerji verimliliği yüksek endüstriyel aydınlatma, akıllı otomasyon sistemleri ve sektörel dijital arşiv entegrasyon merkezidir.</p>
+        <p>LED Aydınlatma Bloğu; enerji verimliliği yüksek endüstriyel aydınlatma, akıllı otomasyon sistemleri ve sektörel dijital arşiv entegrasyon merkezidir.</p>
         
         <span class="badge">Google Verified Security System</span>
 
-        <h2>✍️ Arşivden Güncel Yazılar</h2>
-        <div class="blog-list" id="posts-container">
-            <div class="loading">Arşiv klasörü taranıyor ve yazılar yükleniyor...</div>
+        <div class="links-area">
+            <a href="https://github.com/sietraelektrik-byte/sietraelektrik-byte" target="_blank" class="btn">🚀 Son 10 Teknik Makaleyi Oku</a>
+            <a href="https://ledlamba.com" target="_blank" class="btn btn-alt">🌐 Ledlamba.com Ana Kale (Faydalı Bilgiler)</a>
         </div>
 
         <div class="footer">
             © 2026 Sietra Elektrik. Tüm Hakları Saklıdır.
         </div>
     </div>
-
-    <script>
-        // GitHub API kullanarak 'arsiv' klasöründeki dosyaları otomatik çeken esnaf kodu
-        async function loadArchivePosts() {
-            const container = document.getElementById('posts-container');
-            try {
-                // Mevcut deponun konumuna göre arşiv içeriğini listeler
-                const response = await fetch('https://api.github.com/repos/sietraelektrik-byte/sietraelektrik-byte/contents/arsiv');
-                if (!response.ok) throw new Error('Arşiv dizini okunamadı');
-                
-                const files = await response.ok ? await response.json() : [];
-                
-                // Sadece .md veya .html uzantılı dosyaları filtrele
-                const textFiles = files.filter(file => file.name.endsWith('.md') || file.name.endsWith('.html'));
-
-                if (textFiles.length === 0) {
-                    container.innerHTML = '<div class="loading">Arşiv klasöründe henüz yazı bulunamadı.</div>';
-                    return;
-                }
-
-                container.innerHTML = ''; // Loading yazısını temizle
-
-                // Dosyaları döngüye al ve listeye ekle
-                textFiles.forEach(file => {
-                    // Dosya ismindeki uzantıyı kaldır ve temiz bir başlık yap (- ve _ işaretlerini temizle)
-                    let cleanTitle = file.name.replace(/\.(md|html)$/i, '').replace(/[-_]/g, ' ');
-                    // İlk harfleri büyüt
-                    cleanTitle = cleanTitle.charAt(0).toUpperCase() + cleanTitle.slice(1);
-
-                    // GitHub Pages üzerindeki doğrudan linki oluştur
-                    const fileLink = `./arsiv/${file.name}`;
-
-                    const item = document.createElement('a');
-                    item.href = fileLink;
-                    item.className = 'blog-item';
-                    item.innerHTML = `<span class="blog-icon">📝</span> ${cleanTitle}`;
-                    container.appendChild(item);
-                });
-
-            } catch (error) {
-                console.error(error);
-                container.innerHTML = '<div class="loading" style="color: #ef4444;">Arşiv yazıları otomatik yüklenirken bir hata oluştu.</div>';
-            }
-        }
-
-        // Sayfa açıldığında taramayı başlat
-        document.addEventListener('DOMContentLoaded', loadArchivePosts);
-    </script>
 
 </body>
 </html>
